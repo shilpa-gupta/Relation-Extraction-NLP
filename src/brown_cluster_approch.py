@@ -2,6 +2,7 @@ import nltk
 
 TEST_DATA_PATH = "../data/test.tsv"
 TRAIN_DATA_PATH = "../data/train.tsv"
+N_CLUSTERS = 50
 
 
 def parse_data(train_data, test_data):
@@ -106,7 +107,7 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
     with open(out_path, 'w') as f:
         # Header info
         f.write("@RELATION institutions\n")
-        for i in range(len(all_tokens)):
+        for i in range(N_CLUSTERS):
             f.write("@ATTRIBUTE token_{} INTEGER\n".format(i))
 
         ### SPECIFY ADDITIONAL FEATURES HERE ###
