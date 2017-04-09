@@ -2,7 +2,6 @@ import nltk
 
 TEST_DATA_PATH = "../data/test.tsv"
 TRAIN_DATA_PATH = "../data/train.tsv"
-N_CLUSTERS = 50
 ID_LEN = 8
 
 
@@ -96,10 +95,10 @@ def create_feature_vectors(data, all_tokens):
         feature_vector.append(judgment)
 
         feature_vectors.append(feature_vector)
-    return feature_vectors
+    return feature_vectors, clusters
 
 
-def generate_arff_file(feature_vectors, all_tokens, out_path):
+def generate_arff_file(feature_vectors, clusters, out_path):
     """
     Input: (1) A list of all feature vectors for the data
              (2) A list of all unique tokens that occurred in the intermediate text
@@ -111,7 +110,7 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
     with open(out_path, 'w') as f:
         # Header info
         f.write("@RELATION institutions\n")
-        for i in range(N_CLUSTERS):
+        for i in range(len(clusters)):
             f.write("@ATTRIBUTE token_{} INTEGER\n".format(i))
 
         ### SPECIFY ADDITIONAL FEATURES HERE ###
@@ -133,6 +132,6 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
 
 if __name__ == "__main__":
     data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
-    feature_vectors = create_feature_vectors(data, all_tokens)
-    generate_arff_file(feature_vectors[:6000], all_tokens, "../data/cluster_arff/id_len_8/train.arff")
-    generate_arff_file(feature_vectors[6000:], all_tokens, "../data/cluster_arff/id_len_8/test.arff")
+    feature_vectors, clusters = create_feature_vectors(data, all_tokens)
+    generate_arff_file(feature_vectors[:6000], clusters, "../data/cluster_arff/id_len_8/train.arff")
+    generate_arff_file(feature_vectors[6000:], clusters, "../data/cluster_arff/id_len_8/test.arff")
