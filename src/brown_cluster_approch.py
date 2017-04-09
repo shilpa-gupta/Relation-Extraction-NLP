@@ -43,11 +43,13 @@ def parse_data(train_data, test_data):
 def load_clusters(fin):
     with open(fin, "r", encoding="utf8") as finput:
         dict = {}
+        clusters = []
         for line in finput:
             token = line.split()
             dict[token[1]] = token[0]
-
-    return dict
+            if token[0] not in clusters:
+                clusters.append(token[0])
+    return dict, clusters
             
 
 
@@ -66,19 +68,21 @@ def create_feature_vectors(data, all_tokens):
     This is also where any additional user-defined features can be added.
     """
 
-    cluster_dict = load_clusters("../data/paths")
+    cluster_dict, clusters = load_clusters("../data/paths")
     feature_vectors = []
     for instance in data:
         # BOW features
         # Gets the number of occurrences of each token
         # in the intermediate text
-        feature_vector = [0 for t in all_tokens]
+
+        feature_vector = [0 for t in clusters]
         intermediate_text = instance[4]
         #tokens = intermediate_text.split()
         tokens = nltk.word_tokenize(intermediate_text.lower())
         for token in tokens:
-            index = all_tokens.index(token.lower())
-            feature_vector[index] = int(cluster_dict[token])
+            if token in cluster_dict.keys():
+                index = clusters.index(cluster_dict[token.lower()])
+                feature_vector[index] += 1
 
         ### ADD ADDITIONAL FEATURES HERE ###
 

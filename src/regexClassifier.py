@@ -16,7 +16,9 @@ def extracting_intermediate_text(finput, foutput):
             for line in input:
                 line = line.lower()
                 intermediate_text = line.split("\t")[3]
-                output.write(intermediate_text + '\n')
+                intermediate_text = intermediate_text.lower()
+                tokens = nltk.word_tokenize(intermediate_text)
+                output.write(" ".join(tokens) + '\n')
 
 
 extracting_intermediate_text("../data/train.tsv", "../data/intermediate_text.txt")
