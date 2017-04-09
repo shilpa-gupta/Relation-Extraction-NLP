@@ -3,6 +3,7 @@ import nltk
 TEST_DATA_PATH = "../data/test.tsv"
 TRAIN_DATA_PATH = "../data/train.tsv"
 N_CLUSTERS = 50
+ID_LEN = 8
 
 
 def parse_data(train_data, test_data):
@@ -47,9 +48,12 @@ def load_clusters(fin):
         clusters = []
         for line in finput:
             token = line.split()
-            dict[token[1]] = token[0]
-            if token[0] not in clusters:
-                clusters.append(token[0])
+            clust_id = token[0][0:ID_LEN]
+            print(clust_id)
+            word = token[1]
+            dict[word] = clust_id
+            if clust_id not in clusters:
+                clusters.append(clust_id)
     return dict, clusters
             
 
@@ -130,5 +134,5 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
 if __name__ == "__main__":
     data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
     feature_vectors = create_feature_vectors(data, all_tokens)
-    generate_arff_file(feature_vectors[:6000], all_tokens, "../data/cluster_arff/train.arff")
-    generate_arff_file(feature_vectors[6000:], all_tokens, "../data/cluster_arff/test.arff")
+    generate_arff_file(feature_vectors[:6000], all_tokens, "../data/cluster_arff/id_len_8/train.arff")
+    generate_arff_file(feature_vectors[6000:], all_tokens, "../data/cluster_arff/id_len_8/test.arff")
