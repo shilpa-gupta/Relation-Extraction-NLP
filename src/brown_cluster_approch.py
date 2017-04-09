@@ -2,7 +2,7 @@ import nltk
 
 TEST_DATA_PATH = "../data/test.tsv"
 TRAIN_DATA_PATH = "../data/train.tsv"
-ID_LEN = 8
+ID_LEN = 1
 
 
 def parse_data(train_data, test_data):
@@ -133,5 +133,5 @@ def generate_arff_file(feature_vectors, clusters, out_path):
 if __name__ == "__main__":
     data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
     feature_vectors, clusters = create_feature_vectors(data, all_tokens)
-    generate_arff_file(feature_vectors[:6000], clusters, "../data/cluster_arff/id_len_8/train.arff")
-    generate_arff_file(feature_vectors[6000:], clusters, "../data/cluster_arff/id_len_8/test.arff")
+    generate_arff_file(feature_vectors[:6000], clusters, "../data/cluster_arff/id_len_1/train.arff")
+    generate_arff_file(feature_vectors[6000:], clusters, "../data/cluster_arff/id_len_1/test.arff")
