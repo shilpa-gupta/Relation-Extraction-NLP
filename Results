@@ -31,6 +31,7 @@ With BOW :
 	   a   b   <-- classified as
 	 543 111 |   a = yes
 	 180 166 |   b = no
+	 
 
 With tokenizer
 	=== Evaluation on test set ===
