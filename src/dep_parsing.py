@@ -3,7 +3,7 @@ import sys
 import nltk
 from nltk.parse.stanford import StanfordDependencyParser
 from nltk.parse.dependencygraph import DependencyGraph
-
+import requests
 # import sys
 # import codecs
 #
@@ -15,11 +15,11 @@ from nltk.parse.dependencygraph import DependencyGraph
 # reload(sys)
 # sys.setdefaultencoding('utf8')
 
-TEST_DATA_PATH = "../data/train.tsv"
-TRAIN_DATA_PATH = "../data/test.tsv"
+TEST_DATA_PATH = "../data/test.tsv"
+TRAIN_DATA_PATH = "../data/train.tsv"
 # path_to_jar = "../stanford-parser-full-2015-12-09/stanford-parser-full-2015-12-09/stanford-parser.jar"
 # path_to_models_jar = "../stanford-parser-full-2015-12-09/stanford-parser-full-2015-12-09/stanford-parser-3.6.0-models.jar"
-dep_parser = StanfordDependencyParser(model_path="edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz")
+#dep_parser = StanfordDependencyParser(model_path="edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz")
 
 
 
@@ -86,7 +86,8 @@ def parse_data(train_data, test_data):
 
     all_tokens = []
     data = []
-    for fp in [train_data, test_data]:
+    #for fp in [train_data, test_data]:
+    for fp in [test_data]:
         with open(fp, 'r', encoding='utf-8') as f:
             for line in f:
                 institution, person, snippet, intermediate_text, judgment = line.split("\t")
@@ -181,10 +182,11 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
             entry = ",".join(features)
             f.write("{" + entry + "}\n")
 
+
 def save_the_dep_graph_as_conll():
-    data, all_tokens = parse_data(TRAIN_DATA_PATH,TEST_DATA_PATH)
+    data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
     count = 0
-    with open("train.conll",'w', encoding='utf-8') as fout:
+    with open("test.conll",'w', encoding='utf-8') as fout:
         for instance in data:
             count += 1
             intermediate_text = instance[4]
@@ -200,9 +202,12 @@ def save_the_dep_graph_as_conll():
             institution = institution[0]
 
             sentence = person + " " + intermediate_text + " " + institution
-            result = next(dep_parser.raw_parse(sentence))
+            result = requests.post('http://localhost:9000/?properties={%22annotators%22%3A%22depparse%2Cssplit%2Cpos%22%2C%22outputFormat%22%3A%22conll%22}', data=sentence.encode('utf-8'))
+            #print(result.text)
+
+            #result = next(dep_parser.raw_parse(sentence))
             print(count)
-            fout.write(result.to_conll(4) + "\n\n")
+            fout.write(result.text + "\n")
 
 save_the_dep_graph_as_conll()
 
