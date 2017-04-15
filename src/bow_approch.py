@@ -27,7 +27,16 @@ def parse_data(train_data, test_data):
             for line in f:
                 institution, person, snippet, intermediate_text, judgment = line.split("\t")
                 judgment = judgment.strip()
-
+                intermediate_text = intermediate_text.lower()
+                intermediate_text = intermediate_text.replace("/", " ")
+                intermediate_text = intermediate_text.replace("-", " ")
+                intermediate_text = intermediate_text.replace("(", " ")
+                intermediate_text = intermediate_text.replace(")", " ")
+                intermediate_text = intermediate_text.replace(".", " ")
+                intermediate_text = intermediate_text.replace("?", " ")
+                intermediate_text = intermediate_text.replace(",", " ")
+                intermediate_text = intermediate_text.replace(";", " ")
+                intermediate_text.strip()
                 # Build up a list of unique tokens that occur in the intermediate text
                 # This is needed to create BOW feature vectors
                 #tokens = intermediate_text.split()
@@ -110,5 +119,5 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
 if __name__ == "__main__":
     data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
     feature_vectors = create_feature_vectors(data, all_tokens)
-    generate_arff_file(feature_vectors[:6000], all_tokens, "../data/token_arff/train.arff")
-    generate_arff_file(feature_vectors[6000:], all_tokens, "../data/token_arff/test.arff")
+    generate_arff_file(feature_vectors[:6000], all_tokens, "../data/token_arff_clean/train.arff")
+    generate_arff_file(feature_vectors[6000:], all_tokens, "../data/token_arff_clean/test.arff")
