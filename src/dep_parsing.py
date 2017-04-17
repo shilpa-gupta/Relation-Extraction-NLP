@@ -1,9 +1,15 @@
+# TO-DO
+# 1. correcting the person and institution to combined words then the first or last word
+# 2. correcting the case of words to lower case in all the cases of person and institution as well in parse data
+# 3. Have to combine the train and test data tokens together
+
 #  -*- coding: utf-8 -*-
 import sys
 import nltk
 from nltk.parse.stanford import StanfordDependencyParser
 from nltk.parse.dependencygraph import DependencyGraph
-import requests
+from DependencyTree import DependencyTree
+# import requests
 # import sys
 # import codecs
 #
@@ -25,21 +31,24 @@ TRAIN_DATA_PATH = "../data/train.tsv"
 
 def is_reachable(tree, e1, e2):
     E2 = {}
-    dep_graph = next(tree)
-    reachable = 0
-    start = E2
-    for index in range(len(dep_graph.nodes)):
-        node = dep_graph.nodes[index]
-        if(node['word'] == e2):
+    dep_graph = tree
+    reachable = -1
+    start = None
+    for index in range(len(dep_graph)):
+        node = dep_graph[index]
+        if(node['word'].lower() == e2.lower()):
+            print("fount e2 in sentence")
             start = node
             break
-
-    while start['word'] is not None:
-        if(start['word'] == e1):
-            reachable = 1
-            break
-        else:
-            start = dep_graph.nodes[start['head']]
+    if start is None:
+        print("count not fine e2 in sentence")
+    else:
+        while start['head'] is not '0':
+            if(start['word'].lower() == e1.lower()):
+                reachable = 1
+                break
+            else:
+                start = dep_graph[int(start['head'])-1]
     print(reachable)
     return reachable
 
@@ -47,24 +56,19 @@ def is_reachable(tree, e1, e2):
 
 
 
-def get_dep_feat(intermediate_text, person, institution):
+def get_dep_feat(tree, person, institution):
     features = []
 
     # making the person entity as the last name of the person for simplicity
     person = person.split()
-    person = person[len(person) - 1]
+    person = person[0]
 
     # making the institution the first word of the institution name for simplicity
     institution = institution.split()
-    institution = institution[len(institution) - 1]
-
-    sentence = person + " " + intermediate_text + " " + institution
-
-    # dependency_parser = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
-    result = dep_parser.raw_parse(sentence)
+    institution = institution[0]
 
     # Feature 1 : is e1 is reachable from e2 if we traverse in the dependency tree
-    features.extend([is_reachable(result, person, institution)])
+    features.extend([is_reachable(tree, person, institution)])
 
     return features
 
@@ -127,6 +131,8 @@ def create_feature_vectors(data, all_tokens):
     This is also where any additional user-defined features can be added.
     """
     feature_vectors = []
+    dep_trees_train = load_dep_trees("../data/test.conll")
+    i = 0
     for instance in data:
         # BOW features
         # Gets the number of occurrences of each token
@@ -140,13 +146,14 @@ def create_feature_vectors(data, all_tokens):
             feature_vector[index] += 1
 
         ### ADD ADDITIONAL FEATURES HERE ###
-        feature_vector.extend(get_dep_feat(intermediate_text, instance[0].lower(), instance[1].lower()))
+        feature_vector.extend(get_dep_feat(dep_trees_train[i], instance[0].lower(), instance[1].lower()))
 
         # Class label
         judgment = instance[2]
         feature_vector.append(judgment)
 
         feature_vectors.append(feature_vector)
+        i += 1
     return feature_vectors
 
 
@@ -167,7 +174,7 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
 
         ### SPECIFY ADDITIONAL FEATURES HERE ###
         # For example: f.write("@ATTRIBUTE custom_1 REAL\n")
-
+        f.write("@ATTRIBUTE token_{} INTEGER\n")
         # Classes
         f.write("@ATTRIBUTE class {yes,no}\n")
 
@@ -209,15 +216,25 @@ def save_the_dep_graph_as_conll():
             print(count)
             fout.write(result.text + "\n")
 
-save_the_dep_graph_as_conll()
-
 def load_dep_trees(finput):
-    out = DependencyGraph.load('train.conll')
-    print("loaded")
-
-#load_dep_trees("train.conll")
-# if __name__ == "__main__":
-    # data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
-    # feature_vectors = create_feature_vectors(data, all_tokens)
-    # generate_arff_file(feature_vectors[:6000], all_tokens, "../data/token_arff_clean/train.arff")
-    # generate_arff_file(feature_vectors[6000:], all_tokens, "../data/token_arff_clean/test.arff")
+    tree_list = []
+    with open(finput, 'r', encoding='utf-8') as input:
+        for line in input.read().split("\n\n"):
+            tree = []
+            edges = line.split("\n")
+            for edge in edges:
+                node = {}
+                tokens = edge.split("\t")ee
+                node['word'] = tokens[1]
+                node['tag'] = tokens[3]
+                node['head'] = tokens[5]
+                node['label'] = tokens[6]
+                tree.append(node)
+            tree_list.append(tree)
+    return tree_list
+    
+if __name__ == "__main__":
+    data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
+    feature_vectors = create_feature_vectors(data, all_tokens)
+    #generate_arff_file(feature_vectors, all_tokens, "../data/reachable_arff/train.arff")
+    generate_arff_file(feature_vectors, all_tokens, "../data/reachable_arff/test.arff")

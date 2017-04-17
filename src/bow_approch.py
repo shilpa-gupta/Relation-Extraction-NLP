@@ -28,18 +28,18 @@ def parse_data(train_data, test_data):
                 institution, person, snippet, intermediate_text, judgment = line.split("\t")
                 judgment = judgment.strip()
                 intermediate_text = intermediate_text.lower()
-                intermediate_text = intermediate_text.replace("/", " ")
-                intermediate_text = intermediate_text.replace("-", " ")
-                intermediate_text = intermediate_text.replace("(", " ")
-                intermediate_text = intermediate_text.replace(")", " ")
-                intermediate_text = intermediate_text.replace(".", " ")
-                intermediate_text = intermediate_text.replace("?", " ")
-                intermediate_text = intermediate_text.replace(",", " ")
-                intermediate_text = intermediate_text.replace(";", " ")
+                # intermediate_text = intermediate_text.replace("/", " ")
+                # intermediate_text = intermediate_text.replace("-", " ")
+                # intermediate_text = intermediate_text.replace("(", " ")
+                # intermediate_text = intermediate_text.replace(")", " ")
+                # intermediate_text = intermediate_text.replace(".", " ")
+                # intermediate_text = intermediate_text.replace("?", " ")
+                # intermediate_text = intermediate_text.replace(",", " ")
+                # intermediate_text = intermediate_text.replace(";", " ")
                 intermediate_text.strip()
                 # Build up a list of unique tokens that occur in the intermediate text
                 # This is needed to create BOW feature vectors
-                #tokens = intermediate_text.split()
+                # tokens = intermediate_text.split()
                 tokens = nltk.word_tokenize(intermediate_text)
                 for t in tokens:
                     t = t.lower()
@@ -68,7 +68,15 @@ def create_feature_vectors(data, all_tokens):
         # in the intermediate text
         feature_vector = [0 for t in all_tokens]
         intermediate_text = instance[4]
-        #tokens = intermediate_text.split()
+        # intermediate_text = intermediate_text.replace("/", " ")
+        # intermediate_text = intermediate_text.replace("-", " ")
+        # intermediate_text = intermediate_text.replace("(", " ")
+        # intermediate_text = intermediate_text.replace(")", " ")
+        # intermediate_text = intermediate_text.replace(".", " ")
+        # intermediate_text = intermediate_text.replace("?", " ")
+        # intermediate_text = intermediate_text.replace(",", " ")
+        # intermediate_text = intermediate_text.replace(";", " ")
+        # tokens = intermediate_text.split()
         tokens = nltk.word_tokenize(intermediate_text)
         for token in tokens:
             index = all_tokens.index(token.lower())
@@ -119,5 +127,5 @@ def generate_arff_file(feature_vectors, all_tokens, out_path):
 if __name__ == "__main__":
     data, all_tokens = parse_data(TRAIN_DATA_PATH, TEST_DATA_PATH)
     feature_vectors = create_feature_vectors(data, all_tokens)
-    generate_arff_file(feature_vectors[:6000], all_tokens, "../data/token_arff_clean/train.arff")
-    generate_arff_file(feature_vectors[6000:], all_tokens, "../data/token_arff_clean/test.arff")
+    generate_arff_file(feature_vectors[:6000], all_tokens, "../data/token_arff/train.arff")
+    generate_arff_file(feature_vectors[6000:], all_tokens, "../data/token_arff/test.arff")

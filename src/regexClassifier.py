@@ -10,23 +10,7 @@ attended/attended the, graduate of the, matriculated at, enrolled at the/enrolle
 """
 
 
-def extracting_intermediate_text(finput1, finput2, foutput):
-    with open(foutput, 'w', encoding="utf8") as output:
-        with open(finput1, 'r', encoding="utf8") as input:   
-            for line in input:
-                line = line.lower()
-                text = line.split("\t")[2]
-                text = text.lower()
-                tokens = nltk.word_tokenize(text)
-                output.write(" ".join(tokens) + '\n')
-        with open(finput2, 'r', encoding="utf8") as input:
-            for line in input:
-                line = line.lower()
-                text = line.split("\t")[3]
-                text = text.lower()
-                tokens = nltk.word_tokenize(text)
-                output.write(" ".join(tokens) + '\n')
-extracting_intermediate_text("../data/train.tsv", "../data/test.tsv", "../data/text.txt")
+
 
 def predicting_relations(finput):
     TP = 0
