@@ -4,7 +4,6 @@
 4	at	_	IN	_	5	case
 5	Eton	_	NNP	_	3	nmod
 
-
 1	Jason	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	recording	_	VBG	_	2	xcomp
@@ -12,14 +11,12 @@
 5	at	_	IN	_	6	case
 6	Full	_	JJ	_	3	advcl
 
-
 1	Anderson	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	City	_	NNP	_	3	nmod
-
 
 1	Charles	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -40,7 +37,6 @@
 17	at	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	University	_	NNP	_	13	nmod
-
 
 1	Tim	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
@@ -66,7 +62,6 @@
 22	he	_	PRP	_	23	nsubj
 23	attended	_	VBD	_	19	acl:relcl
 24	Kamiak	_	NNP	_	23	dobj
-
 
 1	Nancy	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -102,17 +97,14 @@
 32	the	_	DT	_	33	det
 33	Film	_	NNP	_	24	conj
 
-
 1	Dick	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Colgate	_	NNP	_	2	dobj
-
 
 1	Dennis	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	at	_	IN	_	4	case
 4	Bedford	_	NNP	_	2	nmod
-
 
 1	Dee	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -127,7 +119,6 @@
 11	attended	_	VBD	_	4	acl:relcl
 12	Princeton	_	NNP	_	11	dobj
 
-
 1	Avner	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -141,7 +132,6 @@
 11	at	_	IN	_	13	case
 12	the	_	DT	_	13	det
 13	Hebrew	_	NNP	_	10	nmod
-
 
 1	Robert	_	NNP	_	2	nsubj
 2	performed	_	VBN	_	0	ROOT
@@ -167,7 +157,6 @@
 22	the	_	DT	_	23	det
 23	Conservatory	_	NNP	_	21	dobj
 
-
 1	Henry	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
 3	an	_	DT	_	7	det
@@ -185,7 +174,6 @@
 15	at	_	IN	_	17	case
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
-
 
 1	Samir	_	NNP	_	3	nsubj
 2	also	_	RB	_	3	advmod
@@ -222,7 +210,6 @@
 33	the	_	DT	_	34	det
 34	American	_	NNP	_	31	nmod
 
-
 1	Reginald	_	NNP	_	3	compound
 2	27	_	CD	_	3	nummod
 3	february	_	NNP	_	0	ROOT
@@ -245,7 +232,6 @@
 20	of	_	IN	_	22	case
 21	the	_	DT	_	22	det
 22	Royal	_	NNP	_	19	nmod
-
 
 1	Adam	_	NNP	_	2	nsubj
 2	began	_	VBD	_	0	ROOT
@@ -324,7 +310,6 @@
 75	attended	_	VBD	_	40	dep
 76	New	_	NNP	_	75	dobj
 
-
 1	Lydia	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
 3	1927	_	CD	_	1	nummod
@@ -348,7 +333,6 @@
 21	attended	_	VBD	_	10	acl:relcl
 22	the	_	DT	_	23	det
 23	University	_	NNP	_	21	dobj
-
 
 1	Cary	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
@@ -407,7 +391,6 @@
 55	from	_	IN	_	56	case
 56	Simon	_	NNP	_	54	nmod
 
-
 1	Bobby	_	NNP	_	2	compound
 2	eaton	_	NNP	_	3	nsubj
 3	trained	_	VBD	_	0	ROOT
@@ -416,7 +399,6 @@
 6	at	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	WCW	_	NNP	_	3	nmod
-
 
 1	Rafael	_	NNP	_	2	compound
 2	cordova	_	NN	_	4	nsubjpass
@@ -578,7 +560,6 @@
 158	the	_	DT	_	159	det
 159	University	_	NNP	_	156	nmod
 
-
 1	Monica	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
@@ -606,18 +587,15 @@
 25	the	_	DT	_	26	det
 26	University	_	NNP	_	20	nmod
 
-
 1	Ralph	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Utrecht	_	NNP	_	2	dobj
-
 
 1	Jimmy	_	NNP	_	0	ROOT
 2	under	_	IN	_	5	case
 3	head	_	NN	_	5	compound
 4	coach	_	NN	_	5	compound
 5	Samford	_	NNP	_	1	nmod
-
 
 1	Abdul	_	NNP	_	15	nsubj
 2	and	_	CC	_	1	cc
@@ -635,7 +613,6 @@
 14	he	_	PRP	_	15	nsubj
 15	attended	_	VBD	_	0	ROOT
 16	Habibia	_	NNP	_	15	dobj
-
 
 1	Matthew	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -681,7 +658,6 @@
 42	the	_	DT	_	43	det
 43	Royal	_	NNP	_	40	nmod
 
-
 1	Mark	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -691,7 +667,6 @@
 7	graduated	_	VBD	_	3	parataxis
 8	from	_	IN	_	9	case
 9	Central	_	NNP	_	7	nmod
-
 
 1	Adrian	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -712,7 +687,6 @@
 17	at	_	IN	_	18	case
 18	Merchant	_	NNP	_	16	nmod
 
-
 1	Lewis	_	NNP	_	6	compound
 2	and	_	CC	_	1	cc
 3	rené	_	NN	_	1	conj
@@ -727,7 +701,6 @@
 12	of	_	IN	_	14	case
 13	the	_	DT	_	14	det
 14	United	_	NNP	_	11	nmod
-
 
 1	David	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -802,7 +775,6 @@
 71	at	_	IN	_	72	case
 72	Johns	_	NNP	_	70	nmod
 
-
 1	Orange	_	NNP	_	2	compound
 2	august	_	NNP	_	10	nsubj
 3	23	_	CD	_	4	compound
@@ -863,14 +835,12 @@
 58	at	_	IN	_	59	case
 59	Monmouth	_	NNP	_	57	nmod
 
-
 1	Klaus	_	NNP	_	2	nsubj
 2	did	_	VBD	_	0	ROOT
 3	research	_	NN	_	2	dobj
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	University	_	NNP	_	2	nmod
-
 
 1	Research	_	NNP	_	17	nsubj
 2	where	_	WRB	_	4	advmod
@@ -913,7 +883,6 @@
 39	junior	_	NN	_	40	compound
 40	Corpus	_	NNP	_	34	acl:relcl
 
-
 1	Mart	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	the	_	DT	_	5	det
@@ -938,7 +907,6 @@
 22	the	_	DT	_	23	det
 23	University	_	NNP	_	21	dobj
 
-
 1	Maureen	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -960,7 +928,6 @@
 19	at	_	IN	_	20	case
 20	Trinity	_	NNP	_	18	nmod
 
-
 1	William	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -980,7 +947,6 @@
 17	he	_	PRP	_	18	nsubj
 18	entered	_	VBD	_	16	acl:relcl
 19	Miami	_	NNP	_	18	dobj
-
 
 1	Shivanthini	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
@@ -1053,7 +1019,6 @@
 69	uk	_	NN	_	70	compound
 70	Cyfarthfa	_	NN	_	65	conj
 
-
 1	Tesfaye	_	NNP	_	2	nsubj
 2	started	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	4	nmod:poss
@@ -1078,7 +1043,6 @@
 22	studied	_	VBD	_	20	acl:relcl
 23	at	_	IN	_	24	case
 24	Northwestern	_	NNP	_	22	nmod
-
 
 1	Charles	_	NNP	_	0	ROOT
 2	1876	_	CD	_	3	compound
@@ -1107,7 +1071,6 @@
 25	Blundell	_	NNP	_	24	nmod:poss
 26	's	_	POS	_	25	case
 
-
 1	Joe	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	a	_	DT	_	6	det
@@ -1128,7 +1091,6 @@
 18	from	_	IN	_	19	case
 19	Penfield	_	NNP	_	17	nmod
 
-
 1	Lois	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	her	_	PRP$	_	4	nmod:poss
@@ -1138,7 +1100,6 @@
 7	from	_	IN	_	9	case
 8	the	_	DT	_	9	det
 9	Pratt	_	NNP	_	6	nmod
-
 
 1	Max	_	NNP	_	3	compound
 2	12	_	CD	_	3	nummod
@@ -1167,7 +1128,6 @@
 25	husbandry	_	NN	_	21	nmod
 26	from	_	IN	_	27	case
 27	University	_	NNP	_	19	nmod
-
 
 1	Todd	_	NNP	_	2	nsubj
 2	began	_	VBD	_	0	ROOT
@@ -1207,7 +1167,6 @@
 36	to	_	TO	_	37	case
 37	Bentley	_	NNP	_	35	nmod
 
-
 1	Peter	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -1228,7 +1187,6 @@
 18	education	_	NN	_	15	dobj
 19	at	_	IN	_	20	case
 20	St.	_	NNP	_	15	nmod
-
 
 1	John	_	NNP	_	6	compound
 2	cornell	_	NNP	_	6	compound
@@ -1258,7 +1216,6 @@
 26	from	_	IN	_	28	case
 27	the	_	DT	_	28	det
 28	United	_	NNP	_	25	nmod
-
 
 1	Guy	_	NNP	_	32	nsubjpass
 2	where	_	WRB	_	4	advmod
@@ -1296,7 +1253,6 @@
 34	the	_	DT	_	35	det
 35	University	_	NNP	_	32	nmod
 
-
 1	Robert	_	NNP	_	10	dobj
 2	in	_	IN	_	6	case
 3	new	_	JJ	_	6	amod
@@ -1316,7 +1272,6 @@
 17	he	_	PRP	_	18	nsubj
 18	attended	_	VBD	_	16	acl:relcl
 19	Howard	_	NNP	_	18	dobj
-
 
 1	Matthew	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
@@ -1359,7 +1314,6 @@
 39	the	_	DT	_	40	det
 40	Carnegie	_	NNP	_	37	nmod
 
-
 1	Michael	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -1390,7 +1344,6 @@
 28	attended	_	VBD	_	25	advcl
 29	Cherrybrook	_	NNP	_	28	dobj
 
-
 1	I.	_	NN	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -1404,7 +1357,6 @@
 11	graduated	_	VBD	_	4	acl:relcl
 12	from	_	IN	_	13	case
 13	Temple	_	NNP	_	11	nmod
-
 
 1	Roberto	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -1500,13 +1452,11 @@
 92	the	_	DT	_	93	det
 93	University	_	NNP	_	88	nmod
 
-
 1	Anderson	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Winchester	_	NNP	_	3	nmod
-
 
 1	Harold	_	NNP	_	0	ROOT
 2	a	_	DT	_	4	det
@@ -1562,7 +1512,6 @@
 52	at	_	IN	_	53	case
 53	Columbia	_	NNP	_	51	nmod
 
-
 1	Ruth	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	0	ROOT
 3	up	_	RP	_	2	compound:prt
@@ -1586,7 +1535,6 @@
 21	at	_	IN	_	23	case
 22	the	_	DT	_	23	det
 23	High	_	NNP	_	20	nmod
-
 
 1	John	_	NNP	_	2	compound
 2	july	_	NNP	_	0	ROOT
@@ -1631,7 +1579,6 @@
 41	at	_	IN	_	42	case
 42	Oberlin	_	NNP	_	38	nmod
 
-
 1	John	_	NNP	_	3	dobj
 2	he	_	PRP	_	3	nsubj
 3	matriculated	_	VBD	_	0	ROOT
@@ -1668,7 +1615,6 @@
 34	``	_	``	_	33	punct
 35	Jesus	_	NNP	_	34	root
 
-
 1	Zane	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -1684,7 +1630,6 @@
 13	he	_	PRP	_	14	nsubj
 14	attended	_	VBD	_	12	acl:relcl
 15	Newtown	_	NNP	_	14	dobj
-
 
 1	Abraham	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -1708,7 +1653,6 @@
 20	he	_	PRP	_	21	nsubj
 21	attended	_	VBD	_	12	dep
 22	Brown	_	NNP	_	21	dobj
-
 
 1	Helmut	_	NNP	_	11	nsubj
 2	born	_	VBN	_	1	acl
@@ -1742,7 +1686,6 @@
 30	year	_	NN	_	24	conj
 31	at	_	IN	_	32	case
 32	Cairo	_	NNP	_	30	nmod
-
 
 1	Gustav	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -1796,7 +1739,6 @@
 50	the	_	DT	_	51	det
 51	Royal	_	NNP	_	48	nmod
 
-
 1	Elwood	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -1843,7 +1785,6 @@
 44	the	_	DT	_	45	det
 45	University	_	NNP	_	36	nmod
 
-
 1	Alexander	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
 3	4	_	CD	_	4	nummod
@@ -1858,7 +1799,6 @@
 12	educated	_	VBN	_	9	acl:relcl
 13	at	_	IN	_	14	case
 14	Eton	_	NNP	_	12	nmod
-
 
 1	Julianne	_	NN	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -1892,7 +1832,6 @@
 30	attended	_	VBD	_	28	ccomp
 31	Marymount	_	NNP	_	30	dobj
 
-
 1	Emma	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
 3	an	_	DT	_	5	det
@@ -1903,7 +1842,6 @@
 8	at	_	IN	_	9	case
 9	Oberlin	_	NNP	_	5	nmod
 
-
 1	Patrick	_	NNP	_	2	nsubj
 2	obtained	_	VBD	_	0	ROOT
 3	a	_	DT	_	4	det
@@ -1912,7 +1850,6 @@
 6	the	_	DT	_	7	det
 7	Katholieke	_	NNP	_	2	nmod
 
-
 1	Llwyn	_	JJ	_	4	amod
 2	llanfyllin	_	NN	_	4	compound
 3	county	_	NN	_	4	compound
@@ -1920,7 +1857,6 @@
 5	he	_	PRP	_	6	nsubj
 6	attended	_	VBD	_	4	acl:relcl
 7	Rugby	_	NNP	_	6	dobj
-
 
 1	Kyle	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -1939,7 +1875,6 @@
 15	the	_	DT	_	16	det
 16	University	_	NNP	_	12	nmod
 
-
 1	Travis	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	6	case
@@ -1955,11 +1890,9 @@
 13	attended	_	VBD	_	2	ccomp
 14	Louisburg	_	NNP	_	13	dobj
 
-
 1	Luke	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	St.	_	NNP	_	2	dobj
-
 
 1	Johann	_	NNP	_	2	compound
 2	c	_	NN	_	7	nsubj
@@ -1991,7 +1924,6 @@
 28	at	_	IN	_	30	case
 29	the	_	DT	_	30	det
 30	University	_	NNP	_	25	nmod
-
 
 1	Canuto	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -2026,7 +1958,6 @@
 31	from	_	IN	_	33	case
 32	the	_	DT	_	33	det
 33	Technical	_	NNP	_	26	nmod
-
 
 1	Gunnar	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -2116,7 +2047,6 @@
 86	from	_	IN	_	87	case
 87	Riga	_	NNP	_	82	nmod
 
-
 1	Thomas	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -2130,7 +2060,6 @@
 11	at	_	IN	_	12	case
 12	Westminster	_	NNP	_	10	nmod
 
-
 1	Edward	_	NNP	_	5	nsubj
 2	and	_	CC	_	1	cc
 3	sophia	_	NN	_	1	conj
@@ -2140,7 +2069,6 @@
 7	studied	_	VBN	_	5	ccomp
 8	at	_	IN	_	9	case
 9	Boston	_	NNP	_	7	nmod
-
 
 1	Robert	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
@@ -2164,7 +2092,6 @@
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	16	nmod
 
-
 1	Gonzalo	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
 3	1972	_	CD	_	1	nummod
@@ -2181,7 +2108,6 @@
 14	of	_	IN	_	15	case
 15	Yale	_	NNP	_	13	nmod
 
-
 1	David	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	4	nmod:poss
@@ -2191,7 +2117,6 @@
 7	from	_	IN	_	9	case
 8	the	_	DT	_	9	det
 9	University	_	NNP	_	2	nmod
-
 
 1	Mike	_	NNP	_	24	nsubj
 2	in	_	IN	_	4	case
@@ -2264,7 +2189,6 @@
 69	signed	_	VBD	_	62	acl:relcl
 70	Pine	_	NNP	_	69	dobj
 
-
 1	Dimitrios	_	NNP	_	3	nsubj
 2	a	_	DT	_	3	det
 3	politician	_	NN	_	0	ROOT
@@ -2296,7 +2220,6 @@
 29	the	_	DT	_	30	det
 30	University	_	NNP	_	27	nmod
 
-
 1	Melissa	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	also	_	RB	_	5	advmod
@@ -2305,7 +2228,6 @@
 6	of	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	University	_	NNP	_	5	nmod
-
 
 1	David	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
@@ -2326,7 +2248,6 @@
 17	work	_	NN	_	15	dobj
 18	at	_	IN	_	19	case
 19	Wichita	_	NNP	_	15	nmod
-
 
 1	Rajiv	_	NNP	_	3	compound
 2	10	_	CD	_	3	nummod
@@ -2362,7 +2283,6 @@
 32	attended	_	VBD	_	8	acl:relcl
 33	Auckland	_	NNP	_	32	dobj
 
-
 1	Bartle	_	NNP	_	3	nmod:poss
 2	's	_	POS	_	1	case
 3	father	_	NN	_	6	nsubjpass
@@ -2396,7 +2316,6 @@
 31	from	_	IN	_	32	case
 32	Harvard	_	NNP	_	30	nmod
 
-
 1	Alan	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	0	ROOT
 3	up	_	RP	_	2	compound:prt
@@ -2408,7 +2327,6 @@
 9	attended	_	VBD	_	2	ccomp
 10	the	_	DT	_	11	det
 11	College	_	NNP	_	9	dobj
-
 
 1	Keichi	_	NNP	_	7	nsubj
 2	1914	_	CD	_	3	compound
@@ -2431,7 +2349,6 @@
 19	attended	_	VBD	_	12	parataxis
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	19	dobj
-
 
 1	Irving	_	NNP	_	2	compound
 2	january	_	NNP	_	15	nsubj
@@ -2471,7 +2388,6 @@
 36	from	_	IN	_	37	case
 37	Montana	_	NNP	_	29	nmod
 
-
 1	Ted	_	NNP	_	3	compound
 2	aka	_	FW	_	3	compound
 3	edward	_	FW	_	10	nsubj
@@ -2489,7 +2405,6 @@
 15	of	_	IN	_	17	case
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
-
 
 1	Elizabeth	_	NNP	_	3	nsubj
 2	she	_	PRP	_	3	nsubj
@@ -2534,7 +2449,6 @@
 41	the	_	DT	_	42	det
 42	American	_	NNP	_	40	dobj
 
-
 1	David	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
 3	1919	_	CD	_	1	nummod
@@ -2560,7 +2474,6 @@
 23	from	_	IN	_	25	case
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	22	nmod
-
 
 1	Paul	_	NNP	_	2	compound
 2	december	_	NNP	_	12	nsubj
@@ -2592,11 +2505,9 @@
 28	from	_	IN	_	29	case
 29	Millsaps	_	NNP	_	27	nmod
 
-
 1	Jerry	_	NNP	_	2	nsubj
 2	subpoenaed	_	VBD	_	0	ROOT
 3	House	_	NNP	_	2	dobj
-
 
 1	Wilfred	_	NNP	_	0	ROOT
 2	who	_	WP	_	4	nsubj
@@ -2609,7 +2520,6 @@
 9	educated	_	VBN	_	6	acl:relcl
 10	at	_	IN	_	11	case
 11	Nottingham	_	NNP	_	9	nmod
-
 
 1	Thomas	_	NNP	_	2	nsubj
 2	won	_	VBD	_	0	ROOT
@@ -2661,7 +2571,6 @@
 48	the	_	DT	_	49	det
 49	University	_	NNP	_	47	dobj
 
-
 1	Harry	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
@@ -2696,20 +2605,17 @@
 32	at	_	IN	_	33	case
 33	Winchester	_	NNP	_	31	nmod
 
-
 1	David	_	NNP	_	3	nsubj
 2	subsequently	_	RB	_	3	advmod
 3	attended	_	VBD	_	0	ROOT
 4	the	_	DT	_	5	det
 5	Hamilton	_	NNP	_	3	dobj
 
-
 1	Howard	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	Trinity	_	NNP	_	2	nmod
-
 
 1	Matthew	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -2735,7 +2641,6 @@
 22	from	_	IN	_	24	case
 23	the	_	DT	_	24	det
 24	University	_	NNP	_	21	nmod
-
 
 1	Jenna	_	NNP	_	14	nsubj
 2	born	_	VBN	_	1	acl
@@ -2817,7 +2722,6 @@
 78	of	_	IN	_	79	case
 79	Whittier	_	NNP	_	77	nmod
 
-
 1	Robert	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -2834,7 +2738,6 @@
 14	1934	_	CD	_	12	nmod
 15	from	_	IN	_	16	case
 16	New	_	NNP	_	12	nmod
-
 
 1	Edwin	_	NNP	_	3	nsubj
 2	later	_	RB	_	3	advmod
@@ -2930,7 +2833,6 @@
 92	japanese	_	JJ	_	94	amod
 93	government	_	NN	_	94	compound
 94	Bangor	_	NNP	_	83	nmod
-
 
 1	Koji	_	NNP	_	3	compound
 2	b	_	NN	_	3	compound
@@ -3075,11 +2977,9 @@
 141	the	_	DT	_	142	det
 142	University	_	NNP	_	139	nmod
 
-
 1	Chris	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	John	_	NNP	_	2	dobj
-
 
 1	Keith	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -3094,7 +2994,6 @@
 11	educated	_	VBN	_	8	acl:relcl
 12	at	_	IN	_	13	case
 13	Wolverhampton	_	NNP	_	11	nmod
-
 
 1	James	_	NNP	_	4	nsubj
 2	in	_	IN	_	3	case
@@ -3164,7 +3063,6 @@
 66	academic	_	JJ	_	67	amod
 67	Jesus	_	NNP	_	64	conj
 
-
 1	Jes	_	NNS	_	2	nsubj
 2	studied	_	VBN	_	0	ROOT
 3	history	_	NN	_	2	dobj
@@ -3175,7 +3073,6 @@
 8	''	_	''	_	7	punct
 9	at	_	IN	_	10	case
 10	Aarhus	_	NNP	_	7	nmod
-
 
 1	Jason	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
@@ -3213,7 +3110,6 @@
 34	at	_	IN	_	35	case
 35	Buckhurst	_	NNP	_	33	nmod
 
-
 1	Paul	_	NNP	_	2	nsubj
 2	sang	_	VBD	_	0	ROOT
 3	in	_	IN	_	6	case
@@ -3235,7 +3131,6 @@
 19	at	_	IN	_	21	case
 20	the	_	DT	_	21	det
 21	Echo	_	NNP	_	16	nmod
-
 
 1	Hamilton	_	NNP	_	4	compound
 2	hamilton	_	NNP	_	4	compound
@@ -3287,7 +3182,6 @@
 48	from	_	IN	_	49	case
 49	Harvard	_	NNP	_	47	nmod
 
-
 1	Wilhelm	_	NNP	_	2	compound
 2	stekel	_	NNP	_	4	nsubj
 3	had	_	VBD	_	4	aux
@@ -3296,7 +3190,6 @@
 6	at	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	University	_	NNP	_	4	nmod
-
 
 1	Eugenio	_	NNP	_	11	dep
 2	may	_	MD	_	11	aux
@@ -3335,7 +3228,6 @@
 35	the	_	DT	_	36	det
 36	University	_	NNP	_	33	nmod
 
-
 1	Daniel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -3351,7 +3243,6 @@
 13	and	_	CC	_	12	cc
 14	at	_	IN	_	15	case
 15	Magdalene	_	NNP	_	12	conj
-
 
 1	Clark	_	NNP	_	15	nsubj
 2	born	_	VBN	_	1	acl
@@ -3383,7 +3274,6 @@
 28	from	_	IN	_	29	case
 29	Northwestern	_	NNP	_	27	nmod
 
-
 1	Shelby	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -3406,7 +3296,6 @@
 20	she	_	PRP	_	21	nsubj
 21	attended	_	VBD	_	18	acl:relcl
 22	Washington	_	NNP	_	21	dobj
-
 
 1	David	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -3576,7 +3465,6 @@
 166	attended	_	VBD	_	147	conj
 167	New	_	NNP	_	166	dobj
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -3612,7 +3500,6 @@
 33	attended	_	VBD	_	25	acl:relcl
 34	Wofford	_	NNP	_	33	dobj
 
-
 1	Sajjad	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	``	_	``	_	2	punct
@@ -3622,7 +3509,6 @@
 7	''	_	''	_	2	punct
 8	from	_	IN	_	9	case
 9	Radio	_	NNP	_	2	nmod
-
 
 1	William	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -3678,7 +3564,6 @@
 52	degree	_	NN	_	49	dobj
 53	from	_	IN	_	54	case
 54	Mills	_	NNP	_	49	nmod
-
 
 1	Leo	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -3748,7 +3633,6 @@
 66	at	_	IN	_	67	case
 67	St.	_	NNP	_	65	nmod
 
-
 1	Michael	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
 3	june	_	NNP	_	2	xcomp
@@ -3767,7 +3651,6 @@
 16	the	_	DT	_	17	det
 17	2011	_	CD	_	12	nmod
 
-
 1	Ethyl	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -3784,7 +3667,6 @@
 14	he	_	PRP	_	15	nsubj
 15	attended	_	VBD	_	6	dep
 16	Knox	_	NNP	_	15	dobj
-
 
 1	Massoud	_	NNP	_	3	nsubj
 2	25	_	CD	_	1	nummod
@@ -3824,7 +3706,6 @@
 36	the	_	DT	_	37	det
 37	University	_	NNP	_	31	nmod
 
-
 1	Pam	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	with	_	IN	_	4	case
@@ -3854,7 +3735,6 @@
 27	to	_	TO	_	29	case
 28	the	_	DT	_	29	det
 29	University	_	NNP	_	12	conj
-
 
 1	Lisa	_	NNP	_	3	nsubj
 2	also	_	RB	_	3	advmod
@@ -3940,7 +3820,6 @@
 82	at	_	IN	_	84	case
 83	the	_	DT	_	84	det
 84	University	_	NNP	_	81	nmod
-
 
 1	Jason	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -4037,7 +3916,6 @@
 93	's	_	POS	_	92	case
 94	Atkinson	_	NNP	_	87	nmod
 
-
 1	Harriet	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -4052,7 +3930,6 @@
 12	the	_	DT	_	13	det
 13	Massachusetts	_	NNP	_	10	nmod
 
-
 1	Cynthia	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	her	_	PRP$	_	5	nmod:poss
@@ -4066,7 +3943,6 @@
 11	from	_	IN	_	13	case
 12	the	_	DT	_	13	det
 13	University	_	NNP	_	2	nmod
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	are	_	VBP	_	3	auxpass
@@ -4096,7 +3972,6 @@
 26	his	_	PRP$	_	28	nmod:poss
 27	own	_	JJ	_	28	amod
 28	Stabat	_	NNP	_	25	dobj
-
 
 1	Donovan	_	NNP	_	13	nsubj
 2	born	_	VBN	_	1	acl
@@ -4149,7 +4024,6 @@
 49	at	_	IN	_	50	case
 50	Kamehameha	_	NNP	_	45	nmod
 
-
 1	Diana	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	currently	_	RB	_	5	advmod
@@ -4157,7 +4031,6 @@
 5	student	_	NN	_	0	ROOT
 6	at	_	IN	_	7	case
 7	New	_	NNP	_	5	nmod
-
 
 1	James	_	NNP	_	7	nsubj
 2	and	_	CC	_	1	cc
@@ -4168,11 +4041,9 @@
 7	attended	_	VBD	_	0	ROOT
 8	Brisbane	_	NNP	_	7	dobj
 
-
 1	Myron	_	NNP	_	3	compound
 2	student	_	NN	_	3	compound
 3	University	_	NNP	_	0	ROOT
-
 
 1	Boediono	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
@@ -4196,7 +4067,6 @@
 20	studies	_	NNS	_	18	dobj
 21	at	_	IN	_	22	case
 22	Gadjah	_	NNP	_	2	nmod
-
 
 1	Andy	_	NNP	_	2	nsubj
 2	followed	_	VBD	_	0	ROOT
@@ -4281,7 +4151,6 @@
 81	attended	_	VBD	_	65	conj
 82	Emerson	_	NNP	_	81	dobj
 
-
 1	William	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
 3	his	_	PRP$	_	5	nmod:poss
@@ -4295,7 +4164,6 @@
 11	and	_	CC	_	10	cc
 12	Magdalen	_	NN	_	10	conj
 
-
 1	Ambrose	_	NN	_	2	nsubj
 2	obtained	_	VBD	_	0	ROOT
 3	a	_	DT	_	4	det
@@ -4303,7 +4171,6 @@
 5	a	_	DT	_	4	dep
 6	from	_	IN	_	7	case
 7	Stanford	_	NNP	_	5	nmod
-
 
 1	Jose	_	NNP	_	58	dep
 2	in	_	IN	_	3	case
@@ -4374,7 +4241,6 @@
 67	class	_	NN	_	68	compound
 68	University	_	NNP	_	62	nmod
 
-
 1	Jennifer	_	NNP	_	7	nsubj
 2	in	_	IN	_	4	case
 3	michigan	_	NNP	_	4	compound
@@ -4397,7 +4263,6 @@
 20	with	_	IN	_	21	case
 21	Oakland	_	NNP	_	19	nmod
 
-
 1	Frederick	_	NNP	_	8	nsubjpass
 2	as	_	IN	_	6	mark
 3	he	_	PRP	_	6	nsubjpass
@@ -4409,7 +4274,6 @@
 9	at	_	IN	_	10	case
 10	Hampton	_	NNP	_	8	nmod
 
-
 1	Suzanne	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	with	_	IN	_	6	case
@@ -4418,7 +4282,6 @@
 6	degree	_	NN	_	2	nmod
 7	from	_	IN	_	8	case
 8	Simon	_	NNP	_	6	nmod
-
 
 1	George	_	NNP	_	8	compound
 2	and	_	CC	_	1	cc
@@ -4475,11 +4338,9 @@
 53	became	_	VBD	_	46	acl:relcl
 54	Washington	_	NNP	_	53	xcomp
 
-
 1	Kevin	_	NNP	_	3	compound
 2	alumnus	_	NN	_	3	compound
 3	Grinnell	_	NNP	_	0	ROOT
-
 
 1	Clayton	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -4550,7 +4411,6 @@
 67	the	_	DT	_	68	det
 68	San	_	NNP	_	58	nmod:tmod
 
-
 1	Willis	_	NNP	_	7	nsubj
 2	1842	_	CD	_	3	compound
 3	1921	_	CD	_	1	nummod
@@ -4570,7 +4430,6 @@
 17	at	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	Royal	_	NNP	_	16	nmod
-
 
 1	Cindy	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -4658,7 +4517,6 @@
 84	attended	_	VBD	_	82	ccomp
 85	Northwestern	_	NNP	_	84	dobj
 
-
 1	Yahoo	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	an	_	DT	_	5	det
@@ -4667,7 +4525,6 @@
 6	from	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	University	_	NNP	_	2	nmod
-
 
 1	Teresa	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -4688,7 +4545,6 @@
 17	at	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	Milan	_	NNP	_	16	nmod
-
 
 1	Dawson	_	NNP	_	11	nsubj
 2	1775	_	CD	_	1	nummod
@@ -4715,7 +4571,6 @@
 23	he	_	PRP	_	24	nsubj
 24	attended	_	VBD	_	20	acl:relcl
 25	Rugby	_	NNP	_	24	dobj
-
 
 1	Bujar	_	NNP	_	3	compound
 2	serbo	_	NN	_	3	compound
@@ -4770,7 +4625,6 @@
 51	the	_	DT	_	52	det
 52	University	_	NNP	_	49	nmod
 
-
 1	Edward	_	NNP	_	3	compound
 2	m	_	NN	_	3	compound
 3	d	_	NN	_	0	ROOT
@@ -4783,7 +4637,6 @@
 10	1892	_	CD	_	5	nmod
 11	from	_	IN	_	12	case
 12	Yale	_	NNP	_	5	nmod
-
 
 1	Allen	_	NNP	_	22	nsubj
 2	born	_	VBN	_	22	dep
@@ -4884,7 +4737,6 @@
 97	from	_	IN	_	98	case
 98	Berklee	_	NNP	_	96	nmod
 
-
 1	Kim	_	NNP	_	6	nsubj
 2	born	_	VBN	_	3	amod
 3	1970	_	CD	_	1	nummod
@@ -4980,7 +4832,6 @@
 93	the	_	DT	_	94	det
 94	Schulich	_	NNP	_	91	nmod
 
-
 1	Christy	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	the	_	DT	_	4	det
@@ -5014,7 +4865,6 @@
 31	the	_	DT	_	32	det
 32	University	_	NNP	_	27	nmod
 
-
 1	Suryaveer	_	NNP	_	7	dep
 2	and	_	CC	_	1	cc
 3	hanumant	_	JJ	_	4	amod
@@ -5024,7 +4874,6 @@
 7	educated	_	VBN	_	0	ROOT
 8	at	_	IN	_	9	case
 9	Rajkumar	_	NNP	_	7	nmod
-
 
 1	Dmytro	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -5048,13 +4897,11 @@
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	16	nmod
 
-
 1	Michael	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	mark
 5	Lancing	_	VBG	_	3	advcl
-
 
 1	John	_	NNP	_	2	compound
 2	1880	_	NNP	_	5	nsubjpass
@@ -5100,7 +4947,6 @@
 42	Gray	_	NNP	_	41	dobj
 43	's	_	POS	_	42	case
 
-
 1	Juliet	_	NNP	_	8	nsubj
 2	is	_	VBZ	_	8	cop
 3	a	_	DT	_	8	det
@@ -5117,7 +4963,6 @@
 14	studied	_	VBD	_	12	acl:relcl
 15	at	_	IN	_	16	case
 16	Middlesex	_	NNP	_	14	nmod
-
 
 1	Allison	_	NNP	_	2	nsubj
 2	played	_	VBD	_	0	ROOT
@@ -5137,7 +4982,6 @@
 16	at	_	IN	_	18	case
 17	the	_	DT	_	18	det
 18	University	_	NNP	_	13	nmod
-
 
 1	Daniel	_	NNP	_	2	nsubj
 2	began	_	VBD	_	0	ROOT
@@ -5164,7 +5008,6 @@
 23	attended	_	VBD	_	7	dep
 24	the	_	DT	_	25	det
 25	Australian	_	JJ	_	23	dobj
-
 
 1	Norbert	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -5231,7 +5074,6 @@
 63	the	_	DT	_	64	det
 64	University	_	NNP	_	56	nmod
 
-
 1	Michael	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -5247,7 +5089,6 @@
 13	from	_	IN	_	14	case
 14	Archbishop	_	NNP	_	12	nmod
 
-
 1	Simone	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
 3	11	_	CD	_	4	nummod
@@ -5262,13 +5103,11 @@
 12	Raine	_	NNP	_	11	dobj
 13	's	_	POS	_	12	case
 
-
 1	Joseph	_	NNP	_	2	nsubj
 2	taught	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	American	_	NNP	_	2	nmod
-
 
 1	Peter	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -5285,7 +5124,6 @@
 13	attended	_	VBD	_	11	acl:relcl
 14	Carleton	_	NNP	_	13	dobj
 
-
 1	King	_	NNP	_	0	ROOT
 2	's	_	POS	_	1	case
 3	where	_	WRB	_	7	advmod
@@ -5293,7 +5131,6 @@
 5	was	_	VBD	_	7	cop
 6	a	_	DT	_	7	det
 7	Eton	_	NN	_	1	dep
-
 
 1	Martin	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
@@ -5310,7 +5147,6 @@
 13	he	_	PRP	_	14	nsubj
 14	attended	_	VBD	_	10	acl:relcl
 15	Western	_	NNP	_	14	dobj
-
 
 1	John	_	NNP	_	2	compound
 2	b	_	NN	_	0	ROOT
@@ -5335,14 +5171,12 @@
 21	the	_	DT	_	22	det
 22	University	_	NNP	_	7	nmod
 
-
 1	Patrik	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	scandinavian	_	JJ	_	4	amod
 4	languages	_	NNS	_	2	dobj
 5	at	_	IN	_	6	case
 6	University	_	NNP	_	2	nmod
-
 
 1	Douglas	_	NNP	_	2	compound
 2	1880	_	NNP	_	0	ROOT
@@ -5452,7 +5286,6 @@
 106	from	_	IN	_	107	case
 107	Marquette	_	NNP	_	105	nmod
 
-
 1	Richard	_	NNP	_	4	compound
 2	and	_	CC	_	1	cc
 3	priscilla	_	NN	_	1	conj
@@ -5496,7 +5329,6 @@
 41	's	_	POS	_	40	case
 42	Academy	_	NN	_	37	nmod
 
-
 1	Scott	_	NNP	_	2	nsubj
 2	march	_	VB	_	14	csubj
 3	16	_	CD	_	4	compound
@@ -5535,7 +5367,6 @@
 36	football	_	NN	_	33	dobj
 37	at	_	IN	_	38	case
 38	Kelvin	_	NNP	_	33	nmod
-
 
 1	William	_	NNP	_	2	compound
 2	september	_	NNP	_	11	nsubj
@@ -5589,7 +5420,6 @@
 50	from	_	IN	_	51	case
 51	Yale	_	NNP	_	49	nmod
 
-
 1	Lewis	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
 3	an	_	DT	_	5	det
@@ -5623,7 +5453,6 @@
 31	the	_	DT	_	32	det
 32	Duke	_	NNP	_	25	nmod
 
-
 1	Christopher	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -5645,7 +5474,6 @@
 19	d	_	NN	_	20	compound
 20	Eisenhower	_	NNP	_	17	dobj
 
-
 1	Roger	_	NNP	_	8	nsubj
 2	is	_	VBZ	_	8	cop
 3	an	_	DT	_	8	det
@@ -5680,7 +5508,6 @@
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	30	nmod
 
-
 1	Roger	_	NNP	_	8	nsubj
 2	is	_	VBZ	_	8	cop
 3	an	_	DT	_	8	det
@@ -5714,7 +5541,6 @@
 31	from	_	IN	_	33	case
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	30	nmod
-
 
 1	Malcolm	_	NNP	_	11	nsubj
 2	born	_	VBN	_	1	acl
@@ -5731,7 +5557,6 @@
 13	from	_	IN	_	15	case
 14	the	_	DT	_	15	det
 15	University	_	NNP	_	12	nmod
-
 
 1	Francis	_	NNP	_	2	compound
 2	september	_	NNP	_	14	nsubj
@@ -5752,7 +5577,6 @@
 17	chemistry	_	NN	_	14	dobj
 18	at	_	IN	_	19	case
 19	Cooper	_	NNP	_	14	nmod
-
 
 1	Karyn	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -5779,7 +5603,6 @@
 23	degree	_	NN	_	20	nmod
 24	from	_	IN	_	25	case
 25	Columbia	_	NNP	_	18	nmod
-
 
 1	Lee	_	NNP	_	6	nsubj
 2	1906	_	CD	_	3	compound
@@ -5848,11 +5671,9 @@
 65	attended	_	VBD	_	54	acl
 66	Brigham	_	NNP	_	65	dobj
 
-
 1	Carol	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Cherry	_	NNP	_	2	dobj
-
 
 1	Abir	_	NNP	_	5	nsubjpass
 2	born	_	VBN	_	3	amod
@@ -5893,7 +5714,6 @@
 37	attended	_	VBD	_	8	conj
 38	Oldfields	_	NNS	_	37	dobj
 
-
 1	Daniel	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
 3	at	_	IN	_	5	case
@@ -5905,7 +5725,6 @@
 9	1880	_	NNP	_	7	nmod
 10	at	_	IN	_	11	case
 11	Brown	_	NNP	_	7	nmod
-
 
 1	Darrett	_	NNP	_	3	compound
 2	4	_	CD	_	3	nummod
@@ -5930,7 +5749,6 @@
 21	the	_	DT	_	22	det
 22	University	_	NNP	_	16	nmod
 
-
 1	Wang	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -5952,7 +5770,6 @@
 19	graduated	_	VBD	_	10	advcl
 20	from	_	IN	_	21	case
 21	Harbin	_	NNP	_	19	nmod
-
 
 1	Principal	_	NN	_	5	compound
 2	and	_	CC	_	1	cc
@@ -5976,7 +5793,6 @@
 20	assistant	_	NN	_	21	compound
 21	Eltham	_	NNP	_	15	nmod
 
-
 1	Anthony	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -5988,13 +5804,11 @@
 9	from	_	IN	_	10	case
 10	Johnson	_	NNP	_	8	nmod
 
-
 1	Stuart	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Highgate	_	NNP	_	3	nmod
-
 
 1	Luiz	_	NN	_	3	compound
 2	6	_	CD	_	3	nummod
@@ -6039,7 +5853,6 @@
 41	the	_	DT	_	42	det
 42	University	_	NNP	_	39	nmod
 
-
 1	Joseph	_	NNP	_	0	ROOT
 2	he	_	PRP	_	5	nsubj
 3	was	_	VBD	_	5	cop
@@ -6067,11 +5880,9 @@
 25	the	_	DT	_	26	det
 26	United	_	NNP	_	23	nmod
 
-
 1	Blenda	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	H.	_	NNP	_	2	dobj
-
 
 1	William	_	NNP	_	5	nsubj
 2	1794	_	CD	_	3	compound
@@ -6199,7 +6010,6 @@
 124	attended	_	VBD	_	121	acl:relcl
 125	Albany	_	NNP	_	124	dobj
 
-
 1	Elizabeth	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -6226,7 +6036,6 @@
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	23	dobj
 
-
 1	Klaus	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -6243,7 +6052,6 @@
 14	at	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	University	_	NNP	_	9	nmod
-
 
 1	Aaron	_	NNP	_	3	compound
 2	los	_	NNS	_	3	compound
@@ -6483,7 +6291,6 @@
 236	pocahontas	_	VBZ	_	205	conj
 237	University	_	NNP	_	236	dobj
 
-
 1	Randy	_	NNP	_	2	nsubj
 2	born	_	VBN	_	11	csubj
 3	1949	_	CD	_	6	nummod
@@ -6505,7 +6312,6 @@
 19	at	_	IN	_	21	case
 20	the	_	DT	_	21	det
 21	Art	_	NNP	_	18	nmod
-
 
 1	Mitchell	_	NNP	_	16	nsubj
 2	born	_	VBN	_	1	acl
@@ -6658,7 +6464,6 @@
 149	from	_	IN	_	150	case
 150	Waukesha	_	NNP	_	148	nmod
 
-
 1	Hamilton	_	NNP	_	16	nsubj
 2	as	_	IN	_	6	case
 3	the	_	DT	_	6	det
@@ -6677,7 +6482,6 @@
 16	attended	_	VBD	_	0	ROOT
 17	the	_	DT	_	18	det
 18	International	_	NNP	_	16	dobj
-
 
 1	Joseph	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -6717,7 +6521,6 @@
 36	he	_	PRP	_	37	nsubj
 37	attended	_	VBD	_	21	ccomp
 38	St.	_	NNP	_	37	dobj
-
 
 1	Thomas	_	NNP	_	0	ROOT
 2	where	_	WRB	_	4	advmod
@@ -6765,7 +6568,6 @@
 44	engraver	_	NN	_	45	compound
 45	Trinity	_	NN	_	42	conj
 
-
 1	Gavin	_	NNP	_	2	nsubj
 2	works	_	VBZ	_	0	ROOT
 3	in	_	IN	_	5	case
@@ -6800,7 +6602,6 @@
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	28	nmod
 
-
 1	Scud	_	NN	_	0	ROOT
 2	'	_	''	_	1	punct
 3	after	_	IN	_	6	case
@@ -6813,12 +6614,10 @@
 10	at	_	IN	_	11	case
 11	Maribyrnong	_	NNP	_	9	nmod
 
-
 1	Heather	_	NNP	_	4	compound
 2	graduate	_	JJ	_	4	amod
 3	student	_	NN	_	4	compound
 4	Brown	_	NNP	_	0	ROOT
-
 
 1	Chris	_	NNP	_	2	compound
 2	topher	_	NN	_	3	nsubj
@@ -6853,7 +6652,6 @@
 31	attend	_	VB	_	26	advcl
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	31	dobj
-
 
 1	Michelle	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
@@ -6898,7 +6696,6 @@
 41	the	_	DT	_	42	det
 42	Royal	_	NNP	_	38	nmod
 
-
 1	Erik	_	NNP	_	2	nsubj
 2	born	_	VBN	_	13	csubj
 3	1957	_	CD	_	4	nummod
@@ -6925,7 +6722,6 @@
 24	at	_	IN	_	26	case
 25	the	_	DT	_	26	det
 26	Radboud	_	NN	_	23	nmod
-
 
 1	Susan	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -6980,7 +6776,6 @@
 51	attended	_	VBD	_	11	conj
 52	Germantown	_	NNP	_	51	dobj
 
-
 1	David	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
 3	18	_	CD	_	7	nummod
@@ -6993,7 +6788,6 @@
 10	at	_	IN	_	12	case
 11	the	_	DT	_	12	det
 12	Edmonton	_	NNP	_	9	nmod
-
 
 1	Susanna	_	NNP	_	5	compound
 2	pia	_	NNP	_	5	compound
@@ -7061,14 +6855,12 @@
 64	at	_	IN	_	65	case
 65	Stockholm	_	NNP	_	63	nmod
 
-
 1	Alexander	_	NNP	_	4	dep
 2	he	_	PRP	_	4	nsubjpass
 3	was	_	VBD	_	4	auxpass
 4	graduated	_	VBN	_	0	ROOT
 5	from	_	IN	_	6	case
 6	Yale	_	NNP	_	4	nmod
-
 
 1	Sigrid	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -7130,7 +6922,6 @@
 58	at	_	IN	_	59	case
 59	Amherst	_	NNP	_	57	nmod
 
-
 1	Lionel	_	NNP	_	2	compound
 2	december	_	NNP	_	10	nsubj
 3	2	_	CD	_	4	compound
@@ -7147,7 +6938,6 @@
 14	english	_	JJ	_	12	nmod
 15	at	_	IN	_	16	case
 16	Calvin	_	NNP	_	10	nmod
-
 
 1	Heymeric	_	JJ	_	7	nsubj
 2	1395	_	CD	_	3	compound
@@ -7176,7 +6966,6 @@
 25	the	_	DT	_	26	det
 26	University	_	NNP	_	23	nmod
 
-
 1	John	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
 3	the	_	DT	_	5	det
@@ -7201,7 +6990,6 @@
 22	at	_	IN	_	23	case
 23	Abbotsholme	_	NNP	_	21	nmod
 
-
 1	Ian	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	raised	_	VBN	_	0	ROOT
@@ -7214,7 +7002,6 @@
 10	at	_	IN	_	11	case
 11	Poynton	_	NNP	_	9	nmod
 
-
 1	Claude	_	NNP	_	0	ROOT
 2	whom	_	WP	_	5	dobj
 3	she	_	PRP	_	5	nsubj
@@ -7226,7 +7013,6 @@
 9	student	_	NN	_	5	nmod
 10	at	_	IN	_	11	case
 11	Louisiana	_	NNP	_	5	nmod
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -7293,7 +7079,6 @@
 63	the	_	DT	_	64	det
 64	Pontifical	_	JJ	_	61	nmod
 
-
 1	Katherine	_	NNP	_	5	compound
 2	née	_	NN	_	5	compound
 3	katherine	_	NN	_	5	compound
@@ -7309,7 +7094,6 @@
 13	professor	_	NN	_	6	ccomp
 14	at	_	IN	_	15	case
 15	Smith	_	NNP	_	13	nmod
-
 
 1	Leo	_	NNP	_	6	nsubj
 2	1883	_	CD	_	3	compound
@@ -7329,7 +7113,6 @@
 16	phd	_	NN	_	14	dobj
 17	from	_	IN	_	18	case
 18	Columbia	_	NNP	_	14	nmod
-
 
 1	Janina	_	NNP	_	32	nsubj
 2	in	_	IN	_	10	case
@@ -7375,7 +7158,6 @@
 42	the	_	DT	_	43	det
 43	Prague	_	NNP	_	41	dobj
 
-
 1	Albert	_	NNP	_	2	nsubj
 2	had	_	VBD	_	0	ROOT
 3	a	_	DT	_	7	det
@@ -7406,7 +7188,6 @@
 28	studied	_	VBD	_	2	conj
 29	at	_	IN	_	30	case
 30	Fisk	_	NNP	_	28	nmod
-
 
 1	David	_	NNP	_	12	nsubj
 2	born	_	VBN	_	1	acl
@@ -7446,7 +7227,6 @@
 36	at	_	IN	_	37	case
 37	Edinburgh	_	NNP	_	21	nmod
 
-
 1	Ned	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
 3	november	_	NNP	_	2	xcomp
@@ -7465,7 +7245,6 @@
 16	attended	_	VBD	_	14	acl:relcl
 17	Lee	_	NNP	_	16	dobj
 
-
 1	Robert	_	NNP	_	2	compound
 2	jr	_	NNP	_	4	nsubjpass
 3	was	_	VBD	_	4	auxpass
@@ -7477,7 +7256,6 @@
 9	niro	_	FW	_	10	nsubj
 10	attended	_	VBD	_	4	parataxis
 11	Black	_	NNP	_	10	dobj
-
 
 1	Rodolphus	_	NNP	_	5	compound
 2	alexander	_	NN	_	5	compound
@@ -7505,7 +7283,6 @@
 24	entered	_	VBD	_	19	ccomp
 25	the	_	DT	_	26	det
 26	University	_	NNP	_	24	dobj
-
 
 1	Arthur	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	0	ROOT
@@ -7611,7 +7388,6 @@
 102	entered	_	VBD	_	90	dep
 103	the	_	DT	_	104	det
 104	University	_	NNP	_	102	dobj
-
 
 1	Harry	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
@@ -7729,7 +7505,6 @@
 114	from	_	IN	_	115	case
 115	Fulton	_	NNP	_	113	nmod
 
-
 1	S.	_	NNP	_	0	ROOT
 2	in	_	IN	_	3	case
 3	1953	_	CD	_	1	nmod
@@ -7738,20 +7513,17 @@
 6	was	_	VBD	_	7	cop
 7	Aligarh	_	NNP	_	1	acl:relcl
 
-
 1	Florence	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
 3	graduate	_	NN	_	1	dep
 4	of	_	IN	_	5	case
 5	Harvard	_	NNP	_	3	nmod
 
-
 1	Michael	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
 3	attended	_	VBD	_	1	acl:relcl
 4	the	_	DT	_	5	det
 5	University	_	NNP	_	3	dobj
-
 
 1	Talat	_	NNP	_	2	nsubj
 2	joined	_	VBD	_	0	ROOT
@@ -7803,13 +7575,11 @@
 48	the	_	DT	_	49	det
 49	Pakistan	_	NNP	_	46	nmod
 
-
 1	Mao	_	NNP	_	0	ROOT
 2	she	_	PRP	_	3	nsubj
 3	graduated	_	VBD	_	1	acl:relcl
 4	from	_	IN	_	5	case
 5	Vassar	_	NNP	_	3	nmod
-
 
 1	Thomas	_	NNP	_	2	compound
 2	1864	_	NNP	_	7	nsubj
@@ -7828,7 +7598,6 @@
 15	at	_	IN	_	14	nmod
 16	Queen	_	NNP	_	15	nmod:poss
 17	's	_	POS	_	16	case
-
 
 1	Robert	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -7851,7 +7620,6 @@
 19	college	_	NN	_	16	nmod
 20	and	_	CC	_	19	cc
 21	Clare	_	NN	_	19	conj
-
 
 1	Barry	_	NNP	_	2	compound
 2	july	_	NNP	_	0	ROOT
@@ -7897,7 +7665,6 @@
 42	the	_	DT	_	43	det
 43	University	_	NNP	_	36	nmod
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
@@ -7916,7 +7683,6 @@
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	15	dobj
 
-
 1	Tad	_	NNP	_	5	nmod:poss
 2	's	_	POS	_	1	case
 3	father	_	NN	_	5	compound
@@ -7934,7 +7700,6 @@
 15	graduate	_	NN	_	0	ROOT
 16	of	_	IN	_	17	case
 17	The	_	DT	_	15	nmod
-
 
 1	Larry	_	NNP	_	2	nsubj
 2	born	_	VBN	_	12	csubj
@@ -7990,7 +7755,6 @@
 52	the	_	DT	_	53	det
 53	Centenary	_	JJ	_	46	nmod
 
-
 1	Tom	_	NNP	_	3	nsubj
 2	has	_	VBZ	_	3	aux
 3	lectured	_	VBN	_	0	ROOT
@@ -8028,7 +7792,6 @@
 35	the	_	DT	_	36	det
 36	USC	_	NNP	_	33	nmod
 
-
 1	Didier	_	NNP	_	2	nsubj
 2	went	_	VBD	_	0	ROOT
 3	to	_	TO	_	4	mark
@@ -8053,7 +7816,6 @@
 22	the	_	DT	_	23	det
 23	Katholieke	_	NNP	_	20	nmod
 
-
 1	Dimitrios	_	NNP	_	3	nsubj
 2	a	_	DT	_	3	det
 3	politician	_	NN	_	0	ROOT
@@ -8070,14 +7832,12 @@
 14	the	_	DT	_	15	det
 15	Athens	_	NNP	_	12	nmod
 
-
 1	Andrew	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	biochemistry	_	NN	_	2	dobj
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	University	_	NNP	_	2	nmod
-
 
 1	Mary	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -8137,13 +7897,11 @@
 56	from	_	IN	_	57	case
 57	Lowell	_	NNP	_	55	nmod
 
-
 1	John	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	University	_	NNP	_	2	nmod
-
 
 1	Arvid	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -8174,7 +7932,6 @@
 27	at	_	IN	_	28	case
 28	Lund	_	NNP	_	26	nmod
 
-
 1	John	_	NNP	_	0	ROOT
 2	in	_	IN	_	3	case
 3	england	_	NN	_	1	nmod
@@ -8194,7 +7951,6 @@
 17	western	_	JJ	_	19	amod
 18	australia	_	NNP	_	19	compound
 19	Winchester	_	NNP	_	15	nmod
-
 
 1	Chief	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -8298,7 +8054,6 @@
 100	became	_	VBD	_	74	acl:relcl
 101	the	_	DT	_	102	det
 102	University	_	NNP	_	100	xcomp
-
 
 1	Xavier	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -8440,7 +8195,6 @@
 138	the	_	DT	_	139	det
 139	University	_	NNP	_	135	nmod
 
-
 1	Almon	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -8451,7 +8205,6 @@
 8	graduated	_	VBD	_	3	parataxis
 9	from	_	IN	_	10	case
 10	Williams	_	NNP	_	8	nmod
-
 
 1	Egon	_	NNP	_	2	compound
 2	april	_	NNP	_	9	nsubjpass
@@ -8484,7 +8237,6 @@
 29	from	_	IN	_	31	case
 30	the	_	DT	_	31	det
 31	University	_	NNP	_	23	nmod
-
 
 1	Polly	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -8523,7 +8275,6 @@
 35	bs	_	NNS	_	33	dobj
 36	from	_	IN	_	37	case
 37	Mercyhurst	_	NNP	_	33	nmod
-
 
 1	Bonnie	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
@@ -8574,7 +8325,6 @@
 47	from	_	IN	_	48	case
 48	Concordia	_	NNP	_	46	nmod
 
-
 1	James	_	NNP	_	4	nsubj
 2	a	_	DT	_	4	det
 3	decorated	_	VBN	_	4	amod
@@ -8615,7 +8365,6 @@
 38	the	_	DT	_	39	det
 39	American	_	NNP	_	37	dobj
 
-
 1	Salikoko	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -8645,7 +8394,6 @@
 27	at	_	IN	_	29	case
 28	the	_	DT	_	29	det
 29	University	_	NNP	_	24	nmod
-
 
 1	John	_	NNP	_	3	compound
 2	18	_	CD	_	3	nummod
@@ -8689,7 +8437,6 @@
 40	the	_	DT	_	41	det
 41	Royal	_	NNP	_	38	nmod
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -8708,7 +8455,6 @@
 16	at	_	IN	_	18	case
 17	the	_	DT	_	18	det
 18	University	_	NNP	_	15	nmod
-
 
 1	Kwek	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -8733,7 +8479,6 @@
 21	duniv	_	NN	_	17	dobj
 22	from	_	IN	_	23	case
 23	Oxford	_	NNP	_	21	nmod
-
 
 1	Ann	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
@@ -8774,7 +8519,6 @@
 37	attended	_	VBD	_	35	acl:relcl
 38	the	_	DT	_	39	det
 39	Iowa	_	NNP	_	37	dobj
-
 
 1	George	_	NNP	_	5	nsubjpass
 2	is	_	VBZ	_	5	auxpass
@@ -8823,7 +8567,6 @@
 45	the	_	DT	_	46	det
 46	Creative	_	JJ	_	44	dobj
 
-
 1	John	_	NNP	_	2	compound
 2	october	_	NNP	_	0	ROOT
 3	10	_	CD	_	4	compound
@@ -8850,7 +8593,6 @@
 24	degree	_	NN	_	21	dobj
 25	from	_	IN	_	26	case
 26	Columbia	_	NNP	_	21	nmod
-
 
 1	Jerry	_	NNP	_	3	nsubj
 2	then	_	RB	_	3	advmod
@@ -8904,7 +8646,6 @@
 50	the	_	DT	_	51	det
 51	Wichita	_	NNP	_	49	dep
 
-
 1	Nathaniel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -8924,7 +8665,6 @@
 17	educated	_	VBN	_	14	acl:relcl
 18	at	_	IN	_	19	case
 19	Mill	_	NNP	_	17	nmod
-
 
 1	Asif	_	NNP	_	5	compound
 2	at	_	IN	_	3	case
@@ -8965,7 +8705,6 @@
 37	the	_	DT	_	39	det
 38	navy	_	NN	_	39	compound
 39	Britannia	_	NNP	_	35	nmod
-
 
 1	Michael	_	NNP	_	4	compound
 2	george	_	NNP	_	4	compound
@@ -9010,7 +8749,6 @@
 41	the	_	DT	_	42	det
 42	University	_	NNP	_	39	nmod
 
-
 1	Howardena	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -9019,12 +8757,10 @@
 6	the	_	DT	_	7	det
 7	Philadelphia	_	NNP	_	4	nmod
 
-
 1	Bill	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	at	_	IN	_	4	case
 4	Loughborough	_	NNP	_	2	nmod
-
 
 1	James	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
@@ -9054,7 +8790,6 @@
 26	he	_	PRP	_	27	nsubj
 27	attended	_	VBD	_	22	acl:relcl
 28	Murphy	_	NNP	_	27	dobj
-
 
 1	Wesley	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -9103,7 +8838,6 @@
 45	Queen	_	NNP	_	44	nmod:poss
 46	's	_	POS	_	45	case
 
-
 1	Brian	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	a	_	DT	_	4	det
@@ -9115,7 +8849,6 @@
 9	from	_	IN	_	11	case
 10	the	_	DT	_	11	det
 11	University	_	NNP	_	2	nmod
-
 
 1	Robert	_	NNP	_	0	ROOT
 2	who	_	WP	_	6	nsubj
@@ -9152,7 +8885,6 @@
 33	from	_	IN	_	34	case
 34	Dartmouth	_	NNP	_	32	nmod
 
-
 1	Jim	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -9175,13 +8907,11 @@
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	18	nmod
 
-
 1	Benjamin	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
 3	graduated	_	VBD	_	1	acl:relcl
 4	from	_	IN	_	5	case
 5	Yale	_	NNP	_	3	nmod
-
 
 1	G.	_	NNP	_	0	ROOT
 2	while	_	IN	_	6	mark
@@ -9260,7 +8990,6 @@
 75	professor	_	NN	_	76	compound
 76	Andrews	_	NNP	_	72	conj
 
-
 1	Giovanni	_	NNP	_	8	dep
 2	the	_	DT	_	3	det
 3	son	_	NN	_	8	nsubjpass
@@ -9292,7 +9021,6 @@
 29	philosophy	_	NN	_	27	conj
 30	at	_	IN	_	31	case
 31	Collegio	_	NNP	_	26	nmod
-
 
 1	Varban	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -9448,7 +9176,6 @@
 152	at	_	IN	_	153	case
 153	Sofia	_	NNP	_	147	nmod
 
-
 1	Michael	_	NNP	_	2	compound
 2	hollick	_	NNP	_	4	nsubjpass
 3	was	_	VBD	_	4	auxpass
@@ -9565,13 +9292,11 @@
 114	at	_	IN	_	115	case
 115	Carnegie	_	NNP	_	113	nmod
 
-
 1	Sandy	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
 3	graduated	_	VBD	_	1	acl:relcl
 4	from	_	IN	_	5	case
 5	New	_	NNP	_	3	nmod
-
 
 1	Sun	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -9608,7 +9333,6 @@
 33	from	_	IN	_	34	case
 34	University	_	NNP	_	29	nmod
 
-
 1	Darius	_	NNP	_	14	nsubj
 2	born	_	VBN	_	1	acl
 3	september	_	NNP	_	2	xcomp
@@ -9629,7 +9353,6 @@
 18	football	_	NN	_	16	dobj
 19	at	_	IN	_	20	case
 20	South	_	NNP	_	16	nmod
-
 
 1	Dov	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
@@ -9656,7 +9379,6 @@
 23	markus	_	NN	_	22	dep
 24	attended	_	VBD	_	0	ROOT
 25	Long	_	NNP	_	24	nsubj
-
 
 1	Zaradachet	_	NNP	_	4	compound
 2	or	_	CC	_	1	cc
@@ -9687,7 +9409,6 @@
 27	at	_	IN	_	29	case
 28	the	_	DT	_	29	det
 29	Free	_	NNP	_	21	nmod
-
 
 1	Alexander	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	29	ccomp
@@ -9720,7 +9441,6 @@
 29	attended	_	VBD	_	0	ROOT
 30	Yorktown	_	NNP	_	29	nsubj
 
-
 1	Samer	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	a	_	DT	_	6	det
@@ -9738,7 +9458,6 @@
 15	from	_	IN	_	17	case
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	8	nmod
-
 
 1	Anthony	_	NNP	_	13	nsubj
 2	born	_	VBN	_	1	acl
@@ -9793,7 +9512,6 @@
 51	at	_	IN	_	52	case
 52	Grambling	_	NNP	_	48	nmod
 
-
 1	Clerk	_	NN	_	0	ROOT
 2	from	_	IN	_	3	case
 3	1963	_	CD	_	1	nmod
@@ -9804,7 +9522,6 @@
 8	educated	_	VBN	_	5	acl:relcl
 9	at	_	IN	_	10	case
 10	Winchester	_	NNP	_	8	nmod
-
 
 1	Harry	_	NNP	_	2	compound
 2	february	_	NNP	_	20	nsubj
@@ -9830,7 +9547,6 @@
 22	the	_	DT	_	23	det
 23	Berkshire	_	NNP	_	20	nmod
 
-
 1	Herb	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -9854,14 +9570,12 @@
 21	attended	_	VBD	_	14	acl:relcl
 22	Southern	_	NNP	_	21	dobj
 
-
 1	John	_	NNP	_	0	ROOT
 2	in	_	IN	_	3	case
 3	croydon	_	NNP	_	1	nmod
 4	and	_	CC	_	1	cc
 5	then	_	RB	_	6	advmod
 6	Exeter	_	NNP	_	1	conj
-
 
 1	Mama	_	NN	_	0	ROOT
 2	:	_	:	_	1	punct
@@ -9903,7 +9617,6 @@
 38	from	_	IN	_	39	case
 39	Smith	_	NNP	_	33	nmod
 
-
 1	Adolf	_	NNP	_	4	compound
 2	5	_	CD	_	4	nummod
 3	june	_	NNP	_	4	compound
@@ -9933,7 +9646,6 @@
 27	from	_	IN	_	28	case
 28	Royal	_	NNP	_	26	nmod
 
-
 1	Judith	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
@@ -9956,7 +9668,6 @@
 20	at	_	IN	_	22	case
 21	the	_	DT	_	22	det
 22	University	_	NNP	_	15	nmod
-
 
 1	Richard	_	NNP	_	4	compound
 2	or	_	CC	_	1	cc
@@ -9985,11 +9696,9 @@
 25	at	_	IN	_	26	case
 26	Indiana	_	NNP	_	18	nmod
 
-
 1	Maria	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Loras	_	NNP	_	2	dobj
-
 
 1	Evan	_	NNP	_	5	compound
 2	b	_	NN	_	5	compound
@@ -10010,7 +9719,6 @@
 17	the	_	DT	_	18	det
 18	University	_	NNP	_	11	nmod
 
-
 1	Hiram	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -10026,7 +9734,6 @@
 13	from	_	IN	_	15	case
 14	the	_	DT	_	15	det
 15	Ohio	_	NNP	_	12	nmod
-
 
 1	Robert	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -10053,7 +9760,6 @@
 23	at	_	IN	_	25	case
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	22	nmod
-
 
 1	M.	_	NNP	_	2	compound
 2	aka	_	NNP	_	3	nsubj
@@ -10108,7 +9814,6 @@
 51	to	_	TO	_	52	case
 52	Pomona	_	NNP	_	50	nmod
 
-
 1	Jonathan	_	NNP	_	47	nsubjpass
 2	a	_	DT	_	3	det
 3	professor	_	NN	_	40	nsubj
@@ -10159,7 +9864,6 @@
 48	at	_	IN	_	49	case
 49	Dragon	_	NNP	_	47	nmod
 
-
 1	Marvin	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
 3	a	_	DT	_	5	det
@@ -10188,7 +9892,6 @@
 26	the	_	DT	_	27	det
 27	United	_	NNP	_	24	nmod
 
-
 1	Jeremy	_	NNP	_	4	nsubjpass
 2	also	_	RB	_	4	advmod
 3	professionally	_	RB	_	4	advmod
@@ -10209,7 +9912,6 @@
 18	director	_	NN	_	0	ROOT
 19	and	_	CC	_	18	cc
 20	Wayne	_	NNP	_	18	conj
-
 
 1	Cousin	_	NN	_	20	nsubj
 2	of	_	IN	_	7	case
@@ -10238,7 +9940,6 @@
 25	the	_	DT	_	26	det
 26	University	_	NNP	_	22	nmod
 
-
 1	Carol	_	NNP	_	0	ROOT
 2	while	_	IN	_	1	dep
 3	a	_	DT	_	4	det
@@ -10264,7 +9965,6 @@
 23	wife	_	NN	_	24	compound
 24	Berklee	_	NNP	_	20	conj
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -10282,7 +9982,6 @@
 15	educated	_	VBN	_	9	dep
 16	at	_	IN	_	17	case
 17	Solihull	_	NNP	_	15	nmod
-
 
 1	Rachael	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -10420,7 +10119,6 @@
 134	's	_	POS	_	133	case
 135	McMaster	_	NNP	_	131	nmod
 
-
 1	Kyle	_	NNP	_	2	nsubj
 2	went	_	VBD	_	0	ROOT
 3	to	_	TO	_	4	case
@@ -10428,7 +10126,6 @@
 5	at	_	IN	_	7	case
 6	the	_	DT	_	7	det
 7	University	_	NNP	_	2	nmod
-
 
 1	Gurdas	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
@@ -10442,7 +10139,6 @@
 10	from	_	IN	_	12	case
 11	the	_	DT	_	12	det
 12	University	_	NNP	_	2	nmod
-
 
 1	Egidius	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -10481,7 +10177,6 @@
 35	the	_	DT	_	36	det
 36	Catholic	_	NNP	_	34	dobj
 
-
 1	Nicholas	_	NNP	_	8	dep
 2	his	_	PRP$	_	4	nmod:poss
 3	maternal	_	JJ	_	4	amod
@@ -10507,7 +10202,6 @@
 23	and	_	CC	_	19	cc
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	19	conj
-
 
 1	Eleanor	_	NNP	_	0	ROOT
 2	at	_	IN	_	5	case
@@ -10721,13 +10415,11 @@
 210	singer	_	NN	_	207	dobj
 211	Royal	_	NNP	_	210	dep
 
-
 1	Charles	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	degrees	_	NNS	_	2	dobj
 4	from	_	IN	_	5	case
 5	Williams	_	NNP	_	2	nmod
-
 
 1	Robert	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
@@ -10745,13 +10437,11 @@
 14	at	_	IN	_	15	case
 15	Leeds	_	NNP	_	13	nmod
 
-
 1	Cruz	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Anderson	_	NNP	_	3	nmod
-
 
 1	Laurence	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
@@ -10762,7 +10452,6 @@
 7	1981	_	CD	_	2	nmod
 8	at	_	IN	_	9	case
 9	Nankai	_	NNP	_	2	nmod
-
 
 1	John	_	NNP	_	2	compound
 2	1852	_	NNP	_	0	ROOT
@@ -10779,12 +10468,10 @@
 13	at	_	IN	_	14	case
 14	Cheltenham	_	NNP	_	12	nmod
 
-
 1	Virginia	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	4	case
 4	Mount	_	NNP	_	2	nmod
-
 
 1	Fred	_	NNP	_	2	compound
 2	founder	_	NN	_	0	ROOT
@@ -10861,7 +10548,6 @@
 73	the	_	DT	_	74	det
 74	Yale	_	NNP	_	71	nmod
 
-
 1	Mike	_	NNP	_	2	nsubj
 2	began	_	VBD	_	0	ROOT
 3	acting	_	VBG	_	23	csubj
@@ -10930,7 +10616,6 @@
 66	attended	_	VBD	_	64	acl:relcl
 67	San	_	NNP	_	66	dobj
 
-
 1	Paul	_	NNP	_	2	nsubj
 2	became	_	VBD	_	0	ROOT
 3	trulia	_	NN	_	7	nmod:poss
@@ -10961,7 +10646,6 @@
 28	from	_	IN	_	29	case
 29	Stanford	_	NNP	_	25	nmod
 
-
 1	Douglas	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -10985,7 +10669,6 @@
 21	educated	_	VBN	_	18	acl:relcl
 22	at	_	IN	_	23	case
 23	Belfast	_	NNP	_	21	nmod
-
 
 1	Keegan	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -11044,7 +10727,6 @@
 55	at	_	IN	_	56	case
 56	Hopkinton	_	NNP	_	48	nmod
 
-
 1	Jonas	_	NNP	_	2	compound
 2	february	_	NNP	_	0	ROOT
 3	9	_	CD	_	4	compound
@@ -11066,7 +10748,6 @@
 19	graduated	_	VBD	_	11	acl
 20	from	_	IN	_	21	case
 21	Harvard	_	NNP	_	19	nmod
-
 
 1	Alison	_	NNP	_	24	nsubj
 2	an	_	DT	_	3	det
@@ -11094,7 +10775,6 @@
 24	alumnus	_	NN	_	0	ROOT
 25	of	_	IN	_	26	case
 26	Stevenson	_	NNP	_	24	nmod
-
 
 1	Benjamin	_	NNP	_	12	nsubj
 2	born	_	VBN	_	1	acl
@@ -11125,7 +10805,6 @@
 27	attended	_	VBD	_	24	advcl
 28	Fairview	_	NNP	_	27	dobj
 
-
 1	James	_	NNP	_	2	nsubj
 2	knew	_	VBD	_	0	ROOT
 3	latin	_	NN	_	2	dobj
@@ -11144,7 +10823,6 @@
 16	studied	_	VBD	_	8	parataxis
 17	at	_	IN	_	18	case
 18	Bowdoin	_	NNP	_	16	nmod
-
 
 1	Matthew	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
@@ -11177,7 +10855,6 @@
 29	at	_	IN	_	30	case
 30	Harvard	_	NNP	_	28	nmod
 
-
 1	Jon	_	NNP	_	4	compound
 2	columbus	_	NNP	_	4	compound
 3	area	_	NN	_	4	compound
@@ -11202,7 +10879,6 @@
 22	by	_	IN	_	24	case
 23	2001	_	CD	_	24	nummod
 24	Musicians	_	NNS	_	18	nmod
-
 
 1	R.	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
@@ -11235,7 +10911,6 @@
 29	the	_	DT	_	30	det
 30	University	_	NNP	_	25	nmod
 
-
 1	Mark	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -11254,7 +10929,6 @@
 16	he	_	PRP	_	17	nsubj
 17	attended	_	VBD	_	11	acl:relcl
 18	Westbury	_	NNP	_	17	dobj
-
 
 1	Terence	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
@@ -11288,7 +10962,6 @@
 30	studied	_	VBD	_	4	acl:relcl
 31	at	_	IN	_	32	case
 32	Princeton	_	NNP	_	30	nmod
-
 
 1	John	_	NNP	_	8	dep
 2	may	_	MD	_	8	aux
@@ -11324,7 +10997,6 @@
 32	the	_	DT	_	33	det
 33	Andover	_	NNP	_	30	nmod
 
-
 1	Wardell	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	an	_	DT	_	5	det
@@ -11332,7 +11004,6 @@
 5	doctorate	_	NN	_	2	dobj
 6	from	_	IN	_	7	case
 7	Loyola	_	NNP	_	2	nmod
-
 
 1	Lewis	_	NNP	_	2	compound
 2	c	_	NN	_	6	nsubj
@@ -11370,7 +11041,6 @@
 34	at	_	IN	_	35	case
 35	Jesus	_	NNP	_	33	nmod
 
-
 1	Neal	_	NNP	_	2	compound
 2	b	_	NN	_	10	nsubj
 3	1926	_	CD	_	2	nummod
@@ -11397,7 +11067,6 @@
 24	graduated	_	VBD	_	18	acl
 25	from	_	IN	_	26	case
 26	Syracuse	_	NNP	_	24	nmod
-
 
 1	Mark	_	NNP	_	14	nsubj
 2	and	_	CC	_	1	cc
@@ -11435,7 +11104,6 @@
 34	from	_	IN	_	35	case
 35	Australian	_	JJ	_	33	nmod
 
-
 1	Odair	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	an	_	DT	_	6	det
@@ -11462,7 +11130,6 @@
 24	at	_	IN	_	26	case
 25	the	_	DT	_	26	det
 26	FIBA	_	NNP	_	20	nmod
-
 
 1	Bernie	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -11531,7 +11198,6 @@
 65	at	_	IN	_	66	case
 66	Grand	_	NNP	_	64	nmod
 
-
 1	George	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	the	_	DT	_	4	det
@@ -11557,7 +11223,6 @@
 23	the	_	DT	_	24	det
 24	University	_	NNP	_	21	nmod
 
-
 1	Janet	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -11577,7 +11242,6 @@
 17	from	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	Ohio	_	NNP	_	14	nmod
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -11648,7 +11312,6 @@
 67	at	_	IN	_	68	case
 68	Columbia	_	NNP	_	66	nmod
 
-
 1	Willa	_	NNP	_	2	compound
 2	briefly	_	NN	_	3	nsubj
 3	made	_	VBD	_	23	csubj
@@ -11684,7 +11347,6 @@
 33	taught	_	VBD	_	31	acl:relcl
 34	at	_	IN	_	35	case
 35	Central	_	NNP	_	33	nmod
-
 
 1	Spencer	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -11741,7 +11403,6 @@
 53	from	_	IN	_	54	case
 54	Brigham	_	NNP	_	45	nmod
 
-
 1	Ernest	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -11778,7 +11439,6 @@
 34	attended	_	VBD	_	26	ccomp
 35	Bacup	_	NN	_	34	dobj
 
-
 1	Rebecca	_	NNP	_	4	compound
 2	and	_	CC	_	1	cc
 3	jonathan	_	NN	_	1	conj
@@ -11788,7 +11448,6 @@
 7	student	_	NN	_	0	ROOT
 8	at	_	IN	_	9	case
 9	Bowie	_	NNP	_	7	nmod
-
 
 1	Barry	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -11825,7 +11484,6 @@
 33	barry	_	NN	_	26	nmod
 34	attended	_	VBD	_	3	dep
 35	Middlebury	_	NNP	_	34	dobj
-
 
 1	Frank	_	NNP	_	2	compound
 2	akc	_	NNP	_	7	nsubj
@@ -11874,7 +11532,6 @@
 45	King	_	NNP	_	43	nmod
 46	's	_	POS	_	45	case
 
-
 1	Sadettin	_	NNP	_	8	nsubj
 2	1964	_	CD	_	1	nummod
 3	in	_	IN	_	4	case
@@ -11901,7 +11558,6 @@
 24	from	_	IN	_	25	case
 25	University	_	NNP	_	22	nmod
 
-
 1	Jon	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
 3	1951	_	CD	_	1	nummod
@@ -11915,7 +11571,6 @@
 11	the	_	DT	_	12	det
 12	University	_	NNP	_	9	nmod
 
-
 1	Clark	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -11928,7 +11583,6 @@
 10	educated	_	VBN	_	3	ccomp
 11	at	_	IN	_	12	case
 12	Pennsylvania	_	NNP	_	10	nmod
-
 
 1	Patchen	_	NN	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -11954,7 +11608,6 @@
 22	from	_	IN	_	23	case
 23	Harvard	_	NNP	_	15	nmod
 
-
 1	Liu	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
 3	november	_	NNP	_	2	xcomp
@@ -11968,7 +11621,6 @@
 11	graduated	_	VBD	_	10	acl
 12	from	_	IN	_	13	case
 13	Tsinghua	_	NNP	_	11	nmod
-
 
 1	Robert	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -12008,7 +11660,6 @@
 36	from	_	IN	_	37	case
 37	Los	_	NNP	_	35	nmod
 
-
 1	Ronnie	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	an	_	DT	_	6	det
@@ -12025,7 +11676,6 @@
 14	alma	_	JJ	_	16	amod
 15	mater	_	NN	_	16	compound
 16	Tarleton	_	NNP	_	8	nmod
-
 
 1	Kalle	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -12052,7 +11702,6 @@
 23	the	_	DT	_	25	det
 24	2004	_	CD	_	25	nummod
 25	European	_	JJ	_	15	nmod
-
 
 1	Kevin	_	NNP	_	2	nsubj
 2	born	_	VBN	_	9	csubj
@@ -12122,7 +11771,6 @@
 66	the	_	DT	_	67	det
 67	University	_	NNP	_	64	nmod
 
-
 1	Eber	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	a	_	DT	_	4	det
@@ -12130,7 +11778,6 @@
 5	of	_	IN	_	7	case
 6	the	_	DT	_	7	det
 7	University	_	NNP	_	4	nmod
-
 
 1	Andy	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -12145,7 +11792,6 @@
 11	he	_	PRP	_	12	nsubj
 12	attended	_	VBD	_	8	acl:relcl
 13	Towson	_	NNP	_	12	dobj
-
 
 1	Benjamin	_	NNP	_	12	nsubj
 2	born	_	VBN	_	1	acl
@@ -12186,7 +11832,6 @@
 37	a	_	DT	_	36	dep
 38	from	_	IN	_	39	case
 39	Sarah	_	NNP	_	37	nmod
-
 
 1	Chambers	_	NNS	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -12251,14 +11896,12 @@
 61	attended	_	VBD	_	58	acl:relcl
 62	North	_	NNP	_	61	dobj
 
-
 1	Ella	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	recognition	_	NN	_	2	dobj
 4	from	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	Malaysian	_	JJ	_	2	nmod
-
 
 1	Iqrar	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -12286,14 +11929,12 @@
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	19	nmod
 
-
 1	Frank	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	4	nmod:poss
 4	ba	_	NN	_	2	dobj
 5	from	_	IN	_	6	case
 6	Texas	_	NNP	_	2	nmod
-
 
 1	Joel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -12416,11 +12057,9 @@
 119	of	_	IN	_	120	case
 120	Yeshiva	_	NNP	_	118	nmod
 
-
 1	Siddique	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Salendine	_	NNP	_	2	dobj
-
 
 1	Henry	_	NNP	_	2	compound
 2	april	_	NNP	_	15	nsubj
@@ -12455,7 +12094,6 @@
 31	1857	_	CD	_	29	nmod
 32	from	_	IN	_	33	case
 33	Middlebury	_	NNP	_	17	nmod
-
 
 1	Seth	_	NNP	_	16	nsubj
 2	born	_	VBN	_	1	acl
@@ -12495,11 +12133,9 @@
 36	from	_	IN	_	37	case
 37	Spring	_	NN	_	35	nmod
 
-
 1	Percy	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Staunton	_	NNP	_	2	dobj
-
 
 1	Glynn	_	NNP	_	2	nsubj
 2	began	_	VBD	_	0	ROOT
@@ -12580,7 +12216,6 @@
 77	's	_	POS	_	76	case
 78	Hayward	_	NNP	_	69	nmod
 
-
 1	Fred	_	NNP	_	0	ROOT
 2	located	_	JJ	_	1	dep
 3	in	_	IN	_	6	case
@@ -12602,7 +12237,6 @@
 19	playing	_	VBG	_	18	acl
 20	under	_	IN	_	21	case
 21	Purdue	_	NNP	_	19	nmod
-
 
 1	Pat	_	NNP	_	11	nsubj
 2	born	_	VBN	_	1	acl
@@ -12666,7 +12300,6 @@
 60	of	_	IN	_	61	case
 61	Dakota	_	NNP	_	59	nmod
 
-
 1	Samuel	_	NNP	_	2	compound
 2	february	_	NNP	_	0	ROOT
 3	3	_	CD	_	4	compound
@@ -12688,7 +12321,6 @@
 19	the	_	DT	_	20	det
 20	Massachusetts	_	NNP	_	17	nmod
 
-
 1	David	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	4	nmod:poss
@@ -12698,7 +12330,6 @@
 7	science	_	NN	_	2	nmod
 8	from	_	IN	_	9	case
 9	McGill	_	NNP	_	2	nmod
-
 
 1	Griffith	_	NNP	_	11	nsubj
 2	1858	_	CD	_	1	nummod
@@ -12716,7 +12347,6 @@
 14	educated	_	VBN	_	11	ccomp
 15	at	_	IN	_	16	case
 16	Jesus	_	NNP	_	14	nmod
-
 
 1	Whitman	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
@@ -12754,7 +12384,6 @@
 34	attended	_	VBD	_	17	ccomp
 35	St.	_	NNP	_	34	dobj
 
-
 1	Dan	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -12779,7 +12408,6 @@
 22	he	_	PRP	_	23	nsubj
 23	attended	_	VBD	_	21	acl:relcl
 24	Phillips	_	NNP	_	23	dobj
-
 
 1	Joseph	_	NNP	_	2	compound
 2	1857	_	NNP	_	7	nsubj
@@ -12834,7 +12462,6 @@
 51	attended	_	VBD	_	49	acl:relcl
 52	University	_	NNP	_	51	dobj
 
-
 1	Gordon	_	NNP	_	0	ROOT
 2	who	_	WP	_	5	nsubj
 3	is	_	VBZ	_	5	cop
@@ -12843,7 +12470,6 @@
 6	of	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	University	_	NNP	_	5	nmod
-
 
 1	Thomas	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -12855,13 +12481,11 @@
 8	from	_	IN	_	9	case
 9	Brown	_	NNP	_	7	nmod
 
-
 1	Renato	_	NNP	_	2	nsubj
 2	taught	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	Manhattan	_	NNP	_	2	nmod
-
 
 1	Seymour	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -12893,7 +12517,6 @@
 28	attended	_	VBD	_	26	acl:relcl
 29	the	_	DT	_	30	det
 30	University	_	NNP	_	28	dobj
-
 
 1	Ervine	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -13014,7 +12637,6 @@
 117	by	_	IN	_	118	case
 118	School	_	NNP	_	108	conj
 
-
 1	Bill	_	NNP	_	9	nsubjpass
 2	at	_	IN	_	6	case
 3	the	_	DT	_	6	det
@@ -13049,7 +12671,6 @@
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	30	nmod
 
-
 1	Jean	_	NNP	_	2	nsubj
 2	beginning	_	VBG	_	0	ROOT
 3	at	_	IN	_	4	case
@@ -13073,7 +12694,6 @@
 21	the	_	DT	_	22	det
 22	University	_	NNP	_	19	nmod
 
-
 1	Walter	_	NNP	_	2	nsubj
 2	split	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	4	nmod:poss
@@ -13095,7 +12715,6 @@
 19	later	_	RB	_	20	advmod
 20	attended	_	VBD	_	15	dep
 21	Fullerton	_	NNP	_	20	dobj
-
 
 1	John	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
@@ -13138,7 +12757,6 @@
 39	from	_	IN	_	40	case
 40	Kingfisher	_	NNP	_	35	nmod
 
-
 1	John	_	NNP	_	2	compound
 2	mp	_	NNP	_	0	ROOT
 3	for	_	IN	_	4	case
@@ -13162,7 +12780,6 @@
 21	eton	_	NN	_	19	nmod
 22	and	_	CC	_	21	cc
 23	Trinity	_	NN	_	21	conj
-
 
 1	Carlton	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
@@ -13195,7 +12812,6 @@
 29	at	_	IN	_	30	case
 30	Northwestern	_	NNP	_	28	nmod
 
-
 1	Joseph	_	NNP	_	4	compound
 2	born	_	VBN	_	4	amod
 3	1933	_	CD	_	4	nummod
@@ -13215,7 +12831,6 @@
 17	from	_	IN	_	18	case
 18	Harvard	_	NNP	_	13	nmod
 
-
 1	Cindy	_	NNP	_	6	nsubj
 2	of	_	IN	_	5	case
 3	en	_	IN	_	5	case
@@ -13223,7 +12838,6 @@
 5	vogue	_	NN	_	1	nmod
 6	attended	_	VBD	_	0	ROOT
 7	Balboa	_	NNP	_	6	dobj
-
 
 1	Richard	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -13243,12 +12857,10 @@
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
 
-
 1	William	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	a	_	DT	_	4	det
 4	Texas	_	NNP	_	0	ROOT
-
 
 1	Joseph	_	NNP	_	2	compound
 2	1857	_	NNP	_	7	nsubj
@@ -13332,7 +12944,6 @@
 80	degree	_	NN	_	77	dobj
 81	from	_	IN	_	82	case
 82	Boston	_	NNP	_	80	nmod
-
 
 1	Lewis	_	NNP	_	2	nsubj
 2	won	_	VBD	_	0	ROOT
@@ -13425,7 +13036,6 @@
 89	from	_	IN	_	90	case
 90	Ashland	_	NNP	_	81	nmod
 
-
 1	Samuel	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	the	_	DT	_	4	det
@@ -13434,7 +13044,6 @@
 6	economics	_	NN	_	4	dep
 7	from	_	IN	_	8	case
 8	Seoul	_	NNP	_	6	nmod
-
 
 1	Abraham	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -13464,7 +13073,6 @@
 26	the	_	DT	_	27	det
 27	University	_	NNP	_	20	nmod
 
-
 1	Jake	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	an	_	DT	_	6	det
@@ -13490,7 +13098,6 @@
 23	from	_	IN	_	25	case
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	22	nmod
-
 
 1	Christopher	_	NNP	_	3	compound
 2	m	_	NN	_	3	compound
@@ -13522,7 +13129,6 @@
 28	at	_	IN	_	29	case
 29	Harrow	_	NNP	_	27	nmod
 
-
 1	Steve	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	a	_	DT	_	6	det
@@ -13534,7 +13140,6 @@
 9	educated	_	VBN	_	6	acl:relcl
 10	at	_	IN	_	11	case
 11	Clifton	_	NNP	_	9	nmod
-
 
 1	Katrina	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -13548,7 +13153,6 @@
 10	she	_	PRP	_	11	nsubj
 11	attended	_	VBD	_	8	acl:relcl
 12	James	_	NNP	_	11	dobj
-
 
 1	Harold	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
@@ -13575,7 +13179,6 @@
 23	1972	_	CD	_	17	conj
 24	from	_	IN	_	25	case
 25	Villanova	_	NNP	_	23	nmod
-
 
 1	David	_	NNP	_	2	nsubj
 2	headed	_	VBD	_	0	ROOT
@@ -13636,7 +13239,6 @@
 57	from	_	IN	_	58	case
 58	Cornell	_	NNP	_	53	nmod
 
-
 1	Fenella	_	NNP	_	7	nsubj
 2	her	_	PRP$	_	3	nmod:poss
 3	father	_	NN	_	1	dobj
@@ -13666,12 +13268,10 @@
 27	misreported	_	VBN	_	17	advcl
 28	North	_	NNP	_	27	dobj
 
-
 1	Paul	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	4	case
 4	Andress	_	NNP	_	2	nmod
-
 
 1	Joseph	_	NNP	_	2	compound
 2	b	_	NN	_	0	ROOT
@@ -13681,7 +13281,6 @@
 6	graduated	_	VBD	_	2	acl:relcl
 7	from	_	IN	_	8	case
 8	Harvard	_	NNP	_	6	nmod
-
 
 1	Walter	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -13704,13 +13303,11 @@
 19	at	_	IN	_	20	case
 20	St.	_	NNP	_	18	nmod
 
-
 1	Cristina	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	International	_	NNP	_	2	nmod
-
 
 1	Yuko	_	NNP	_	6	nsubj
 2	born	_	VBN	_	3	amod
@@ -13759,7 +13356,6 @@
 45	she	_	PRP	_	46	nsubj
 46	attended	_	VBD	_	38	dep
 47	Pratt	_	NNP	_	46	dobj
-
 
 1	Ernest	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -13811,7 +13407,6 @@
 48	attended	_	VBD	_	43	ccomp
 49	the	_	DT	_	50	det
 50	Canterbury	_	NNP	_	48	dobj
-
 
 1	Yusuf	_	NNP	_	11	nsubj
 2	born	_	VBN	_	1	acl
@@ -13868,7 +13463,6 @@
 53	from	_	IN	_	55	case
 54	the	_	DT	_	55	det
 55	Somali	_	NNP	_	52	nmod
-
 
 1	Shana	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
@@ -13955,14 +13549,12 @@
 83	from	_	IN	_	84	case
 84	Barnard	_	NNP	_	82	nmod
 
-
 1	Ahmad	_	NNP	_	3	nsubj
 2	subsequently	_	RB	_	3	advmod
 3	studied	_	VBD	_	0	ROOT
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	University	_	NNP	_	3	nmod
-
 
 1	Kiran	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
@@ -13998,7 +13590,6 @@
 32	degree	_	NN	_	29	dobj
 33	from	_	IN	_	34	case
 34	John	_	NNP	_	29	nmod
-
 
 1	Hounsh	_	JJ	_	13	nsubj
 2	born	_	VBN	_	1	acl
@@ -14056,7 +13647,6 @@
 54	p	_	NN	_	55	compound
 55	Clements	_	NNP	_	51	nmod
 
-
 1	Ezra	_	NNP	_	3	nmod:poss
 2	's	_	POS	_	1	case
 3	advice	_	NN	_	0	ROOT
@@ -14068,7 +13658,6 @@
 9	then	_	RB	_	11	advmod
 10	a	_	DT	_	11	det
 11	Harvard	_	NNP	_	3	dep
-
 
 1	Kai	_	NNP	_	2	nsubj
 2	comes	_	VBZ	_	0	ROOT
@@ -14097,7 +13686,6 @@
 25	he	_	PRP	_	26	nsubj
 26	attended	_	VBD	_	24	acl:relcl
 27	San	_	NNP	_	26	dobj
-
 
 1	Walter	_	NNP	_	0	ROOT
 2	of	_	IN	_	7	case
@@ -14133,7 +13721,6 @@
 32	the	_	DT	_	33	det
 33	Royal	_	NNP	_	31	dobj
 
-
 1	Philippa	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -14155,7 +13742,6 @@
 19	attended	_	VBD	_	3	dep
 20	Hutt	_	NNP	_	19	dobj
 
-
 1	Robert	_	NNP	_	2	compound
 2	frs	_	NNP	_	12	nsubj
 3	29	_	CD	_	4	nummod
@@ -14174,7 +13760,6 @@
 16	at	_	IN	_	18	case
 17	the	_	DT	_	18	det
 18	University	_	NNP	_	14	nmod
-
 
 1	Walker	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -14217,7 +13802,6 @@
 39	attended	_	VBD	_	36	acl:relcl
 40	Columbia	_	NNP	_	39	dobj
 
-
 1	Talib	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
@@ -14258,7 +13842,6 @@
 38	the	_	DT	_	39	det
 39	Manhattan	_	NNP	_	35	nmod
 
-
 1	William	_	NNP	_	6	nsubj
 2	but	_	CC	_	1	cc
 3	he	_	PRP	_	1	conj
@@ -14288,7 +13871,6 @@
 27	his	_	PRP$	_	29	nmod:poss
 28	father	_	NN	_	29	compound
 29	Malvern	_	NNP	_	25	conj
-
 
 1	John	_	NNP	_	2	nsubj
 2	born	_	VBN	_	11	csubj
@@ -14328,7 +13910,6 @@
 36	at	_	IN	_	38	case
 37	the	_	DT	_	38	det
 38	Art	_	NNP	_	35	nmod
-
 
 1	Hal	_	NNP	_	8	nsubj
 2	born	_	VBN	_	1	acl
@@ -14380,7 +13961,6 @@
 48	of	_	IN	_	50	case
 49	the	_	DT	_	50	det
 50	California	_	NNP	_	47	nmod
-
 
 1	Richard	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
@@ -14438,7 +14018,6 @@
 54	attended	_	VBD	_	52	acl:relcl
 55	Middlesex	_	NNP	_	54	dobj
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -14459,7 +14038,6 @@
 18	laude	_	NN	_	15	dobj
 19	from	_	IN	_	20	case
 20	Duke	_	NNP	_	15	nmod
-
 
 1	Charles	_	NNP	_	3	compound
 2	22	_	CD	_	3	nummod
@@ -14482,7 +14060,6 @@
 19	graduated	_	VBD	_	12	advcl
 20	from	_	IN	_	21	case
 21	Columbia	_	NNP	_	19	nmod
-
 
 1	Warren	_	NNP	_	3	nsubj
 2	is	_	VBZ	_	3	cop
@@ -14533,7 +14110,6 @@
 47	the	_	DT	_	48	det
 48	University	_	NNP	_	45	nmod
 
-
 1	Boris	_	NNP	_	0	ROOT
 2	now	_	RB	_	1	dep
 3	the	_	DT	_	5	det
@@ -14542,7 +14118,6 @@
 6	named	_	VBN	_	5	acl
 7	after	_	IN	_	8	case
 8	Leningrad	_	NNP	_	6	nmod
-
 
 1	Carl	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -14627,7 +14202,6 @@
 81	from	_	IN	_	82	case
 82	Yale	_	NNP	_	54	nmod
 
-
 1	Julian	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -14648,7 +14222,6 @@
 18	at	_	IN	_	19	case
 19	Felsted	_	NNP	_	17	nmod
 
-
 1	Olive	_	JJ	_	3	amod
 2	1869	_	CD	_	3	nummod
 3	1968	_	CD	_	5	nsubjpass
@@ -14665,7 +14238,6 @@
 14	at	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	University	_	NNP	_	13	nmod
-
 
 1	Robert	_	NNP	_	3	nsubj
 2	is	_	VBZ	_	3	cop
@@ -14692,7 +14264,6 @@
 23	psychology	_	NN	_	22	dobj
 24	at	_	IN	_	25	case
 25	City	_	NNP	_	22	nmod
-
 
 1	Sidney	_	NNP	_	0	ROOT
 2	as	_	IN	_	5	mark
@@ -14736,7 +14307,6 @@
 40	attended	_	VBD	_	35	dep
 41	Tonbridge	_	NNP	_	40	dobj
 
-
 1	Thomas	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
 3	his	_	PRP$	_	8	nmod:poss
@@ -14758,7 +14328,6 @@
 19	at	_	IN	_	20	case
 20	Eton	_	NNP	_	18	nmod
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
@@ -14774,7 +14343,6 @@
 13	education	_	NN	_	11	dobj
 14	at	_	IN	_	15	case
 15	Trinity	_	NNP	_	13	nmod
-
 
 1	Johannes	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -14792,13 +14360,11 @@
 14	the	_	DT	_	15	det
 15	Royal	_	NNP	_	11	nmod
 
-
 1	Miangul	_	NNP	_	2	nsubj
 2	enrolled	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	Pakistan	_	NNP	_	2	nmod
-
 
 1	Jacqueline	_	NNP	_	5	compound
 2	bronze	_	NN	_	5	compound
@@ -14812,7 +14378,6 @@
 10	azevedo	_	NN	_	5	conj
 11	attended	_	VBD	_	0	ROOT
 12	Stanford	_	NNP	_	11	dobj
-
 
 1	Thomas	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -14832,7 +14397,6 @@
 16	then	_	RB	_	18	advmod
 17	at	_	IN	_	18	case
 18	University	_	NNP	_	11	nmod
-
 
 1	James	_	NNP	_	0	ROOT
 2	in	_	IN	_	4	case
@@ -14936,7 +14500,6 @@
 100	the	_	DT	_	101	det
 101	Loyola	_	NNP	_	98	nmod
 
-
 1	Marjorie	_	NNP	_	8	nsubj
 2	born	_	VBN	_	3	amod
 3	1951	_	CD	_	1	nummod
@@ -14977,13 +14540,11 @@
 38	at	_	IN	_	39	case
 39	Boston	_	NNP	_	37	nmod
 
-
 1	Hugh	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Bradfield	_	NNP	_	3	nmod
-
 
 1	George	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -15002,7 +14563,6 @@
 15	at	_	IN	_	17	case
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
-
 
 1	Mercedes	_	NNP	_	2	nsubj
 2	march	_	VB	_	11	csubj
@@ -15207,7 +14767,6 @@
 201	the	_	DT	_	202	det
 202	University	_	NNP	_	199	nmod
 
-
 1	Pascal	_	NNP	_	2	nsubj
 2	obtained	_	VBD	_	0	ROOT
 3	a	_	DT	_	5	det
@@ -15225,7 +14784,6 @@
 15	the	_	DT	_	16	det
 16	University	_	NNP	_	11	nmod
 
-
 1	Walter	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -15239,7 +14797,6 @@
 11	at	_	IN	_	12	case
 12	Manchester	_	NNP	_	10	nmod
 
-
 1	Elizabeth	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	her	_	PRP$	_	4	nmod:poss
@@ -15250,7 +14807,6 @@
 8	from	_	IN	_	10	case
 9	the	_	DT	_	10	det
 10	University	_	NNP	_	7	nmod
-
 
 1	Leonida	_	NNP	_	5	nsubj
 2	naturally	_	RB	_	5	advmod
@@ -15265,7 +14821,6 @@
 11	the	_	DT	_	12	det
 12	University	_	NNP	_	9	nmod
 
-
 1	Jason	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -15274,13 +14829,11 @@
 6	at	_	IN	_	7	case
 7	Northwest	_	NNP	_	5	nmod
 
-
 1	Andrew	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	school	_	NN	_	2	dobj
 4	at	_	IN	_	5	case
 5	Villanova	_	NNP	_	2	nmod
-
 
 1	Eduardo	_	NNP	_	2	nsubj
 2	became	_	VBD	_	14	csubj
@@ -15303,13 +14856,11 @@
 19	of	_	IN	_	20	case
 20	Coachella	_	NNP	_	18	nmod
 
-
 1	John	_	NNP	_	2	compound
 2	1861	_	NNP	_	4	nsubj
 3	1949	_	CD	_	2	nummod
 4	attended	_	VBD	_	0	ROOT
 5	Knox	_	NNP	_	4	dobj
-
 
 1	Nick	_	NNP	_	0	ROOT
 2	with	_	IN	_	6	case
@@ -15321,7 +14872,6 @@
 8	the	_	DT	_	10	det
 9	prestigious	_	JJ	_	10	amod
 10	Berklee	_	NNP	_	1	nmod
-
 
 1	Daniel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -15367,7 +14917,6 @@
 42	the	_	DT	_	43	det
 43	University	_	NNP	_	40	nmod
 
-
 1	Scott	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
 3	march	_	NN	_	2	xcomp
@@ -15393,7 +14942,6 @@
 23	baseball	_	NN	_	21	conj
 24	at	_	IN	_	25	case
 25	Seymour	_	NNP	_	19	nmod
-
 
 1	Nick	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -15437,7 +14985,6 @@
 40	at	_	IN	_	41	case
 41	University	_	NNP	_	37	nmod
 
-
 1	Jerome	_	NNP	_	2	nsubj
 2	earned	_	VBD	_	0	ROOT
 3	a	_	DT	_	5	det
@@ -15446,7 +14993,6 @@
 6	at	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	University	_	NNP	_	2	nmod
-
 
 1	Andrew	_	NNP	_	14	nsubj
 2	born	_	VBN	_	1	acl
@@ -15467,7 +15013,6 @@
 17	at	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	University	_	NNP	_	16	nmod
-
 
 1	Michael	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -15598,7 +15143,6 @@
 127	from	_	IN	_	128	case
 128	Iowa	_	NNP	_	120	nmod
 
-
 1	Abraham	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
 3	attended	_	VBD	_	1	acl:relcl
@@ -15607,12 +15151,10 @@
 6	at	_	IN	_	7	case
 7	Albert	_	NNP	_	3	nmod
 
-
 1	Gerald	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	4	case
 4	Ambassador	_	NNP	_	2	nmod
-
 
 1	Robert	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -15637,7 +15179,6 @@
 21	engineering	_	NN	_	13	nmod
 22	from	_	IN	_	23	case
 23	Oregon	_	NNP	_	21	nmod
-
 
 1	Marion	_	NNP	_	2	nsubj
 2	majoring	_	VBG	_	0	ROOT
@@ -15664,7 +15205,6 @@
 23	of	_	IN	_	24	case
 24	Seton	_	NNP	_	19	nmod
 
-
 1	Qassim	_	NNP	_	2	nsubj
 2	born	_	VBN	_	12	csubj
 3	1960	_	CD	_	2	dobj
@@ -15683,7 +15223,6 @@
 16	at	_	IN	_	18	case
 17	the	_	DT	_	18	det
 18	University	_	NNP	_	15	nmod
-
 
 1	Max	_	NNP	_	3	compound
 2	12	_	CD	_	3	nummod
@@ -15713,7 +15252,6 @@
 26	from	_	IN	_	27	case
 27	University	_	NNP	_	19	nmod
 
-
 1	Polly	_	NNP	_	4	compound
 2	born	_	VBN	_	4	amod
 3	mary	_	JJ	_	4	amod
@@ -15740,7 +15278,6 @@
 24	attended	_	VBD	_	15	acl:relcl
 25	the	_	DT	_	26	det
 26	Central	_	NNP	_	24	dobj
-
 
 1	Veniamin	_	NNP	_	2	nsubj
 2	started	_	VBD	_	0	ROOT
@@ -15794,7 +15331,6 @@
 50	from	_	IN	_	52	case
 51	the	_	DT	_	52	det
 52	Saint	_	NNP	_	49	nmod
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -15880,7 +15416,6 @@
 82	attended	_	VBD	_	73	ccomp
 83	San	_	NNP	_	82	dobj
 
-
 1	Morris	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -15895,7 +15430,6 @@
 12	he	_	PRP	_	13	nsubj
 13	attended	_	VBD	_	3	parataxis
 14	Hackney	_	NNP	_	13	dobj
-
 
 1	Ernest	_	NNP	_	10	nsubj
 2	1935	_	CD	_	3	compound
@@ -15917,13 +15451,11 @@
 18	the	_	DT	_	19	det
 19	University	_	NNP	_	17	dep
 
-
 1	Warren	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Audenshaw	_	NNP	_	3	nmod
-
 
 1	Most	_	JJS	_	3	advmod
 2	he	_	PRP	_	3	nsubj
@@ -15954,7 +15486,6 @@
 27	doctor	_	NN	_	24	dobj
 28	from	_	IN	_	29	case
 29	John	_	NNP	_	24	nmod
-
 
 1	Samuel	_	NNP	_	2	compound
 2	c	_	NN	_	13	nsubjpass
@@ -15994,7 +15525,6 @@
 36	the	_	DT	_	38	det
 37	royal	_	NN	_	38	compound
 38	Academy	_	NN	_	35	dobj
-
 
 1	Steve	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -16089,7 +15619,6 @@
 91	from	_	IN	_	92	case
 92	Northumbria	_	NNP	_	90	nmod
 
-
 1	Manning	_	VBG	_	0	ROOT
 2	in	_	IN	_	3	case
 3	1938	_	CD	_	1	nmod
@@ -16149,7 +15678,6 @@
 57	Blundell	_	NNP	_	55	nmod
 58	's	_	POS	_	57	case
 
-
 1	A.	_	NN	_	6	nsubj
 2	was	_	VBD	_	6	cop
 3	an	_	DT	_	6	det
@@ -16204,7 +15732,6 @@
 52	the	_	DT	_	53	det
 53	University	_	NNP	_	44	nmod
 
-
 1	Lloyd	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	15	csubj
@@ -16226,7 +15753,6 @@
 19	degree	_	NN	_	15	xcomp
 20	at	_	IN	_	21	case
 21	St.	_	NNP	_	19	nmod
-
 
 1	Polly	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -16261,7 +15787,6 @@
 31	the	_	DT	_	32	det
 32	University	_	NNP	_	27	nmod
 
-
 1	Mark	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
 3	was	_	VBD	_	4	auxpass
@@ -16286,14 +15811,12 @@
 22	the	_	DT	_	23	det
 23	University	_	NNP	_	20	nmod
 
-
 1	Steven	_	NNP	_	3	nsubj
 2	first	_	RB	_	3	advmod
 3	trained	_	VBD	_	0	ROOT
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	Boston	_	NNP	_	3	nmod
-
 
 1	Joel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -16307,7 +15830,6 @@
 10	rivera	_	NN	_	5	dobj
 11	attended	_	VBD	_	3	dep
 12	New	_	NNP	_	11	dobj
-
 
 1	Norval	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -16339,7 +15861,6 @@
 28	at	_	IN	_	30	case
 29	the	_	DT	_	30	det
 30	University	_	NNP	_	21	nmod
-
 
 1	Narendra	_	NNP	_	2	compound
 2	mavelikkara	_	NN	_	13	nsubj
@@ -16383,7 +15904,6 @@
 40	english	_	JJ	_	41	amod
 41	Bishop	_	NNP	_	38	conj
 
-
 1	Roger	_	NNP	_	0	ROOT
 2	a	_	DT	_	7	det
 3	25	_	CD	_	4	compound
@@ -16420,7 +15940,6 @@
 34	at	_	IN	_	35	case
 35	St	_	NNP	_	33	nmod
 
-
 1	P.	_	NNP	_	2	compound
 2	b	_	NN	_	0	ROOT
 3	1915	_	CD	_	4	compound
@@ -16429,7 +15948,6 @@
 6	graduate	_	NN	_	2	nmod:npmod
 7	from	_	IN	_	8	case
 8	New	_	NNP	_	2	nmod
-
 
 1	Arthur	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -16498,7 +16016,6 @@
 65	from	_	IN	_	66	case
 66	Furman	_	NNP	_	64	nmod
 
-
 1	Leslie	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -16554,7 +16071,6 @@
 53	the	_	DT	_	54	det
 54	University	_	NNP	_	47	nmod
 
-
 1	Brian	_	NNP	_	2	nsubj
 2	earned	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	4	nmod:poss
@@ -16564,7 +16080,6 @@
 7	1994	_	CD	_	6	nummod
 8	from	_	IN	_	9	case
 9	Boston	_	NNP	_	2	nmod
-
 
 1	John	_	NNP	_	0	ROOT
 2	the	_	DT	_	5	det
@@ -16612,7 +16127,6 @@
 44	the	_	DT	_	45	det
 45	Restoration	_	NN	_	42	nmod
 
-
 1	Etchu	_	NN	_	2	compound
 2	b	_	NN	_	14	nsubj
 3	12	_	CD	_	4	nummod
@@ -16640,7 +16154,6 @@
 25	attended	_	VBD	_	14	acl
 26	Baldwin	_	NNP	_	25	dobj
 
-
 1	Roger	_	NNP	_	8	nmod
 2	at	_	IN	_	3	case
 3	penn	_	NNP	_	1	nmod
@@ -16649,7 +16162,6 @@
 6	advisor	_	NN	_	8	nsubj
 7	was	_	VBD	_	8	cop
 8	University	_	NNP	_	0	ROOT
-
 
 1	Marcel	_	NNP	_	2	compound
 2	landis	_	NNP	_	3	nsubj
@@ -16667,7 +16179,6 @@
 14	at	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	Harvard	_	NNP	_	13	nmod
-
 
 1	Charles	_	NNP	_	2	compound
 2	usa	_	NNP	_	7	nsubj
@@ -16783,7 +16294,6 @@
 112	the	_	DT	_	113	det
 113	University	_	NNP	_	108	nmod
 
-
 1	Greg	_	NNP	_	19	nsubj
 2	born	_	VBN	_	1	acl
 3	november	_	NNP	_	2	dobj
@@ -16837,7 +16347,6 @@
 51	the	_	DT	_	52	det
 52	United	_	NNP	_	49	nmod
 
-
 1	Mitch	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -16845,13 +16354,11 @@
 5	of	_	IN	_	6	case
 6	Indiana	_	NNP	_	4	nmod
 
-
 1	Sarah	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
 3	graduate	_	NN	_	1	dep
 4	of	_	IN	_	5	case
 5	Columbia	_	NNP	_	3	nmod
-
 
 1	Jagdish	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -16880,7 +16387,6 @@
 25	at	_	IN	_	27	case
 26	the	_	DT	_	27	det
 27	Allahabad	_	NNP	_	24	nmod
-
 
 1	Judith	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -16968,7 +16474,6 @@
 84	at	_	IN	_	85	case
 85	Wheelock	_	NNP	_	80	nmod
 
-
 1	Ludwig	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	the	_	DT	_	4	det
@@ -17006,7 +16511,6 @@
 35	attended	_	VBD	_	33	acl:relcl
 36	a	_	DT	_	37	det
 37	Gymnasium	_	NNP	_	35	dobj
-
 
 1	Gene	_	NN	_	4	compound
 2	and	_	CC	_	1	cc
@@ -17050,7 +16554,6 @@
 40	the	_	DT	_	41	det
 41	University	_	NNP	_	35	nmod
 
-
 1	John	_	NNP	_	35	nsubjpass
 2	the	_	DT	_	3	det
 3	founder	_	NN	_	28	nsubj
@@ -17089,7 +16592,6 @@
 36	at	_	IN	_	37	case
 37	Eton	_	NNP	_	35	nmod
 
-
 1	Gerhard	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -17115,7 +16617,6 @@
 23	the	_	DT	_	24	det
 24	University	_	NNP	_	21	nmod
 
-
 1	Alfred	_	NNP	_	3	nmod:poss
 2	's	_	POS	_	1	case
 3	family	_	NN	_	5	nsubj
@@ -17136,7 +16637,6 @@
 18	from	_	IN	_	20	case
 19	the	_	DT	_	20	det
 20	Hopkins	_	NNP	_	17	nmod
-
 
 1	Lloyd	_	NNP	_	3	compound
 2	born	_	VBN	_	3	amod
@@ -17169,7 +16669,6 @@
 29	television	_	NN	_	27	conj
 30	at	_	IN	_	31	case
 31	University	_	NNP	_	26	nmod
-
 
 1	Anita	_	NNP	_	2	compound
 2	february	_	NNP	_	41	nsubj
@@ -17245,7 +16744,6 @@
 72	attended	_	VBD	_	68	acl:relcl
 73	Western	_	NNP	_	72	dobj
 
-
 1	James	_	NNP	_	28	nsubj
 2	in	_	IN	_	5	case
 3	blue	_	JJ	_	5	amod
@@ -17292,7 +16790,6 @@
 44	sons	_	NNS	_	42	nmod
 45	Western	_	JJ	_	44	amod
 
-
 1	Renee	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
 3	conducted	_	VBN	_	4	amod
@@ -17310,7 +16807,6 @@
 15	currently	_	RB	_	16	advmod
 16	University	_	NNP	_	8	nmod
 
-
 1	Tre'Von	_	NNP	_	2	compound
 2	january	_	NNP	_	7	nsubj
 3	11	_	CD	_	4	compound
@@ -17321,7 +16817,6 @@
 8	for	_	IN	_	10	case
 9	the	_	DT	_	10	det
 10	UNLV	_	NNP	_	7	nmod
-
 
 1	Friedrich	_	NNP	_	4	compound
 2	and	_	CC	_	1	cc
@@ -17353,7 +16848,6 @@
 28	at	_	IN	_	29	case
 29	Vytautas	_	NNP	_	26	nmod
 
-
 1	James	_	NNP	_	14	nsubjpass
 2	a	_	DT	_	3	det
 3	member	_	NN	_	9	nsubj
@@ -17378,7 +16872,6 @@
 22	graduate	_	NN	_	14	ccomp
 23	of	_	IN	_	24	case
 24	Worcester	_	NNP	_	22	nmod
-
 
 1	David	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
@@ -17416,7 +16909,6 @@
 34	from	_	IN	_	35	case
 35	Dickinson	_	NNP	_	29	nmod
 
-
 1	David	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	4	nmod:poss
@@ -17424,7 +16916,6 @@
 5	a	_	DT	_	2	dep
 6	from	_	IN	_	7	case
 7	Dalhousie	_	NNP	_	5	nmod
-
 
 1	Sean	_	NNP	_	5	nsubj
 2	born	_	VBN	_	1	acl
@@ -17477,13 +16968,11 @@
 49	attended	_	VBD	_	43	advcl
 50	Servite	_	NNP	_	49	dobj
 
-
 1	Amory	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
 4	attractive	_	JJ	_	5	amod
 5	Princeton	_	NNP	_	0	ROOT
-
 
 1	Hannu	_	NNP	_	2	nsubj
 2	started	_	VBD	_	0	ROOT
@@ -17518,7 +17007,6 @@
 31	orchestral	_	JJ	_	29	conj
 32	conducting	_	VBG	_	29	dep
 33	Sibelius	_	NNP	_	32	dobj
-
 
 1	Charles	_	NNP	_	0	ROOT
 2	for	_	IN	_	4	case
@@ -17563,13 +17051,11 @@
 41	with	_	IN	_	42	case
 42	Westminster	_	NNP	_	40	nmod
 
-
 1	Nora	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Lehigh	_	NNP	_	3	nmod
-
 
 1	Bernice	_	NNP	_	19	nsubj
 2	of	_	IN	_	7	case
@@ -17617,7 +17103,6 @@
 44	from	_	IN	_	45	case
 45	Berklee	_	NNP	_	43	nmod
 
-
 1	Robert	_	NNP	_	9	dep
 2	until	_	IN	_	4	case
 3	in	_	IN	_	4	case
@@ -17631,7 +17116,6 @@
 11	the	_	DT	_	12	det
 12	University	_	NNP	_	9	nmod
 
-
 1	Albert	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -17642,7 +17126,6 @@
 8	attended	_	VBD	_	3	parataxis
 9	the	_	DT	_	10	det
 10	Wharton	_	NNP	_	8	dobj
-
 
 1	James	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
@@ -17655,14 +17138,12 @@
 9	the	_	DT	_	10	det
 10	University	_	NNP	_	7	nmod
 
-
 1	Malcolm	_	NNP	_	4	dep
 2	he	_	PRP	_	4	nsubjpass
 3	was	_	VBD	_	4	auxpass
 4	educated	_	VBN	_	0	ROOT
 5	at	_	IN	_	6	case
 6	Stonyhurst	_	NNP	_	4	nmod
-
 
 1	Derek	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
@@ -17677,7 +17158,6 @@
 11	he	_	PRP	_	12	nsubj
 12	attended	_	VBD	_	7	acl:relcl
 13	USC	_	NNP	_	12	dobj
-
 
 1	Robert	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -17714,7 +17194,6 @@
 33	at	_	IN	_	34	case
 34	Pomona	_	NNP	_	32	nmod
 
-
 1	Juan	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -17731,7 +17210,6 @@
 14	from	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	University	_	NNP	_	13	nmod
-
 
 1	Mihir	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
@@ -17775,7 +17253,6 @@
 40	from	_	IN	_	41	case
 41	Delhi	_	NNP	_	37	nmod
 
-
 1	Wolfgang	_	NNP	_	2	nsubj
 2	born	_	VBN	_	8	csubj
 3	9	_	CD	_	4	nummod
@@ -17801,16 +17278,13 @@
 23	the	_	DT	_	24	det
 24	University	_	NNP	_	19	nmod
 
-
 1	Tom	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Monifieth	_	NNP	_	2	dobj
 
-
 1	Robert	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Joseph	_	NNP	_	2	dobj
-
 
 1	Shawn	_	NNP	_	13	nsubj
 2	born	_	VBN	_	1	acl
@@ -17859,7 +17333,6 @@
 45	at	_	IN	_	46	case
 46	Eastern	_	NNP	_	42	nmod
 
-
 1	Leopoldo	_	NNP	_	9	nsubj
 2	is	_	VBZ	_	9	cop
 3	a	_	DT	_	9	det
@@ -17880,7 +17353,6 @@
 18	art	_	NN	_	16	dobj
 19	at	_	IN	_	20	case
 20	Central	_	NNP	_	16	nmod
-
 
 1	Peter	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -17905,7 +17377,6 @@
 21	d	_	NN	_	15	xcomp
 22	from	_	IN	_	23	case
 23	Saint	_	NNP	_	21	nmod
-
 
 1	Erskine	_	NNP	_	14	nsubj
 2	in	_	IN	_	5	mark
@@ -17963,7 +17434,6 @@
 54	mayer	_	NN	_	55	compound
 55	Georgia	_	NNP	_	50	nmod
 
-
 1	William	_	NNP	_	26	dep
 2	by	_	IN	_	5	case
 3	his	_	PRP$	_	5	nmod:poss
@@ -18005,7 +17475,6 @@
 39	and	_	CC	_	38	cc
 40	Christ	_	NNP	_	38	conj
 
-
 1	Lee	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -18035,11 +17504,9 @@
 27	attended	_	VBD	_	3	ccomp
 28	Washburn	_	NNP	_	27	dobj
 
-
 1	Andrew	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Bonneville	_	NNP	_	2	dobj
-
 
 1	Earle	_	NNP	_	11	nsubj
 2	born	_	VBN	_	1	acl
@@ -18118,7 +17585,6 @@
 75	at	_	IN	_	76	case
 76	Augsburg	_	NNP	_	72	nmod
 
-
 1	Steve	_	NNP	_	3	compound
 2	born	_	VBN	_	3	amod
 3	march	_	NN	_	13	nsubj
@@ -18155,7 +17621,6 @@
 34	attended	_	VBD	_	32	ccomp
 35	Garfield	_	NNP	_	34	dobj
 
-
 1	Brandon	_	NNP	_	12	nsubj
 2	born	_	VBN	_	1	acl
 3	december	_	NNP	_	2	dobj
@@ -18184,7 +17649,6 @@
 26	from	_	IN	_	27	case
 27	Troy	_	NNP	_	25	nmod
 
-
 1	Laurence	_	NNP	_	8	nsubj
 2	who	_	WP	_	3	nsubj
 3	retired	_	VBD	_	1	acl:relcl
@@ -18198,7 +17662,6 @@
 11	degree	_	NN	_	8	dobj
 12	from	_	IN	_	13	case
 13	Santa	_	NNP	_	11	nmod
-
 
 1	John	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
@@ -18224,7 +17687,6 @@
 22	the	_	DT	_	23	det
 23	Royal	_	NNP	_	18	nmod
 
-
 1	Tennessee	_	NNP	_	4	compound
 2	christopher	_	NN	_	4	compound
 3	fry	_	NN	_	4	compound
@@ -18239,14 +17701,12 @@
 12	the	_	DT	_	13	det
 13	Royal	_	NNP	_	8	nmod
 
-
 1	Edwin	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
 3	graduate	_	NN	_	1	dep
 4	of	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	Kellogg	_	NNP	_	3	nmod
-
 
 1	Richard	_	NNP	_	7	nsubj
 2	1796	_	CD	_	3	compound
@@ -18259,7 +17719,6 @@
 9	graduated	_	VBD	_	7	acl:relcl
 10	at	_	IN	_	11	case
 11	Trinity	_	NNP	_	9	nmod
-
 
 1	Jorge	_	NNP	_	14	nsubj
 2	born	_	VBN	_	1	acl
@@ -18307,7 +17766,6 @@
 44	attended	_	VBD	_	42	acl:relcl
 45	Murrieta	_	NNP	_	44	dobj
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -18321,7 +17779,6 @@
 11	educated	_	VBN	_	3	dep
 12	at	_	IN	_	13	case
 13	Westminster	_	NNP	_	11	nmod
-
 
 1	Tom	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -18412,7 +17869,6 @@
 87	the	_	DT	_	88	det
 88	USC	_	NNP	_	86	dobj
 
-
 1	Daliyah	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	an	_	DT	_	4	det
@@ -18421,7 +17877,6 @@
 6	philosophy	_	NN	_	2	nmod
 7	from	_	IN	_	8	case
 8	Tel	_	NNP	_	2	nmod
-
 
 1	Michael	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -18450,7 +17905,6 @@
 25	and	_	CC	_	18	cc
 26	Hamilton	_	NNP	_	18	conj
 
-
 1	Lincoln	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -18477,7 +17931,6 @@
 24	from	_	IN	_	25	case
 25	Groton	_	NNP	_	23	nmod
 
-
 1	Sarah	_	NNP	_	0	ROOT
 2	from	_	IN	_	3	case
 3	1904	_	CD	_	1	nmod
@@ -18488,7 +17941,6 @@
 8	at	_	IN	_	10	case
 9	the	_	DT	_	10	det
 10	CNSAD	_	NN	_	7	nmod
-
 
 1	Tarabai	_	NNP	_	3	compound
 2	19	_	CD	_	3	nummod
@@ -18504,7 +17956,6 @@
 12	from	_	IN	_	14	case
 13	the	_	DT	_	14	det
 14	University	_	NNP	_	11	nmod
-
 
 1	Branden	_	NNP	_	11	nsubj
 2	born	_	VBN	_	1	acl
@@ -18533,7 +17984,6 @@
 25	at	_	IN	_	26	case
 26	Western	_	NNP	_	24	nmod
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -18546,7 +17996,6 @@
 10	graduated	_	VBD	_	3	parataxis
 11	from	_	IN	_	12	case
 12	Wheaton	_	NNP	_	10	nmod
-
 
 1	John	_	NNP	_	2	compound
 2	1866	_	NNP	_	10	nsubj
@@ -18581,7 +18030,6 @@
 31	the	_	DT	_	32	det
 32	University	_	NNP	_	27	nmod
 
-
 1	Zhang	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -18591,7 +18039,6 @@
 7	graduated	_	VBD	_	3	parataxis
 8	from	_	IN	_	9	case
 9	Xi'an	_	NNP	_	7	nmod
-
 
 1	Michael	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -18604,7 +18051,6 @@
 9	he	_	PRP	_	10	nsubj
 10	entered	_	VBD	_	3	parataxis
 11	United	_	NNP	_	10	dobj
-
 
 1	Essence	_	NN	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -18632,7 +18078,6 @@
 24	at	_	IN	_	25	case
 25	Eastside	_	NNP	_	23	nmod
 
-
 1	Mary	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -18650,7 +18095,6 @@
 15	at	_	IN	_	16	case
 16	St.	_	NNP	_	14	nmod
 
-
 1	Bud	_	NNP	_	4	nsubj
 2	and	_	CC	_	1	cc
 3	dennis	_	NNP	_	1	conj
@@ -18666,7 +18110,6 @@
 13	at	_	IN	_	14	case
 14	Cherryville	_	NNP	_	12	nmod
 
-
 1	Rico	_	NNP	_	2	nsubj
 2	stanislaus	_	VBZ	_	0	ROOT
 3	in	_	IN	_	4	case
@@ -18674,7 +18117,6 @@
 5	in	_	IN	_	6	case
 6	1981	_	CD	_	2	nmod
 7	California	_	NNP	_	2	dobj
-
 
 1	Peter	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -18785,7 +18227,6 @@
 107	the	_	DT	_	108	det
 108	Music	_	NN	_	105	nmod
 
-
 1	Lennard	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -18847,13 +18288,11 @@
 59	Guy	_	NNP	_	56	nmod
 60	's	_	POS	_	59	case
 
-
 1	Malar	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	Case	_	NN	_	2	nmod
-
 
 1	Nicholas	_	NNP	_	8	nsubj
 2	born	_	VBN	_	4	amod
@@ -18874,7 +18313,6 @@
 17	at	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	University	_	NNP	_	16	nmod
-
 
 1	David	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -18897,18 +18335,15 @@
 19	from	_	IN	_	20	case
 20	Yale	_	NNP	_	13	nmod
 
-
 1	John	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	4	case
 4	Boston	_	NNP	_	2	nmod
 
-
 1	Daniel	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	4	case
 4	Loyola	_	NNP	_	2	nmod
-
 
 1	Katherine	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
@@ -18982,7 +18417,6 @@
 70	the	_	DT	_	71	det
 71	Baltimore	_	NNP	_	68	nmod
 
-
 1	Orson	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
 3	appears	_	VBZ	_	1	acl:relcl
@@ -19010,7 +18444,6 @@
 25	is	_	VBZ	_	27	cop
 26	a	_	DT	_	27	det
 27	Battle	_	NN	_	23	acl:relcl
-
 
 1	Riaz	_	NNP	_	8	nsubj
 2	was	_	VBD	_	8	cop
@@ -19076,7 +18509,6 @@
 62	educated	_	VBN	_	59	acl:relcl
 63	at	_	IN	_	64	case
 64	Islamia	_	NNP	_	62	nmod
-
 
 1	Robert	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -19163,7 +18595,6 @@
 83	the	_	DT	_	84	det
 84	University	_	NNP	_	81	nmod
 
-
 1	Kurt	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
 3	september	_	NNP	_	2	xcomp
@@ -19191,11 +18622,9 @@
 25	from	_	IN	_	26	case
 26	Lincoln	_	NNP	_	24	nmod
 
-
 1	Timothy	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Kent	_	NNP	_	2	dobj
-
 
 1	Steve	_	NNP	_	0	ROOT
 2	he	_	PRP	_	4	nsubjpass
@@ -19367,7 +18796,6 @@
 168	presents	_	NNS	_	159	dobj
 169	Kent	_	NNP	_	168	dep
 
-
 1	Arthur	_	NNP	_	2	compound
 2	oc	_	NNP	_	3	nsubj
 3	born	_	VBN	_	0	ROOT
@@ -19413,7 +18841,6 @@
 43	mater	_	NN	_	44	compound
 44	Victoria	_	NNP	_	33	nmod
 
-
 1	Thomas	_	NNP	_	5	compound
 2	the	_	DT	_	5	det
 3	slave	_	NN	_	5	compound
@@ -19452,7 +18879,6 @@
 36	from	_	IN	_	37	case
 37	Trinity	_	NNP	_	35	nmod
 
-
 1	Sheikh	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	6	case
@@ -19476,7 +18902,6 @@
 21	from	_	IN	_	22	case
 22	Beirut	_	NNP	_	20	nmod
 
-
 1	Richard	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	a	_	DT	_	6	det
@@ -19485,7 +18910,6 @@
 6	student	_	NN	_	0	ROOT
 7	at	_	IN	_	8	case
 8	Springfield	_	NNP	_	6	nmod
-
 
 1	Karl	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -19519,11 +18943,9 @@
 30	the	_	DT	_	31	det
 31	Art	_	NNP	_	27	nmod
 
-
 1	Pete	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Mowbray	_	NNP	_	2	dobj
-
 
 1	Simone	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -19543,7 +18965,6 @@
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	12	nmod
 
-
 1	Ganga	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	selected	_	VBN	_	0	ROOT
@@ -19560,7 +18981,6 @@
 14	the	_	DT	_	16	det
 15	imperial	_	JJ	_	16	amod
 16	Durbar	_	NNP	_	12	nmod
-
 
 1	Allison	_	NNP	_	2	nsubj
 2	played	_	VBD	_	0	ROOT
@@ -19604,7 +19024,6 @@
 40	enrolled	_	VBD	_	33	acl:relcl
 41	at	_	IN	_	42	case
 42	Louisiana	_	NNP	_	40	nmod
-
 
 1	Rakesh	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -19696,7 +19115,6 @@
 88	the	_	DT	_	89	det
 89	MIT	_	NNP	_	86	nmod
 
-
 1	Hu	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -19773,7 +19191,6 @@
 74	the	_	DT	_	75	det
 75	Central	_	NNP	_	72	nmod
 
-
 1	Thomas	_	NNP	_	0	ROOT
 2	who	_	WP	_	7	nsubj
 3	had	_	VBD	_	7	aux
@@ -19784,7 +19201,6 @@
 8	at	_	IN	_	10	case
 9	the	_	DT	_	10	det
 10	University	_	NNP	_	7	nmod
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -19803,7 +19219,6 @@
 15	attended	_	VBD	_	13	acl:relcl
 16	Guy	_	NNP	_	15	dobj
 17	's	_	POS	_	16	case
-
 
 1	Kingsley	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -19841,12 +19256,10 @@
 34	to	_	TO	_	35	case
 35	St.	_	NNP	_	33	nmod
 
-
 1	Ruth	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	4	case
 4	University	_	NNP	_	2	nmod
-
 
 1	Lee	_	NNP	_	0	ROOT
 2	where	_	WRB	_	4	advmod
@@ -19855,7 +19268,6 @@
 5	future	_	JJ	_	7	amod
 6	partner	_	NN	_	7	compound
 7	Central	_	NNP	_	4	dobj
-
 
 1	Samuel	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -19888,7 +19300,6 @@
 29	the	_	DT	_	30	det
 30	University	_	NNP	_	27	nmod
 
-
 1	Joyce	_	NNP	_	3	nsubj
 2	also	_	RB	_	3	advmod
 3	plays	_	VBZ	_	0	ROOT
@@ -19909,12 +19320,10 @@
 18	's	_	POS	_	17	case
 19	RMIT	_	NNP	_	12	nmod
 
-
 1	Vladimir	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	4	case
 4	Moscow	_	NNP	_	2	nmod
-
 
 1	Olga	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -19935,7 +19344,6 @@
 17	from	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	Russian	_	NNP	_	16	nmod
-
 
 1	Diana	_	NNP	_	9	nsubj
 2	born	_	VBN	_	3	amod
@@ -19969,7 +19377,6 @@
 30	the	_	DT	_	31	det
 31	University	_	NNP	_	25	nmod
 
-
 1	Dietmar	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
 3	18	_	CD	_	4	nummod
@@ -19997,7 +19404,6 @@
 25	the	_	DT	_	26	det
 26	Graz	_	NNP	_	22	nmod
 
-
 1	Shrestha	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	a	_	DT	_	4	det
@@ -20014,7 +19420,6 @@
 14	from	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	Jiwaji	_	NNP	_	13	nmod
-
 
 1	Adrian	_	NNP	_	11	nsubj
 2	is	_	VBZ	_	11	cop
@@ -20092,7 +19497,6 @@
 74	from	_	IN	_	75	case
 75	South	_	NNP	_	73	nmod
 
-
 1	Margaret	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -20132,7 +19536,6 @@
 37	from	_	IN	_	38	case
 38	School	_	NNP	_	36	nmod
 
-
 1	Lamar	_	NNP	_	14	nsubj
 2	born	_	VBN	_	1	acl
 3	january	_	NNP	_	2	dobj
@@ -20164,7 +19567,6 @@
 29	at	_	IN	_	30	case
 30	Indiana	_	NNP	_	26	nmod
 
-
 1	Peter	_	NNP	_	3	nsubj
 2	also	_	RB	_	3	advmod
 3	known	_	VBN	_	17	csubj
@@ -20193,7 +19595,6 @@
 26	at	_	IN	_	28	case
 27	the	_	DT	_	28	det
 28	University	_	NNP	_	25	nmod
-
 
 1	Sammy	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -20383,7 +19784,6 @@
 186	of	_	IN	_	187	case
 187	Bethel	_	NNP	_	185	nmod
 
-
 1	Vikas	_	NNP	_	2	nsubj
 2	went	_	VBD	_	0	ROOT
 3	to	_	TO	_	5	case
@@ -20410,7 +19810,6 @@
 24	from	_	IN	_	26	case
 25	the	_	DT	_	26	det
 26	Schulich	_	NNP	_	21	nmod
-
 
 1	Max	_	NNP	_	5	compound
 2	original	_	JJ	_	5	amod
@@ -20511,7 +19910,6 @@
 97	at	_	IN	_	98	case
 98	Aquinas	_	NNP	_	94	nmod
 
-
 1	William	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -20526,7 +19924,6 @@
 12	graduated	_	VBD	_	4	acl:relcl
 13	from	_	IN	_	14	case
 14	Yale	_	NNP	_	12	nmod
-
 
 1	William	_	NNP	_	2	compound
 2	february	_	NNP	_	5	nsubj
@@ -20549,7 +19946,6 @@
 19	from	_	IN	_	20	case
 20	Syracuse	_	NNP	_	18	nmod
 
-
 1	Earl	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -20561,7 +19957,6 @@
 9	from	_	IN	_	11	case
 10	the	_	DT	_	11	det
 11	Wharton	_	NNP	_	8	nmod
-
 
 1	Olavi	_	NNP	_	2	compound
 2	december	_	NNP	_	0	ROOT
@@ -20594,7 +19989,6 @@
 29	the	_	DT	_	31	det
 30	first	_	JJ	_	31	amod
 31	World	_	NN	_	23	nmod
-
 
 1	Theresa	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -20693,11 +20087,9 @@
 95	the	_	DT	_	96	det
 96	University	_	NNP	_	89	nmod
 
-
 1	Mark	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Columbia	_	NNP	_	2	dobj
-
 
 1	Terry	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -20775,7 +20167,6 @@
 74	at	_	IN	_	75	case
 75	Stanford	_	NNP	_	73	nmod
 
-
 1	Lisa	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	a	_	DT	_	4	det
@@ -20790,13 +20181,11 @@
 12	the	_	DT	_	13	det
 13	University	_	NNP	_	8	nmod
 
-
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	St	_	NNP	_	3	nmod
-
 
 1	William	_	NNP	_	2	compound
 2	1852	_	NNP	_	5	nsubjpass
@@ -20849,7 +20238,6 @@
 49	prestigious	_	JJ	_	50	amod
 50	Montrose	_	NNP	_	41	nmod
 
-
 1	Jane	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -20863,12 +20251,10 @@
 11	the	_	DT	_	12	det
 12	Royal	_	NNP	_	9	nmod
 
-
 1	George	_	NNP	_	2	nsubj
 2	enrolled	_	VBD	_	0	ROOT
 3	at	_	IN	_	4	case
 4	Florida	_	NNP	_	2	nmod
-
 
 1	Matthew	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -20926,7 +20312,6 @@
 54	from	_	IN	_	55	case
 55	Binghamton	_	NNP	_	53	nmod
 
-
 1	Jack	_	NNP	_	6	compound
 2	jackson	_	NNP	_	6	compound
 3	w	_	NNP	_	6	compound
@@ -20951,7 +20336,6 @@
 22	at	_	IN	_	24	case
 23	the	_	DT	_	24	det
 24	University	_	NNP	_	20	nmod
-
 
 1	Nelson	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -21025,7 +20409,6 @@
 70	the	_	DT	_	71	det
 71	Royal	_	NNP	_	68	nmod
 
-
 1	Earnest	_	NNP	_	16	nsubj
 2	born	_	VBN	_	16	dep
 3	april	_	NNP	_	2	nmod:tmod
@@ -21066,14 +20449,12 @@
 38	at	_	IN	_	39	case
 39	Duke	_	NNP	_	35	nmod
 
-
 1	De	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	classical	_	JJ	_	4	amod
 4	language	_	NN	_	2	dobj
 5	at	_	IN	_	6	case
 6	Leiden	_	NNP	_	2	nmod
-
 
 1	Ralph	_	NNP	_	2	compound
 2	author	_	NN	_	17	nsubj
@@ -21110,7 +20491,6 @@
 33	attended	_	VBD	_	28	ccomp
 34	Phillips	_	NNP	_	33	dobj
 
-
 1	Tapani	_	NNP	_	0	ROOT
 2	one	_	CD	_	1	nummod
 3	of	_	IN	_	6	case
@@ -21133,7 +20513,6 @@
 20	prestigious	_	JJ	_	21	amod
 21	Sibelius	_	NNP	_	6	nmod
 
-
 1	Rachel	_	NNP	_	2	compound
 2	rachel	_	NNP	_	5	nsubj
 3	s	_	VBZ	_	5	compound
@@ -21154,7 +20533,6 @@
 18	graduated	_	VBD	_	12	advcl
 19	from	_	IN	_	20	case
 20	Uppsala	_	NNP	_	18	nmod
-
 
 1	Duane	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -21222,7 +20600,6 @@
 64	from	_	IN	_	65	case
 65	Millikin	_	NNP	_	63	nmod
 
-
 1	James	_	NNP	_	2	compound
 2	june	_	NNP	_	0	ROOT
 3	30	_	CD	_	4	compound
@@ -21238,7 +20615,6 @@
 13	at	_	IN	_	15	case
 14	the	_	DT	_	15	det
 15	University	_	NNP	_	12	nmod
-
 
 1	William	_	NNP	_	0	ROOT
 2	of	_	IN	_	3	case
@@ -21256,7 +20632,6 @@
 14	classes	_	NNS	_	13	dobj
 15	at	_	IN	_	16	case
 16	Edinburgh	_	NNP	_	13	nmod
-
 
 1	Lee	_	NNP	_	4	nsubj
 2	could	_	MD	_	4	aux
@@ -21648,7 +21023,6 @@
 388	the	_	DT	_	389	det
 389	College	_	NNP	_	386	nmod
 
-
 1	Carroll	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -21709,13 +21083,11 @@
 58	from	_	IN	_	59	case
 59	Westminster	_	NNP	_	54	nmod
 
-
 1	Arthur	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	made	_	VBN	_	0	ROOT
 4	a	_	DT	_	5	det
 5	Member	_	NNP	_	3	dobj
-
 
 1	John	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -21778,7 +21150,6 @@
 59	the	_	DT	_	60	det
 60	University	_	NNP	_	57	nmod
 
-
 1	Robert	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -21810,7 +21181,6 @@
 29	from	_	IN	_	30	case
 30	Union	_	NNP	_	26	nmod
 
-
 1	Bill	_	NNP	_	3	nmod:poss
 2	's	_	POS	_	1	case
 3	roommate	_	NN	_	0	ROOT
@@ -21819,7 +21189,6 @@
 6	attended	_	VBD	_	3	acl:relcl
 7	the	_	DT	_	8	det
 8	MIT	_	NNP	_	6	dobj
-
 
 1	Joseph	_	NNP	_	2	compound
 2	c	_	NN	_	12	nsubj
@@ -21875,11 +21244,9 @@
 52	from	_	IN	_	53	case
 53	Brooklyn	_	NNP	_	51	nmod
 
-
 1	Doug	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Central	_	NNP	_	2	dobj
-
 
 1	Chris	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -21902,7 +21269,6 @@
 19	educated	_	VBN	_	16	acl:relcl
 20	at	_	IN	_	21	case
 21	St	_	NNP	_	19	nmod
-
 
 1	Charles	_	NNP	_	8	dep
 2	in	_	IN	_	4	case
@@ -21985,7 +21351,6 @@
 79	alumnus	_	NN	_	80	compound
 80	Carnegie	_	NNP	_	68	nmod
 
-
 1	George	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	a	_	DT	_	4	det
@@ -21993,13 +21358,11 @@
 5	of	_	IN	_	6	case
 6	Mercer	_	NNP	_	4	nmod
 
-
 1	Anatoli	_	NNP	_	2	nsubj
 2	entered	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	Tavricheskaya	_	NNP	_	2	nmod
-
 
 1	Charles	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -22044,7 +21407,6 @@
 41	theater	_	NN	_	29	nmod
 42	at	_	IN	_	43	case
 43	Howard	_	NNP	_	41	nmod
-
 
 1	Thomas	_	NNP	_	12	nsubj
 2	born	_	VBN	_	1	acl
@@ -22093,7 +21455,6 @@
 45	graduated	_	VBD	_	44	acl
 46	from	_	IN	_	47	case
 47	Northwestern	_	NNP	_	45	nmod
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -22175,7 +21536,6 @@
 78	attended	_	VBD	_	73	parataxis
 79	Upper	_	NNP	_	78	dobj
 
-
 1	Jen	_	NN	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	studio	_	NN	_	4	compound
@@ -22184,7 +21544,6 @@
 6	broadcasting	_	VBG	_	2	conj
 7	at	_	IN	_	8	case
 8	Colby	_	NNP	_	6	nmod
-
 
 1	Brianna	_	NNP	_	0	ROOT
 2	at	_	IN	_	9	case
@@ -22196,7 +21555,6 @@
 8	world	_	NN	_	9	compound
 9	championship	_	NN	_	1	nmod
 10	2011	_	CD	_	9	nummod
-
 
 1	Mladen	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -22245,7 +21603,6 @@
 45	at	_	IN	_	47	case
 46	the	_	DT	_	47	det
 47	University	_	NNP	_	38	nmod
-
 
 1	Kabir	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -22338,13 +21695,11 @@
 89	at	_	IN	_	90	case
 90	Stanford	_	NNP	_	88	nmod
 
-
 1	Ivan	_	NNP	_	2	nsubj
 2	entered	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	Tavricheskaya	_	NNP	_	2	nmod
-
 
 1	David	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
@@ -22377,7 +21732,6 @@
 29	from	_	IN	_	30	case
 30	Simi	_	NNP	_	28	nmod
 
-
 1	Basil	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
@@ -22390,7 +21744,6 @@
 10	1962	_	CD	_	3	nmod
 11	and	_	CC	_	3	cc
 12	Merton	_	NNP	_	3	conj
-
 
 1	Henrietta	_	NNP	_	2	nsubj
 2	undertook	_	VBD	_	0	ROOT
@@ -22443,7 +21796,6 @@
 49	the	_	DT	_	50	det
 50	Convention	_	NNP	_	47	nmod
 
-
 1	Babe	_	NNP	_	3	nsubj
 2	had	_	VBD	_	3	aux
 3	hit	_	VBN	_	0	ROOT
@@ -22482,7 +21834,6 @@
 36	the	_	DT	_	37	det
 37	University	_	NNP	_	35	dobj
 
-
 1	James	_	NNP	_	0	ROOT
 2	a	_	DT	_	4	det
 3	poet	_	NN	_	4	compound
@@ -22503,7 +21854,6 @@
 18	graduate	_	NN	_	4	acl:relcl
 19	of	_	IN	_	20	case
 20	Trinity	_	NNP	_	18	nmod
-
 
 1	L.	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -22538,7 +21888,6 @@
 31	d	_	NN	_	28	dobj
 32	from	_	IN	_	33	case
 33	Hamline	_	NNP	_	28	nmod
-
 
 1	Joshua	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -22598,7 +21947,6 @@
 56	of	_	IN	_	57	case
 57	Iowa	_	NNP	_	55	nmod
 
-
 1	Joseph	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -22614,7 +21962,6 @@
 13	from	_	IN	_	14	case
 14	Harvard	_	NNP	_	12	nmod
 
-
 1	George	_	NNP	_	4	compound
 2	the	_	DT	_	4	det
 3	puritan	_	NN	_	4	compound
@@ -22626,7 +21973,6 @@
 9	educated	_	VBN	_	4	acl:relcl
 10	at	_	IN	_	11	case
 11	Emmanuel	_	NNP	_	9	nmod
-
 
 1	Paul	_	NNP	_	2	compound
 2	jr	_	NN	_	4	nsubjpass
@@ -22803,7 +22149,6 @@
 173	attended	_	VBD	_	168	root
 174	San	_	NNP	_	173	dobj
 
-
 1	Graham	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
 3	in	_	IN	_	6	case
@@ -22822,7 +22167,6 @@
 16	educated	_	VBN	_	13	acl:relcl
 17	at	_	IN	_	18	case
 18	Dartford	_	NNP	_	16	nmod
-
 
 1	Ole	_	JJ	_	2	amod
 2	jutland	_	NN	_	14	nsubj
@@ -22865,7 +22209,6 @@
 39	the	_	DT	_	40	det
 40	University	_	NNP	_	36	nmod
 
-
 1	Hugo	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -22878,7 +22221,6 @@
 10	at	_	IN	_	12	case
 11	the	_	DT	_	12	det
 12	Vienna	_	NNP	_	9	nmod
-
 
 1	Bob	_	NNP	_	14	dep
 2	a	_	DT	_	4	det
@@ -22916,11 +22258,9 @@
 34	attended	_	VBD	_	28	acl:relcl
 35	Nordhoff	_	NNP	_	34	dobj
 
-
 1	Jo	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Clockhouse	_	NNP	_	2	dobj
-
 
 1	Achille	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
@@ -22934,14 +22274,12 @@
 10	the	_	DT	_	11	det
 11	Brera	_	NNP	_	4	nmod
 
-
 1	Antonin	_	NNP	_	2	compound
 2	scalia	_	NN	_	3	nsubj
 3	graduated	_	VBD	_	0	ROOT
 4	from	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	University	_	NNP	_	3	nmod
-
 
 1	Friedrich	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -22952,7 +22290,6 @@
 7	graduated	_	VBD	_	3	parataxis
 8	from	_	IN	_	9	case
 9	Leipzig	_	NNP	_	7	nmod
-
 
 1	Paul	_	NNP	_	2	compound
 2	july	_	NNP	_	0	ROOT
@@ -22976,17 +22313,14 @@
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	18	nmod
 
-
 1	Stephen	_	NNP	_	0	ROOT
 2	at	_	IN	_	4	case
 3	the	_	DT	_	4	det
 4	New	_	NNP	_	1	nmod
 
-
 1	Ann	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
 3	Loveland	_	NNP	_	1	dobj
-
 
 1	Russell	_	NNP	_	7	nsubj
 2	of	_	IN	_	4	case
@@ -23016,7 +22350,6 @@
 26	at	_	IN	_	28	case
 27	the	_	DT	_	28	det
 28	University	_	NNP	_	22	nmod
-
 
 1	Richard	_	NNP	_	3	nsubj
 2	has	_	VBZ	_	3	aux
@@ -23082,7 +22415,6 @@
 62	the	_	DT	_	63	det
 63	American	_	NNP	_	56	nmod
 
-
 1	Richard	_	NNP	_	3	nsubj
 2	has	_	VBZ	_	3	aux
 3	written	_	VBN	_	0	ROOT
@@ -23140,7 +22472,6 @@
 55	the	_	DT	_	56	det
 56	American	_	NNP	_	49	nmod
 
-
 1	Annika	_	NNP	_	3	compound
 2	born	_	VBN	_	3	amod
 3	march	_	NN	_	11	nsubj
@@ -23187,7 +22518,6 @@
 44	the	_	DT	_	46	det
 45	2007	_	CD	_	46	nummod
 46	World	_	NN	_	36	nmod
-
 
 1	Ita	_	NN	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -23245,7 +22575,6 @@
 54	she	_	PRP	_	55	nsubj
 55	attended	_	VBD	_	38	dep
 56	Marymount	_	NNP	_	55	dobj
-
 
 1	Georges	_	NNS	_	9	nsubj
 2	of	_	IN	_	3	case
@@ -23371,7 +22700,6 @@
 122	of	_	IN	_	123	case
 123	Georgia	_	NNP	_	121	nmod
 
-
 1	Douglas	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -23429,7 +22757,6 @@
 55	the	_	DT	_	56	det
 56	University	_	NNP	_	53	nmod
 
-
 1	William	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -23448,7 +22775,6 @@
 16	at	_	IN	_	18	case
 17	the	_	DT	_	18	det
 18	Royal	_	NNP	_	15	nmod
-
 
 1	Otto	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -23497,7 +22823,6 @@
 45	the	_	DT	_	46	det
 46	University	_	NNP	_	41	nmod
 
-
 1	Jesse	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -23517,7 +22842,6 @@
 17	graduated	_	VBD	_	7	dep
 18	from	_	IN	_	19	case
 19	Pratt	_	NNP	_	17	nmod
-
 
 1	Reinhold	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -23551,7 +22875,6 @@
 30	program	_	NN	_	31	compound
 31	Stockholm	_	NNP	_	23	dobj
 
-
 1	Dustin	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	an	_	DT	_	6	det
@@ -23580,7 +22903,6 @@
 26	he	_	PRP	_	27	nsubj
 27	attended	_	VBD	_	24	acl:relcl
 28	Clear	_	JJ	_	27	xcomp
-
 
 1	Nahla	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -23647,7 +22969,6 @@
 63	the	_	DT	_	64	det
 64	Lebanese	_	JJ	_	61	nmod
 
-
 1	Reji	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
@@ -23678,7 +22999,6 @@
 28	from	_	IN	_	29	case
 29	Cochin	_	NNP	_	27	nmod
 
-
 1	Wayne	_	NNP	_	2	nsubj
 2	enjoyed	_	VBD	_	0	ROOT
 3	reading	_	VBG	_	2	xcomp
@@ -23699,7 +23019,6 @@
 18	he	_	PRP	_	19	nsubj
 19	attended	_	VBD	_	13	acl:relcl
 20	Notre	_	NNP	_	19	dobj
-
 
 1	High	_	NNP	_	7	nsubj
 2	of	_	IN	_	4	case
@@ -23761,7 +23080,6 @@
 58	at	_	IN	_	59	case
 59	Eton	_	NNP	_	57	nmod
 
-
 1	Bill	_	NNP	_	2	compound
 2	day	_	NN	_	0	ROOT
 3	the	_	DT	_	4	det
@@ -23813,7 +23131,6 @@
 49	music	_	NN	_	46	nmod
 50	from	_	IN	_	51	case
 51	Coastal	_	NNP	_	43	nmod
-
 
 1	Billy	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -23954,7 +23271,6 @@
 137	from	_	IN	_	138	case
 138	California	_	NNP	_	136	nmod
 
-
 1	Simon	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	in	_	IN	_	4	case
@@ -23978,7 +23294,6 @@
 21	the	_	DT	_	22	det
 22	University	_	NNP	_	16	dep
 
-
 1	Deborah	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	awarded	_	VBN	_	0	ROOT
@@ -24001,7 +23316,6 @@
 20	from	_	IN	_	21	case
 21	Staffordshire	_	NNP	_	19	nmod
 
-
 1	Joanna	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	as	_	IN	_	5	case
@@ -24011,7 +23325,6 @@
 7	1954	_	CD	_	2	nmod
 8	from	_	IN	_	9	case
 9	Warsaw	_	NNP	_	2	nmod
-
 
 1	William	_	NNP	_	0	ROOT
 2	the	_	DT	_	3	det
@@ -24049,7 +23362,6 @@
 34	from	_	IN	_	36	case
 35	both	_	DT	_	36	det
 36	Marietta	_	NNP	_	33	nmod
-
 
 1	Anne	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -24115,13 +23427,11 @@
 62	of	_	IN	_	63	case
 63	Mary	_	NNP	_	61	nmod
 
-
 1	Old	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Downside	_	NN	_	3	nmod
-
 
 1	Samuel	_	NNP	_	0	ROOT
 2	who	_	WP	_	6	nsubj
@@ -24164,7 +23474,6 @@
 39	obscure	_	JJ	_	40	amod
 40	Harvard	_	NNP	_	38	xcomp
 
-
 1	Andrew	_	NNP	_	3	compound
 2	ph	_	NN	_	3	compound
 3	d	_	NN	_	7	nsubj
@@ -24196,7 +23505,6 @@
 29	from	_	IN	_	30	case
 30	York	_	NNP	_	25	nmod
 
-
 1	Andrew	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -24222,7 +23530,6 @@
 23	he	_	PRP	_	24	nsubj
 24	attended	_	VBD	_	22	acl:relcl
 25	Harvard	_	NNP	_	24	dobj
-
 
 1	Liu	_	NNP	_	14	nsubj
 2	1898	_	CD	_	1	nummod
@@ -24259,7 +23566,6 @@
 33	the	_	DT	_	34	det
 34	Baoding	_	NNP	_	31	nmod
 
-
 1	Claude	_	NNP	_	0	ROOT
 2	that	_	IN	_	4	dobj
 3	he	_	PRP	_	4	nsubj
@@ -24275,7 +23581,6 @@
 13	at	_	IN	_	15	case
 14	the	_	DT	_	15	det
 15	Art	_	NNP	_	12	nmod
-
 
 1	Barry	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -24321,7 +23626,6 @@
 42	at	_	IN	_	43	case
 43	University	_	NNP	_	41	nmod
 
-
 1	James	_	NNP	_	6	compound
 2	kt	_	NNP	_	6	compound
 3	gcmg	_	NN	_	6	compound
@@ -24349,7 +23653,6 @@
 25	at	_	IN	_	26	case
 26	Merchiston	_	NNP	_	24	nmod
 
-
 1	Brian	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	an	_	DT	_	5	det
@@ -24358,7 +23661,6 @@
 6	from	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	University	_	NNP	_	2	nmod
-
 
 1	Debbie	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
@@ -24398,7 +23700,6 @@
 36	at	_	IN	_	37	case
 37	Edgehill	_	NNP	_	35	nmod
 
-
 1	Brian	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -24410,7 +23711,6 @@
 9	attended	_	VBD	_	3	parataxis
 10	the	_	DT	_	11	det
 11	Moorestown	_	NNP	_	9	dobj
-
 
 1	Grace	_	NNP	_	2	nsubj
 2	moved	_	VBD	_	0	ROOT
@@ -24429,18 +23729,15 @@
 15	attended	_	VBD	_	2	parataxis
 16	San	_	NNP	_	15	dobj
 
-
 1	Aleksey	_	NNP	_	3	compound
 2	student	_	NN	_	3	compound
 3	Yale	_	NNP	_	0	ROOT
-
 
 1	Chris	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Dulwich	_	NNP	_	3	nmod
-
 
 1	Hart	_	NNP	_	13	nsubj
 2	born	_	VBN	_	1	acl
@@ -24485,7 +23782,6 @@
 41	the	_	DT	_	42	det
 42	University	_	NNP	_	39	nmod
 
-
 1	James	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -24509,7 +23805,6 @@
 21	at	_	IN	_	23	case
 22	the	_	DT	_	23	det
 23	Academy	_	NN	_	20	nmod
-
 
 1	Eduardo	_	NNP	_	2	nsubj
 2	became	_	VBD	_	14	csubj
@@ -24539,7 +23834,6 @@
 26	the	_	DT	_	27	det
 27	College	_	NNP	_	25	dobj
 
-
 1	Garba	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -24556,7 +23850,6 @@
 14	at	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	Nigerian	_	JJ	_	13	nmod
-
 
 1	John	_	NNP	_	10	dep
 2	a	_	DT	_	5	det
@@ -24586,7 +23879,6 @@
 26	attend	_	VB	_	23	xcomp
 27	Harvard	_	NNP	_	26	dobj
 
-
 1	Amartya	_	NNP	_	7	compound
 2	and	_	CC	_	1	cc
 3	novelist	_	NN	_	1	conj
@@ -24610,7 +23902,6 @@
 21	studied	_	VBN	_	8	ccomp
 22	at	_	IN	_	23	case
 23	Smith	_	NNP	_	21	nmod
-
 
 1	Arinn	_	NNP	_	6	nsubj
 2	born	_	VBN	_	1	acl
@@ -24665,7 +23956,6 @@
 51	the	_	DT	_	52	det
 52	Clarion	_	NNP	_	50	dobj
 
-
 1	Kate	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -24694,7 +23984,6 @@
 26	on	_	IN	_	25	compound:prt
 27	to	_	TO	_	28	case
 28	Illinois	_	NNP	_	25	nmod
-
 
 1	Michael	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
@@ -24725,7 +24014,6 @@
 27	graduated	_	VBD	_	16	ccomp
 28	from	_	IN	_	29	case
 29	Formula	_	NNP	_	27	nmod
-
 
 1	Claudio	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -24777,7 +24065,6 @@
 48	the	_	DT	_	49	det
 49	Faculty	_	NNP	_	47	dobj
 
-
 1	David	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -24798,7 +24085,6 @@
 18	the	_	DT	_	19	det
 19	American	_	NNP	_	16	nmod
 
-
 1	Joseph	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	the	_	DT	_	4	det
@@ -24811,7 +24097,6 @@
 10	educated	_	VBN	_	4	conj
 11	at	_	IN	_	12	case
 12	Rugby	_	NNP	_	10	nmod
-
 
 1	Anne	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -24847,7 +24132,6 @@
 32	the	_	DT	_	33	det
 33	Washington	_	NNP	_	27	nmod
 
-
 1	Jonathan	_	NNP	_	12	dep
 2	the	_	DT	_	3	det
 3	son	_	NN	_	12	nsubjpass
@@ -24863,12 +24147,10 @@
 13	at	_	IN	_	14	case
 14	Sandford	_	NNP	_	12	nmod
 
-
 1	Richard	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	the	_	DT	_	4	det
 4	City	_	NNP	_	2	dobj
-
 
 1	James	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -24902,13 +24184,11 @@
 30	attended	_	VBD	_	16	conj
 31	Flint	_	NNP	_	30	dobj
 
-
 1	Major	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
 3	graduate	_	NN	_	1	dep
 4	of	_	IN	_	5	case
 5	New	_	NNP	_	3	nmod
-
 
 1	Harold	_	NNP	_	15	nsubj
 2	born	_	VBN	_	1	acl
@@ -24936,7 +24216,6 @@
 24	at	_	IN	_	25	case
 25	Weber	_	NNP	_	23	nmod
 
-
 1	Snell	_	NNP	_	2	compound
 2	oxford	_	NN	_	0	ROOT
 3	where	_	WRB	_	7	advmod
@@ -24944,7 +24223,6 @@
 5	was	_	VBD	_	7	cop
 6	a	_	DT	_	7	det
 7	Balliol	_	NN	_	2	acl:relcl
-
 
 1	Wall	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	0	ROOT
@@ -24996,7 +24274,6 @@
 48	from	_	IN	_	49	case
 49	Harvard	_	NNP	_	44	nmod
 
-
 1	Mun	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -25046,7 +24323,6 @@
 47	the	_	DT	_	48	det
 48	University	_	NNP	_	44	nmod
 
-
 1	Gordon	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -25067,7 +24343,6 @@
 18	educated	_	VBN	_	11	ccomp
 19	at	_	IN	_	20	case
 20	Harvard	_	NNP	_	18	nmod
-
 
 1	William	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
@@ -25214,33 +24489,6 @@
 143	out	_	IN	_	142	advmod
 144	!	_	.	_	89	punct
 
-1	which	_	WDT	_	2	nsubj
-2	premiered	_	VBD	_	0	ROOT
-3	in	_	IN	_	4	case
-4	2006	_	CD	_	2	nmod
-5	and	_	CC	_	2	cc
-6	is	_	VBZ	_	7	auxpass
-7	scheduled	_	VBN	_	2	conj
-8	to	_	TO	_	9	mark
-9	begin	_	VB	_	7	xcomp
-10	a	_	DT	_	12	det
-11	national	_	JJ	_	12	amod
-12	tour	_	NN	_	9	dobj
-13	this	_	DT	_	14	det
-14	year	_	NN	_	9	nmod:tmod
-15	william	_	NN	_	17	nsubj
-16	harper	_	JJ	_	17	advmod
-17	received	_	VBD	_	9	parataxis
-18	a	_	DT	_	19	det
-19	phd	_	NN	_	17	dobj
-20	in	_	IN	_	22	case
-21	music	_	NN	_	22	compound
-22	composition	_	NN	_	17	nmod
-23	from	_	IN	_	25	case
-24	the	_	DT	_	25	det
-25	Eastman	_	NNP	_	22	nmod
-
-
 1	Lai	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	with	_	IN	_	6	case
@@ -25251,7 +24499,6 @@
 8	the	_	DT	_	10	det
 9	former	_	JJ	_	10	amod
 10	Nanyang	_	NNP	_	6	nmod
-
 
 1	Ben	_	NNP	_	8	nsubj
 2	or	_	CC	_	1	cc
@@ -25326,7 +24573,6 @@
 71	yokohama	_	NN	_	72	compound
 72	Masters	_	NN	_	67	nmod
 
-
 1	Dominick	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -25394,7 +24640,6 @@
 65	the	_	DT	_	66	det
 66	New	_	NNP	_	63	nmod
 
-
 1	Tom	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -25447,7 +24692,6 @@
 50	the	_	DT	_	51	det
 51	University	_	NNP	_	48	nmod
 
-
 1	Matt	_	NNP	_	5	nmod:poss
 2	's	_	POS	_	1	case
 3	next	_	JJ	_	5	amod
@@ -25475,7 +24719,6 @@
 25	at	_	IN	_	26	case
 26	Wales	_	NNP	_	24	nmod
 
-
 1	John	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	5	nmod:poss
@@ -25484,7 +24727,6 @@
 6	from	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	University	_	NNP	_	2	nmod
-
 
 1	Juninho	_	NNP	_	2	nsubj
 2	signed	_	VBD	_	0	ROOT
@@ -25516,13 +24758,11 @@
 28	2006	_	CD	_	29	nummod
 29	Copa	_	NN	_	26	nmod
 
-
 1	David	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Newington	_	NNP	_	3	nmod
-
 
 1	Ron	_	NNP	_	7	nsubj
 2	1976	_	CD	_	1	nummod
@@ -25533,7 +24773,6 @@
 7	graduate	_	NN	_	0	ROOT
 8	of	_	IN	_	9	case
 9	Western	_	NN	_	7	nmod
-
 
 1	Anthony	_	NNP	_	0	ROOT
 2	born	_	VBN	_	1	acl
@@ -25553,7 +24792,6 @@
 16	he	_	PRP	_	17	nsubj
 17	attended	_	VBD	_	12	acl:relcl
 18	Ottershaw	_	NNP	_	17	dobj
-
 
 1	Alaina	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -25638,7 +24876,6 @@
 81	from	_	IN	_	82	case
 82	Robert	_	NNP	_	80	nmod
 
-
 1	Georg	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -25700,13 +24937,11 @@
 59	at	_	IN	_	60	case
 60	Bergen	_	NNP	_	54	nmod
 
-
 1	Mary	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	University	_	NNP	_	2	nmod
-
 
 1	Carl	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -25720,7 +24955,6 @@
 10	at	_	IN	_	12	case
 11	the	_	DT	_	12	det
 12	Charles	_	NNP	_	9	nmod
-
 
 1	Claes	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
@@ -25745,7 +24979,6 @@
 21	the	_	DT	_	22	det
 22	World	_	NN	_	12	nmod
 
-
 1	Frank	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -25758,7 +24991,6 @@
 10	graduated	_	VBD	_	3	ccomp
 11	from	_	IN	_	12	case
 12	Lebanon	_	NNP	_	10	nmod
-
 
 1	Eric	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -25785,7 +25017,6 @@
 23	the	_	DT	_	24	det
 24	National	_	NNP	_	17	nmod:tmod
 
-
 1	Samson	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -25795,7 +25026,6 @@
 7	he	_	PRP	_	8	nsubj
 8	attended	_	VBD	_	5	acl:relcl
 9	Kamuzu	_	NNP	_	8	dobj
-
 
 1	Alexander	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -25830,7 +25060,6 @@
 31	he	_	PRP	_	32	nsubj
 32	attended	_	VBD	_	22	dep
 33	Northwestern	_	NNP	_	32	dobj
-
 
 1	Doris	_	NNP	_	7	dobj
 2	in	_	IN	_	3	case
@@ -25889,7 +25118,6 @@
 55	from	_	IN	_	56	case
 56	Smith	_	NNP	_	54	nmod
 
-
 1	Shelly	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -25903,7 +25131,6 @@
 11	from	_	IN	_	13	case
 12	the	_	DT	_	13	det
 13	University	_	NNP	_	8	nmod
-
 
 1	Shelly	_	NNP	_	0	ROOT
 2	a	_	DT	_	6	det
@@ -25920,7 +25147,6 @@
 13	the	_	DT	_	14	det
 14	University	_	NNP	_	9	nmod
 
-
 1	Mike	_	NNP	_	8	nsubj
 2	is	_	VBZ	_	8	cop
 3	an	_	DT	_	8	det
@@ -25934,7 +25160,6 @@
 11	of	_	IN	_	13	case
 12	the	_	DT	_	13	det
 13	University	_	NNP	_	8	nmod
-
 
 1	Enrique	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
@@ -25956,7 +25181,6 @@
 18	at	_	IN	_	20	case
 19	the	_	DT	_	20	det
 20	University	_	NNP	_	14	nmod
-
 
 1	Carley	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -26005,7 +25229,6 @@
 45	from	_	IN	_	46	case
 46	Snow	_	NNP	_	44	nmod
 
-
 1	Mthuli	_	JJ	_	8	nsubj
 2	1947	_	CD	_	3	compound
 3	1972	_	CD	_	1	nummod
@@ -26027,7 +25250,6 @@
 19	attended	_	VBD	_	16	advcl
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	19	dobj
-
 
 1	John	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -26053,7 +25275,6 @@
 22	degree	_	NN	_	19	dobj
 23	from	_	IN	_	24	case
 24	Northern	_	NN	_	19	nmod
-
 
 1	Ray	_	NNP	_	5	compound
 2	soccer	_	NN	_	5	compound
@@ -26104,14 +25325,12 @@
 47	at	_	IN	_	48	case
 48	Kilgore	_	NNP	_	44	nmod
 
-
 1	Abdelgelil	_	NN	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	medicine	_	NN	_	2	dobj
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	Cairo	_	NNP	_	2	nmod
-
 
 1	Sandra	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -26145,7 +25364,6 @@
 30	1981	_	CD	_	26	nmod
 31	from	_	IN	_	32	case
 32	Officer	_	NNP	_	26	nmod
-
 
 1	Edwin	_	NNP	_	5	compound
 2	1888	_	CD	_	3	compound
@@ -26189,7 +25407,6 @@
 40	from	_	IN	_	41	case
 41	Winona	_	NNP	_	37	nmod
 
-
 1	Paul	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -26202,14 +25419,12 @@
 10	at	_	IN	_	11	case
 11	York	_	NNP	_	4	nmod
 
-
 1	Caroline	_	NNP	_	4	compound
 2	first	_	RB	_	4	advmod
 3	female	_	JJ	_	4	amod
 4	graduate	_	NN	_	0	ROOT
 5	of	_	IN	_	6	case
 6	Trinity	_	NNP	_	4	nmod
-
 
 1	Moses	_	NNS	_	2	nsubj
 2	smell	_	VBP	_	0	ROOT
@@ -26229,7 +25444,6 @@
 16	school	_	NN	_	9	nmod
 17	at	_	IN	_	18	case
 18	Beaverton	_	NNP	_	16	nmod
-
 
 1	Lev	_	NNP	_	2	nsubj
 2	russian	_	JJ	_	0	ROOT
@@ -26261,7 +25475,6 @@
 28	from	_	IN	_	30	case
 29	the	_	DT	_	30	det
 30	Moscow	_	NNP	_	27	nmod
-
 
 1	Axel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -26352,7 +25565,6 @@
 87	from	_	IN	_	88	case
 88	Morningside	_	NNP	_	83	nmod
 
-
 1	Charlene	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -26376,7 +25588,6 @@
 21	telecommunications	_	NNS	_	19	nmod
 22	from	_	IN	_	23	case
 23	Indiana	_	NNP	_	21	nmod
-
 
 1	Mohammed	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -26405,7 +25616,6 @@
 25	attended	_	VBD	_	20	acl:relcl
 26	the	_	DT	_	27	det
 27	Mons	_	NNP	_	25	dobj
-
 
 1	Fiona	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -26492,7 +25702,6 @@
 83	the	_	DT	_	84	det
 84	University	_	NNP	_	81	nmod
 
-
 1	John	_	NNP	_	2	compound
 2	brother	_	NN	_	0	ROOT
 3	in	_	IN	_	4	case
@@ -26505,7 +25714,6 @@
 10	educated	_	VBN	_	2	acl:relcl
 11	at	_	IN	_	12	case
 12	Charterhouse	_	NNP	_	10	nmod
-
 
 1	John	_	NNP	_	2	nsubj
 2	made	_	VBD	_	0	ROOT
@@ -26540,7 +25748,6 @@
 31	from	_	IN	_	33	case
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	28	nmod
-
 
 1	Jeremy	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	0	ROOT
@@ -26578,7 +25785,6 @@
 34	from	_	IN	_	36	case
 35	the	_	DT	_	36	det
 36	Western	_	NN	_	33	nmod
-
 
 1	Kelly	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -26638,7 +25844,6 @@
 56	attended	_	VBD	_	40	advcl
 57	Fredericton	_	NNP	_	56	dobj
 
-
 1	Tom	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
 3	a	_	DT	_	7	det
@@ -26658,7 +25863,6 @@
 17	educated	_	VBN	_	7	acl
 18	at	_	IN	_	19	case
 19	Dean	_	NNP	_	17	nmod
-
 
 1	Robert	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -26700,7 +25904,6 @@
 38	graduated	_	VBD	_	32	acl
 39	from	_	IN	_	40	case
 40	Morris	_	NNP	_	38	nmod
-
 
 1	George	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -26772,7 +25975,6 @@
 68	the	_	DT	_	69	det
 69	California	_	NNP	_	66	nmod
 
-
 1	Andy	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -26791,11 +25993,9 @@
 16	attended	_	VBD	_	10	conj
 17	Alpena	_	NNP	_	16	dobj
 
-
 1	Winnie	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Mount	_	NNP	_	2	dobj
-
 
 1	Ismail	_	NNP	_	3	compound
 2	23	_	CD	_	3	nummod
@@ -26855,7 +26055,6 @@
 56	the	_	DT	_	57	det
 57	University	_	NNP	_	54	nmod
 
-
 1	Akram	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -26890,7 +26089,6 @@
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	27	nmod
 
-
 1	David	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -26907,7 +26105,6 @@
 14	at	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	Ohio	_	NNP	_	11	nmod
-
 
 1	John	_	NNP	_	30	nsubj
 2	a	_	DT	_	5	det
@@ -26950,7 +26147,6 @@
 39	's	_	POS	_	38	case
 40	Sheffield	_	NNP	_	35	nmod
 
-
 1	Martin	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
 3	a	_	DT	_	5	det
@@ -26978,7 +26174,6 @@
 25	graduated	_	VBD	_	23	acl:relcl
 26	from	_	IN	_	27	case
 27	Fairfax	_	NNP	_	25	nmod
-
 
 1	Francis	_	NNP	_	16	nsubj
 2	born	_	VBN	_	1	acl
@@ -27031,7 +26226,6 @@
 49	at	_	IN	_	51	case
 50	the	_	DT	_	51	det
 51	University	_	NNP	_	48	nmod
-
 
 1	Stuart	_	NNP	_	2	nsubj
 2	born	_	VBN	_	12	csubj
@@ -27102,7 +26296,6 @@
 67	the	_	DT	_	68	det
 68	University	_	NNP	_	65	nmod
 
-
 1	David	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
 3	july	_	NNP	_	2	xcomp
@@ -27146,7 +26339,6 @@
 41	Queen	_	NNP	_	35	nmod
 42	's	_	POS	_	41	case
 
-
 1	Jerome	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
@@ -27170,7 +26362,6 @@
 21	the	_	DT	_	22	det
 22	University	_	NNP	_	20	dobj
 
-
 1	Steve	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -27191,7 +26382,6 @@
 18	at	_	IN	_	19	case
 19	Cornell	_	NNP	_	14	nmod
 
-
 1	Thomas	_	NNP	_	13	nsubjpass
 2	and	_	CC	_	1	cc
 3	his	_	PRP$	_	7	nmod:poss
@@ -27207,7 +26397,6 @@
 13	educated	_	VBN	_	0	ROOT
 14	at	_	IN	_	15	case
 15	Rugby	_	NNP	_	13	nmod
-
 
 1	Alan	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
@@ -27236,7 +26425,6 @@
 25	at	_	IN	_	26	case
 26	Queen	_	NNP	_	21	conj
 27	's	_	POS	_	26	case
-
 
 1	William	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -27370,7 +26558,6 @@
 130	census	_	NN	_	131	compound
 131	Oberlin	_	NN	_	124	nmod
 
-
 1	Rabbi	_	NN	_	0	ROOT
 2	after	_	IN	_	4	mark
 3	he	_	PRP	_	4	nsubj
@@ -27382,7 +26569,6 @@
 9	at	_	IN	_	11	case
 10	a	_	DT	_	11	det
 11	Beth	_	NNP	_	8	nmod
-
 
 1	Carl	_	NNP	_	5	nsubj
 2	born	_	VBN	_	1	acl
@@ -27403,7 +26589,6 @@
 17	the	_	DT	_	18	det
 18	Fiorello	_	NNP	_	15	nmod
 
-
 1	Abed	_	VBN	_	2	nsubj
 2	got	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	5	nmod:poss
@@ -27411,7 +26596,6 @@
 5	d	_	NN	_	2	dobj
 6	from	_	IN	_	7	case
 7	University	_	NNP	_	2	nmod
-
 
 1	J.	_	NNP	_	13	nsubj
 2	in	_	IN	_	3	case
@@ -27456,7 +26640,6 @@
 41	creating	_	VBG	_	38	advcl
 42	the	_	DT	_	43	det
 43	Wittenberg	_	NNP	_	41	dobj
-
 
 1	Will	_	MD	_	3	aux
 2	was	_	VBD	_	3	auxpass
@@ -27542,7 +26725,6 @@
 82	from	_	IN	_	83	case
 83	Louisiana	_	NNP	_	81	nmod
 
-
 1	Bill	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
 3	political	_	JJ	_	4	amod
@@ -27554,13 +26736,11 @@
 9	the	_	DT	_	10	det
 10	University	_	NNP	_	2	nmod
 
-
 1	Charles	_	NNP	_	0	ROOT
 2	a	_	DT	_	3	det
 3	student	_	NN	_	1	dobj
 4	at	_	IN	_	5	case
 5	Hertford	_	NNP	_	3	nmod
-
 
 1	Asha	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -27625,7 +26805,6 @@
 61	from	_	IN	_	62	case
 62	Wellesley	_	NNP	_	60	nmod
 
-
 1	Humphrey	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	the	_	DT	_	4	det
@@ -27654,7 +26833,6 @@
 26	educated	_	VBN	_	4	acl
 27	at	_	IN	_	28	case
 28	Shrewsbury	_	NNP	_	26	nmod
-
 
 1	Tom	_	NNP	_	3	compound
 2	b	_	NN	_	3	compound
@@ -27727,7 +26905,6 @@
 69	from	_	IN	_	70	case
 70	Loughborough	_	NNP	_	65	nmod
 
-
 1	Alex	_	NNP	_	2	nsubj
 2	began	_	VBD	_	0	ROOT
 3	acting	_	VBG	_	2	xcomp
@@ -27788,7 +26965,6 @@
 58	from	_	IN	_	59	case
 59	Northwestern	_	NNP	_	57	nmod
 
-
 1	Jim	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
 3	a	_	DT	_	7	det
@@ -27831,7 +27007,6 @@
 40	the	_	DT	_	41	det
 41	University	_	NNP	_	34	nmod
 
-
 1	Joe	_	NNP	_	7	nsubj
 2	however	_	RB	_	7	advmod
 3	the	_	DT	_	4	det
@@ -27868,7 +27043,6 @@
 34	the	_	DT	_	35	det
 35	University	_	NNP	_	32	nmod
 
-
 1	Saul	_	NNP	_	0	ROOT
 2	they	_	PRP	_	3	nsubj
 3	moved	_	VBD	_	1	acl:relcl
@@ -27902,7 +27076,6 @@
 31	the	_	DT	_	32	det
 32	San	_	NNP	_	26	nmod
 
-
 1	James	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -27913,7 +27086,6 @@
 8	attended	_	VBD	_	3	parataxis
 9	Friends	_	NNPS	_	8	dobj
 10	'	_	POS	_	9	case
-
 
 1	David	_	NNP	_	2	compound
 2	faia	_	NN	_	7	nsubj
@@ -27956,7 +27128,6 @@
 39	the	_	DT	_	40	det
 40	Royal	_	NNP	_	37	nmod
 
-
 1	Rojhan	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
 3	1974	_	CD	_	1	nummod
@@ -27976,7 +27147,6 @@
 17	studied	_	VBD	_	15	acl:relcl
 18	at	_	IN	_	19	case
 19	Trakya	_	NNP	_	17	nmod
-
 
 1	Ferdo	_	NNP	_	4	compound
 2	and	_	CC	_	1	cc
@@ -27999,7 +27169,6 @@
 19	at	_	IN	_	21	case
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	15	nmod
-
 
 1	Pia	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -28036,7 +27205,6 @@
 33	enrolled	_	VBD	_	27	ccomp
 34	at	_	IN	_	35	case
 35	La	_	NNP	_	33	nmod
-
 
 1	Melba	_	NN	_	0	ROOT
 2	in	_	IN	_	4	case
@@ -28081,7 +27249,6 @@
 41	as	_	IN	_	40	dep
 42	``	_	``	_	41	root
 43	Georgia	_	NNP	_	42	root
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -28139,7 +27306,6 @@
 54	at	_	IN	_	55	case
 55	Georgetown	_	NNP	_	51	nmod
 
-
 1	Ronald	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -28165,7 +27331,6 @@
 23	from	_	IN	_	25	case
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	20	nmod
-
 
 1	Andrew	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -28203,7 +27368,6 @@
 34	at	_	IN	_	36	case
 35	the	_	DT	_	36	det
 36	University	_	NNP	_	31	nmod
-
 
 1	Lawrence	_	NNP	_	2	compound
 2	march	_	NN	_	10	nsubj
@@ -28261,7 +27425,6 @@
 54	from	_	IN	_	55	case
 55	University	_	NNP	_	48	nmod
 
-
 1	James	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -28292,7 +27455,6 @@
 28	he	_	PRP	_	29	nsubj
 29	attended	_	VBD	_	23	parataxis
 30	Aberdeen	_	NNP	_	29	dobj
-
 
 1	Ranjani	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
@@ -28326,7 +27488,6 @@
 30	sculpture	_	NN	_	20	nmod
 31	from	_	IN	_	32	case
 32	Karnataka	_	NNP	_	30	nmod
-
 
 1	Nechama	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -28364,7 +27525,6 @@
 34	from	_	IN	_	36	case
 35	the	_	DT	_	36	det
 36	University	_	NNP	_	33	nmod
-
 
 1	Al	_	NNP	_	7	nsubj
 2	has	_	VBZ	_	7	aux
@@ -28513,7 +27673,6 @@
 145	the	_	DT	_	146	det
 146	University	_	NNP	_	139	dep
 
-
 1	Tom	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	the	_	DT	_	5	det
@@ -28535,7 +27694,6 @@
 19	graduated	_	VBD	_	5	acl
 20	from	_	IN	_	21	case
 21	John	_	NNP	_	19	nmod
-
 
 1	Charles	_	NNP	_	3	nsubj
 2	then	_	RB	_	3	advmod
@@ -28636,14 +27794,12 @@
 97	the	_	DT	_	98	det
 98	Royal	_	NNP	_	95	nmod
 
-
 1	Daniel	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
 4	graduate	_	NN	_	0	ROOT
 5	of	_	IN	_	6	case
 6	Lowell	_	NNP	_	4	nmod
-
 
 1	James	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
@@ -28662,7 +27818,6 @@
 15	went	_	VBD	_	12	acl:relcl
 16	to	_	TO	_	17	mark
 17	Brasenose	_	VB	_	15	xcomp
-
 
 1	Teron	_	NNP	_	2	nsubj
 2	became	_	VBD	_	0	ROOT
@@ -28713,7 +27868,6 @@
 47	from	_	IN	_	48	case
 48	John	_	NNP	_	44	nmod
 
-
 1	Alpheus	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
 3	a	_	DT	_	5	det
@@ -28754,7 +27908,6 @@
 38	the	_	DT	_	39	det
 39	School	_	NNP	_	37	dobj
 
-
 1	F.	_	NNP	_	2	nsubj
 2	performed	_	VBN	_	0	ROOT
 3	in	_	IN	_	4	case
@@ -28775,11 +27928,9 @@
 18	attended	_	VBD	_	14	acl:relcl
 19	Middle	_	NNP	_	18	dobj
 
-
 1	J.	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Dillard	_	NNP	_	2	dobj
-
 
 1	Christian	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -28835,7 +27986,6 @@
 52	at	_	IN	_	53	case
 53	Herlufsholm	_	NNP	_	49	nmod
 
-
 1	Kwabena	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	a	_	DT	_	6	det
@@ -28853,7 +28003,6 @@
 15	at	_	IN	_	17	case
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
-
 
 1	Paul	_	NNP	_	5	compound
 2	``	_	``	_	5	punct
@@ -28910,7 +28059,6 @@
 53	from	_	IN	_	55	case
 54	the	_	DT	_	55	det
 55	University	_	NNP	_	52	nmod
-
 
 1	Paul	_	NNP	_	37	nsubj
 2	a	_	DT	_	4	det
@@ -29010,13 +28158,11 @@
 96	attended	_	VBD	_	82	conj
 97	Mamaroneck	_	NNP	_	96	dobj
 
-
 1	Leigh	_	NNP	_	2	nsubj
 2	trained	_	VBN	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	National	_	NNP	_	2	nmod
-
 
 1	Marc	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	0	ROOT
@@ -29040,7 +28186,6 @@
 20	now	_	RB	_	22	advmod
 21	the	_	DT	_	22	det
 22	University	_	NNP	_	12	nmod:tmod
-
 
 1	Edward	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
@@ -29084,14 +28229,12 @@
 40	the	_	DT	_	41	det
 41	University	_	NNP	_	38	nmod
 
-
 1	Reggie	_	NNP	_	4	dep
 2	he	_	PRP	_	4	nsubjpass
 3	was	_	VBD	_	4	auxpass
 4	educated	_	VBN	_	0	ROOT
 5	at	_	IN	_	6	case
 6	Oundle	_	NNP	_	4	nmod
-
 
 1	Tony	_	NNP	_	0	ROOT
 2	who	_	WP	_	3	nsubj
@@ -29102,7 +28245,6 @@
 7	at	_	IN	_	8	case
 8	Bradley	_	NNP	_	3	nmod
 
-
 1	Ati	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	6	nmod:poss
@@ -29111,7 +28253,6 @@
 6	education	_	NN	_	2	dobj
 7	at	_	IN	_	8	case
 8	Lelean	_	JJ	_	2	nmod
-
 
 1	Ralph	_	NNP	_	4	nsubj
 2	1898	_	CD	_	3	compound
@@ -29133,7 +28274,6 @@
 18	from	_	IN	_	20	case
 19	the	_	DT	_	20	det
 20	University	_	NNP	_	13	nmod
-
 
 1	Henry	_	NNP	_	22	nsubj
 2	and	_	CC	_	1	cc
@@ -29184,11 +28324,9 @@
 47	at	_	IN	_	48	case
 48	Tonbridge	_	NNP	_	46	nmod
 
-
 1	Eddy	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Marcellin	_	NNP	_	2	dobj
-
 
 1	Mitja	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -29215,7 +28353,6 @@
 23	at	_	IN	_	25	case
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	22	nmod
-
 
 1	Lucius	_	NNP	_	3	compound
 2	d	_	NN	_	3	compound
@@ -29247,7 +28384,6 @@
 28	graduate	_	NN	_	20	nmod
 29	of	_	IN	_	30	case
 30	Brown	_	NNP	_	28	nmod
-
 
 1	Timo	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
@@ -29304,7 +28440,6 @@
 53	the	_	DT	_	54	det
 54	University	_	NNP	_	51	nmod
 
-
 1	Ethel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -29319,7 +28454,6 @@
 12	studied	_	VBD	_	7	acl:relcl
 13	at	_	IN	_	14	case
 14	Ohio	_	NNP	_	12	nmod
-
 
 1	Chris	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
@@ -29450,7 +28584,6 @@
 127	the	_	DT	_	128	det
 128	University	_	NNP	_	125	nmod
 
-
 1	Cy	_	NNP	_	0	ROOT
 2	but	_	CC	_	1	cc
 3	soon	_	RB	_	4	advmod
@@ -29567,7 +28700,6 @@
 114	club	_	NN	_	115	compound
 115	New	_	NNP	_	111	dobj
 
-
 1	Polk	_	NNP	_	4	dep
 2	there	_	RB	_	1	advmod
 3	he	_	PRP	_	4	nsubj
@@ -29596,7 +28728,6 @@
 26	at	_	IN	_	27	case
 27	Columbia	_	NNP	_	25	nmod
 
-
 1	Larry	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	an	_	DT	_	4	det
@@ -29606,7 +28737,6 @@
 7	at	_	IN	_	9	case
 8	the	_	DT	_	9	det
 9	University	_	NNP	_	4	nmod
-
 
 1	Vadim	_	NNP	_	10	nsubj
 2	24	_	CD	_	1	nummod
@@ -29682,7 +28812,6 @@
 72	the	_	DT	_	73	det
 73	Academy	_	NN	_	70	nmod
 
-
 1	Emily	_	NNP	_	5	compound
 2	b	_	NN	_	5	compound
 3	1968	_	CD	_	5	nummod
@@ -29717,7 +28846,6 @@
 32	attended	_	VBD	_	27	ccomp
 33	the	_	DT	_	34	det
 34	Courtauld	_	NNP	_	32	dobj
-
 
 1	Aletta	_	NNP	_	8	nsubj
 2	is	_	VBZ	_	8	cop
@@ -29769,7 +28897,6 @@
 48	at	_	IN	_	50	case
 49	the	_	DT	_	50	det
 50	University	_	NNP	_	47	nmod
-
 
 1	Varvara	_	NNP	_	8	nsubj
 2	is	_	VBZ	_	8	cop
@@ -29833,7 +28960,6 @@
 60	the	_	DT	_	61	det
 61	Vaganova	_	NNP	_	58	nmod
 
-
 1	Guy	_	NNP	_	0	ROOT
 2	with	_	IN	_	4	case
 3	creative	_	JJ	_	4	amod
@@ -29848,7 +28974,6 @@
 12	hasler	_	NN	_	10	conj
 13	attended	_	VBD	_	1	advcl
 14	Woodstock	_	NNP	_	13	dobj
-
 
 1	Giuseppe	_	NNP	_	0	ROOT
 2	where	_	WRB	_	4	advmod
@@ -29937,7 +29062,6 @@
 85	children	_	NNS	_	82	nmod
 86	University	_	NNP	_	82	dep
 
-
 1	James	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
 3	an	_	DT	_	7	det
@@ -29953,7 +29077,6 @@
 13	science	_	NN	_	10	conj
 14	at	_	IN	_	15	case
 15	Oregon	_	NNP	_	7	nmod
-
 
 1	Fredrik	_	NNP	_	2	nsubj
 2	began	_	VBD	_	0	ROOT
@@ -30060,7 +29183,6 @@
 103	the	_	DT	_	104	det
 104	Royal	_	NNP	_	94	nmod
 
-
 1	Matthias	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -30078,7 +29200,6 @@
 15	he	_	PRP	_	16	nsubj
 16	attended	_	VBD	_	13	acl:relcl
 17	Volksschule	_	NNP	_	16	dobj
-
 
 1	Andrea	_	NNP	_	0	ROOT
 2	a	_	DT	_	5	det
@@ -30109,7 +29230,6 @@
 27	e	_	SYM	_	28	compound
 28	Stevenson	_	NNP	_	24	nmod
 
-
 1	Ruth	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -30131,7 +29251,6 @@
 19	she	_	PRP	_	20	nsubj
 20	attended	_	VBD	_	18	ccomp
 21	Middlesex	_	NNP	_	20	dobj
-
 
 1	Casey	_	NNP	_	4	nsubj
 2	at	_	IN	_	3	case
@@ -30223,7 +29342,6 @@
 88	ucla	_	NN	_	89	compound
 89	University	_	NNP	_	86	nmod
 
-
 1	Eoin	_	NNP	_	8	nsubj
 2	1923	_	CD	_	3	compound
 3	1972	_	CD	_	1	nummod
@@ -30260,7 +29378,6 @@
 34	he	_	PRP	_	35	nsubj
 35	attended	_	VBD	_	31	acl:relcl
 36	University	_	NNP	_	35	dobj
-
 
 1	David	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -30309,7 +29426,6 @@
 45	university	_	NN	_	46	compound
 46	Medical	_	NNP	_	40	nmod
 
-
 1	Michael	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	the	_	DT	_	4	det
@@ -30317,7 +29433,6 @@
 5	of	_	IN	_	7	case
 6	the	_	DT	_	7	det
 7	Brigham	_	NNP	_	4	nmod
-
 
 1	Parker	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -30366,7 +29481,6 @@
 45	the	_	DT	_	46	det
 46	Edmund	_	NNP	_	44	dobj
 
-
 1	Dudley	_	NNP	_	5	compound
 2	and	_	CC	_	1	cc
 3	lady	_	NN	_	1	conj
@@ -30387,7 +29501,6 @@
 18	educated	_	VBN	_	15	acl:relcl
 19	at	_	IN	_	20	case
 20	Christ	_	NNP	_	18	nmod
-
 
 1	Kehinde	_	NNP	_	2	nsubj
 2	competed	_	VBD	_	0	ROOT
@@ -30422,7 +29535,6 @@
 31	the	_	DT	_	32	det
 32	University	_	NNP	_	29	nmod
 
-
 1	Wendy	_	NN	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
@@ -30449,7 +29561,6 @@
 24	prestigious	_	JJ	_	25	amod
 25	Ascham	_	NN	_	21	nmod
 
-
 1	Spero	_	NNP	_	8	nsubj
 2	born	_	VBN	_	3	amod
 3	1979	_	CD	_	1	nummod
@@ -30470,7 +29581,6 @@
 18	of	_	IN	_	19	case
 19	Paramus	_	NNP	_	17	nmod
 
-
 1	Wilfrid	_	NNP	_	2	nsubj
 2	read	_	VBD	_	0	ROOT
 3	history	_	NN	_	2	dobj
@@ -30488,7 +29598,6 @@
 15	at	_	IN	_	17	case
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
-
 
 1	Jimmy	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -30512,7 +29621,6 @@
 20	he	_	PRP	_	21	nsubj
 21	attended	_	VBD	_	19	acl:relcl
 22	St.	_	NNP	_	21	dobj
-
 
 1	Rusiate	_	VB	_	8	csubj
 2	1927	_	CD	_	3	compound
@@ -30540,7 +29648,6 @@
 24	at	_	IN	_	25	case
 25	Lelean	_	JJ	_	23	nmod
 
-
 1	Eileen	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -30562,7 +29669,6 @@
 19	she	_	PRP	_	20	nsubj
 20	attended	_	VBD	_	3	parataxis
 21	Bradford	_	NNP	_	20	dobj
-
 
 1	Donald	_	NNP	_	3	compound
 2	born	_	VBN	_	3	amod
@@ -30595,7 +29701,6 @@
 29	from	_	IN	_	31	case
 30	the	_	DT	_	31	det
 31	University	_	NNP	_	28	nmod
-
 
 1	George	_	NNP	_	14	nsubj
 2	born	_	VBN	_	1	acl
@@ -30671,7 +29776,6 @@
 72	attended	_	VBD	_	63	ccomp
 73	Tulane	_	NNP	_	72	dobj
 
-
 1	Nate	_	NNP	_	5	compound
 2	born	_	VBN	_	5	amod
 3	nathanael	_	NN	_	5	compound
@@ -30731,7 +29835,6 @@
 57	from	_	IN	_	58	case
 58	Carnegie	_	NNP	_	56	nmod
 
-
 1	Mark	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -30755,7 +29858,6 @@
 21	at	_	IN	_	22	case
 22	University	_	NNP	_	20	nmod
 
-
 1	Roger	_	NNP	_	9	dep
 2	at	_	IN	_	4	case
 3	the	_	DT	_	4	det
@@ -30768,10 +29870,8 @@
 10	at	_	IN	_	11	case
 11	Trinity	_	NNP	_	9	nmod
 
-
 1	Charles	_	NNP	_	2	compound
 2	Bar	_	NNP	_	0	ROOT
-
 
 1	Adam	_	NNP	_	10	nsubj
 2	born	_	VBN	_	1	acl
@@ -30797,7 +29897,6 @@
 22	at	_	IN	_	24	case
 23	the	_	DT	_	24	det
 24	University	_	NNP	_	19	nmod
-
 
 1	Shane	_	NNP	_	2	nsubj
 2	born	_	VBN	_	10	csubj
@@ -30831,7 +29930,6 @@
 30	of	_	IN	_	32	case
 31	the	_	DT	_	32	det
 32	University	_	NNP	_	29	nmod
-
 
 1	Raymond	_	NNP	_	5	compound
 2	raymond	_	NNP	_	5	compound
@@ -30879,7 +29977,6 @@
 44	attended	_	VBD	_	42	acl:relcl
 45	Gonzaga	_	NNP	_	44	dobj
 
-
 1	Boaz	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -30919,7 +30016,6 @@
 37	at	_	IN	_	39	case
 38	the	_	DT	_	39	det
 39	Ohio	_	NNP	_	36	nmod
-
 
 1	Dan	_	NNP	_	2	nsubj
 2	spent	_	VBD	_	0	ROOT
@@ -31118,7 +30214,6 @@
 195	attended	_	VBD	_	186	advcl
 196	Keene	_	NNP	_	195	dobj
 
-
 1	Thomas	_	NNP	_	6	nsubj
 2	born	_	VBN	_	3	amod
 3	1940	_	CD	_	1	nummod
@@ -31162,7 +30257,6 @@
 41	at	_	IN	_	43	case
 42	the	_	DT	_	43	det
 43	University	_	NNP	_	40	nmod
-
 
 1	Bjarni	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -31213,7 +30307,6 @@
 47	distinguished	_	JJ	_	48	amod
 48	American	_	JJ	_	44	nmod
 
-
 1	Myra	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
@@ -31245,7 +30338,6 @@
 29	dba	_	NN	_	27	dobj
 30	from	_	IN	_	31	case
 31	Harvard	_	NNP	_	27	nmod
-
 
 1	Pieter	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -31303,7 +30395,6 @@
 54	the	_	DT	_	55	det
 55	University	_	NNP	_	52	nmod
 
-
 1	Michael	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	his	_	PRP$	_	7	nmod:poss
@@ -31322,7 +30413,6 @@
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
 
-
 1	Peter	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
 3	jillian	_	JJ	_	5	amod
@@ -31335,7 +30425,6 @@
 10	educated	_	VBN	_	7	acl:relcl
 11	at	_	IN	_	12	case
 12	Fox	_	NNP	_	10	nmod
-
 
 1	Michael	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -31354,7 +30443,6 @@
 15	at	_	IN	_	17	case
 16	the	_	DT	_	17	det
 17	University	_	NNP	_	14	nmod
-
 
 1	William	_	NNP	_	2	nsubj
 2	graves	_	VBZ	_	0	ROOT
@@ -31391,7 +30479,6 @@
 33	attended	_	VBD	_	11	conj
 34	the	_	DT	_	35	det
 35	University	_	NNP	_	33	dobj
-
 
 1	Alan	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -31445,7 +30532,6 @@
 50	the	_	DT	_	51	det
 51	Royal	_	NNP	_	43	nmod
 
-
 1	Jared	_	NNP	_	3	nsubj
 2	also	_	RB	_	3	advmod
 3	known	_	VBN	_	12	csubj
@@ -31476,7 +30562,6 @@
 28	attended	_	VBD	_	12	acl:relcl
 29	High	_	JJ	_	28	xcomp
 
-
 1	Jennifer	_	NNP	_	0	ROOT
 2	a	_	DT	_	7	det
 3	working	_	VBG	_	7	amod
@@ -31485,7 +30570,6 @@
 6	witted	_	JJ	_	7	amod
 7	Radcliffe	_	NNP	_	1	dobj
 
-
 1	Jennifer	_	NNP	_	0	ROOT
 2	a	_	DT	_	7	det
 3	working	_	VBG	_	7	amod
@@ -31493,14 +30577,12 @@
 5	quick	_	JJ	_	7	amod
 6	witted	_	JJ	_	7	amod
 7	Radcliffe	_	NNP	_	1	dobj
-
 
 1	James	_	NNP	_	0	ROOT
 2	he	_	PRP	_	3	nsubj
 3	studied	_	VBD	_	1	acl:relcl
 4	at	_	IN	_	5	case
 5	Upper	_	NNP	_	3	nmod
-
 
 1	Darvin	_	NNP	_	0	ROOT
 2	where	_	WRB	_	4	advmod
@@ -31579,7 +30661,6 @@
 75	``	_	``	_	74	punct
 76	Harrison	_	NNP	_	74	dep
 
-
 1	Ron	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	an	_	DT	_	6	det
@@ -31595,11 +30676,9 @@
 13	the	_	DT	_	14	det
 14	California	_	NNP	_	11	nmod
 
-
 1	Margaret	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Vassar	_	NNP	_	2	dobj
-
 
 1	Marc	_	NNP	_	4	compound
 2	born	_	VBN	_	4	amod
@@ -31754,7 +30833,6 @@
 151	the	_	DT	_	152	det
 152	City	_	NNP	_	144	nmod
 
-
 1	Jan	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -31791,7 +30869,6 @@
 34	the	_	DT	_	35	det
 35	University	_	NNP	_	29	nmod
 
-
 1	Samuel	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -31806,7 +30883,6 @@
 12	educated	_	VBN	_	3	parataxis
 13	at	_	IN	_	14	case
 14	Tulane	_	NNP	_	12	nmod
-
 
 1	Lucie	_	NNP	_	4	nsubj
 2	1902	_	CD	_	3	nummod
@@ -31885,7 +30961,6 @@
 75	at	_	IN	_	76	case
 76	Camberwell	_	NNP	_	74	nmod
 
-
 1	Dean	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -31902,7 +30977,6 @@
 14	studied	_	VBD	_	5	conj
 15	at	_	IN	_	16	case
 16	Manchester	_	NNP	_	14	nmod
-
 
 1	King	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -31938,7 +31012,6 @@
 32	graduated	_	VBD	_	18	dep
 33	from	_	IN	_	34	case
 34	Carnegie	_	NNP	_	32	nmod
-
 
 1	Albert	_	NNP	_	2	compound
 2	1862	_	NNP	_	11	nsubj
@@ -32007,7 +31080,6 @@
 65	at	_	IN	_	66	case
 66	Bloxham	_	NNP	_	64	nmod
 
-
 1	Pieter	_	NNP	_	3	nsubj
 2	first	_	RB	_	3	advmod
 3	studied	_	VBD	_	0	ROOT
@@ -32015,7 +31087,6 @@
 5	at	_	IN	_	7	case
 6	the	_	DT	_	7	det
 7	Royal	_	NNP	_	3	nmod
-
 
 1	Mauro	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -32083,7 +31154,6 @@
 64	at	_	IN	_	65	case
 65	Rice	_	NNP	_	63	nmod
 
-
 1	Duggar	_	NNP	_	16	advmod
 2	during	_	IN	_	12	case
 3	the	_	DT	_	12	det
@@ -32102,7 +31172,6 @@
 16	coached	_	VBN	_	0	ROOT
 17	by	_	IN	_	18	case
 18	Virginia	_	NNP	_	16	nmod
-
 
 1	Ahmet	_	NNP	_	2	nsubj
 2	has	_	VBZ	_	0	ROOT
@@ -32126,7 +31195,6 @@
 20	attended	_	VBD	_	6	dep
 21	Adnan	_	NNP	_	20	dobj
 
-
 1	Enid	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
 3	a	_	DT	_	5	det
@@ -32135,7 +31203,6 @@
 6	from	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	Pennsylvania	_	NNP	_	2	nmod
-
 
 1	Chris	_	NNP	_	0	ROOT
 2	in	_	IN	_	3	mark
@@ -32256,7 +31323,6 @@
 117	under	_	IN	_	118	case
 118	Mount	_	NNP	_	116	nmod
 
-
 1	Ray	_	NNP	_	8	compound
 2	marc	_	NN	_	8	compound
 3	ribot	_	NN	_	8	compound
@@ -32294,7 +31360,6 @@
 35	at	_	IN	_	36	case
 36	New	_	NNP	_	34	nmod
 
-
 1	James	_	NNP	_	2	nsubj
 2	grew	_	VBD	_	0	ROOT
 3	up	_	RP	_	2	compound:prt
@@ -32318,7 +31383,6 @@
 21	while	_	IN	_	22	mark
 22	attending	_	VBG	_	2	advcl
 23	Peabody	_	NNP	_	22	dobj
-
 
 1	John	_	NNP	_	2	compound
 2	september	_	NNP	_	0	ROOT
@@ -32382,7 +31446,6 @@
 60	the	_	DT	_	61	det
 61	University	_	NNP	_	55	nmod
 
-
 1	Vanessa	_	NNP	_	0	ROOT
 2	a	_	DT	_	4	det
 3	social	_	JJ	_	4	amod
@@ -32391,7 +31454,6 @@
 6	graduate	_	NN	_	4	conj
 7	of	_	IN	_	8	case
 8	Tufts	_	NNP	_	6	nmod
-
 
 1	Carolee	_	NNP	_	3	compound
 2	b	_	NN	_	3	compound
@@ -32493,7 +31555,6 @@
 98	the	_	DT	_	99	det
 99	California	_	NNP	_	96	nmod
 
-
 1	Jeff	_	NNP	_	7	nsubj
 2	is	_	VBZ	_	7	cop
 3	a	_	DT	_	7	det
@@ -32521,7 +31582,6 @@
 25	alumnus	_	NN	_	0	ROOT
 26	of	_	IN	_	27	case
 27	Evan	_	NNP	_	25	nmod
-
 
 1	Maffeo	_	NNP	_	7	nsubj
 2	1407	_	CD	_	3	compound
@@ -32556,7 +31616,6 @@
 31	at	_	IN	_	33	case
 32	the	_	DT	_	33	det
 33	University	_	NNP	_	30	nmod
-
 
 1	John	_	NNP	_	2	nsubj
 2	won	_	VBD	_	0	ROOT
@@ -32708,14 +31767,12 @@
 148	quarterback	_	NN	_	149	compound
 149	Pullman	_	NNP	_	145	nmod
 
-
 1	Andrew	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	University	_	NNP	_	3	nmod
-
 
 1	Richard	_	NNP	_	6	compound
 2	magdalen	_	NNP	_	6	compound
@@ -32755,25 +31812,21 @@
 36	maker	_	NN	_	0	ROOT
 37	Emanuel	_	NNP	_	36	dep
 
-
 1	Richard	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	5	case
 5	Emanuel	_	NNP	_	3	nmod
 
-
 1	Noam	_	NNP	_	0	ROOT
 2	at	_	IN	_	4	case
 3	the	_	DT	_	4	det
 4	Massachusetts	_	NNP	_	1	nmod
 
-
 1	Richard	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
 3	at	_	IN	_	4	case
 4	Trinity	_	NNP	_	1	conj
-
 
 1	Robin	_	NNP	_	4	amod
 2	and	_	CC	_	1	cc
@@ -32788,7 +31841,6 @@
 11	at	_	IN	_	13	case
 12	the	_	DT	_	13	det
 13	Royal	_	NNP	_	8	nmod
-
 
 1	Edmond	_	NNP	_	3	compound
 2	17	_	CD	_	3	nummod
@@ -32819,7 +31871,6 @@
 27	the	_	DT	_	28	det
 28	University	_	NNP	_	25	nmod
 
-
 1	John	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	the	_	DT	_	5	det
@@ -32828,7 +31879,6 @@
 6	of	_	IN	_	8	case
 7	the	_	DT	_	8	det
 8	Auburn	_	NNP	_	5	nmod
-
 
 1	Angus	_	NNP	_	2	compound
 2	july	_	NNP	_	10	nsubj
@@ -32918,7 +31968,6 @@
 86	the	_	DT	_	87	det
 87	State	_	NN	_	84	nmod
 
-
 1	Lyle	_	NNP	_	2	compound
 2	c	_	NN	_	10	nsubj
 3	1903	_	CD	_	4	nummod
@@ -32941,7 +31990,6 @@
 20	coach	_	NN	_	15	nmod
 21	at	_	IN	_	22	case
 22	Central	_	NNP	_	20	nmod
-
 
 1	Ali	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -32971,7 +32019,6 @@
 26	from	_	IN	_	27	case
 27	California	_	NNP	_	25	nmod
 
-
 1	Fredrik	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	a	_	DT	_	5	det
@@ -32985,7 +32032,6 @@
 11	at	_	IN	_	13	case
 12	the	_	DT	_	13	det
 13	University	_	NNP	_	10	nmod
-
 
 1	Sarah	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -33008,7 +32054,6 @@
 19	attended	_	VBD	_	17	acl:relcl
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	19	dobj
-
 
 1	Fred	_	NNP	_	2	nsubj
 2	has	_	VBZ	_	0	ROOT
@@ -33060,7 +32105,6 @@
 48	from	_	IN	_	50	case
 49	the	_	DT	_	50	det
 50	University	_	NNP	_	38	nmod
-
 
 1	Arne	_	NNP	_	3	compound
 2	20	_	CD	_	3	nummod
@@ -33134,7 +32178,6 @@
 70	the	_	DT	_	71	det
 71	Norwegian	_	JJ	_	67	nmod
 
-
 1	Terence	_	NNP	_	2	compound
 2	governor	_	NN	_	0	ROOT
 3	of	_	IN	_	4	case
@@ -33148,7 +32191,6 @@
 11	educated	_	VBN	_	8	acl:relcl
 12	at	_	IN	_	13	case
 13	Felsted	_	NNP	_	11	nmod
-
 
 1	John	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -33172,7 +32214,6 @@
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	18	nmod
 
-
 1	Frank	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -33188,7 +32229,6 @@
 13	educated	_	VBN	_	3	ccomp
 14	at	_	IN	_	15	case
 15	Harvard	_	NNP	_	13	nmod
-
 
 1	Amber	_	NNP	_	9	nsubj
 2	born	_	VBN	_	1	acl
@@ -33215,7 +32255,6 @@
 23	of	_	IN	_	25	case
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	22	nmod
-
 
 1	William	_	NNP	_	2	nsubj
 2	born	_	VBN	_	0	ROOT
@@ -33249,7 +32288,6 @@
 30	educated	_	VBN	_	27	acl:relcl
 31	at	_	IN	_	32	case
 32	Manchester	_	NNP	_	30	nmod
-
 
 1	William	_	NNP	_	2	compound
 2	1852	_	NNP	_	7	nsubj
@@ -33302,7 +32340,6 @@
 49	from	_	IN	_	50	case
 50	Wofford	_	NNP	_	44	nmod
 
-
 1	Grier	_	NNP	_	0	ROOT
 2	who	_	WP	_	7	nsubj
 3	was	_	VBD	_	7	cop
@@ -33322,7 +32359,6 @@
 17	she	_	PRP	_	18	nsubj
 18	attended	_	VBD	_	16	acl:relcl
 19	Southern	_	NNP	_	18	dobj
-
 
 1	Charles	_	NNP	_	2	nsubj
 2	march	_	VB	_	11	csubj
@@ -33370,7 +32406,6 @@
 44	from	_	IN	_	45	case
 45	Columbia	_	NNP	_	40	nmod
 
-
 1	Jawad	_	NNP	_	3	nsubj
 2	also	_	RB	_	3	advmod
 3	known	_	VBN	_	13	csubjpass
@@ -33386,7 +32421,6 @@
 13	educated	_	VBN	_	0	ROOT
 14	at	_	IN	_	15	case
 15	Forest	_	NN	_	13	nmod
-
 
 1	Nuala	_	NNP	_	9	nsubj
 2	born	_	VBN	_	3	amod
@@ -33493,7 +32527,6 @@
 103	at	_	IN	_	104	case
 104	Yale	_	NNP	_	102	nmod
 
-
 1	Eduardo	_	NNP	_	6	compound
 2	and	_	CC	_	1	cc
 3	maría	_	NNP	_	1	conj
@@ -33516,13 +32549,11 @@
 20	the	_	DT	_	21	det
 21	University	_	NNP	_	19	dobj
 
-
 1	Frances	_	NNP	_	2	nsubj
 2	taught	_	VBD	_	0	ROOT
 3	at	_	IN	_	5	case
 4	the	_	DT	_	5	det
 5	North	_	NNP	_	2	nmod
-
 
 1	Surya	_	NNP	_	2	nsubj
 2	started	_	VBD	_	0	ROOT
@@ -33530,7 +32561,6 @@
 4	education	_	NN	_	2	dobj
 5	at	_	IN	_	6	case
 6	Tribhuvan	_	NNP	_	2	nmod
-
 
 1	Claudia	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
@@ -33542,7 +32572,6 @@
 8	educated	_	VBN	_	5	acl:relcl
 9	at	_	IN	_	10	case
 10	Bradfield	_	NNP	_	8	nmod
-
 
 1	William	_	NNP	_	2	compound
 2	january	_	NNP	_	0	ROOT
@@ -33596,7 +32625,6 @@
 50	the	_	DT	_	51	det
 51	Northwestern	_	NNP	_	49	dobj
 
-
 1	Gerda	_	NNP	_	7	compound
 2	cc	_	NN	_	7	compound
 3	née	_	NN	_	7	compound
@@ -33641,14 +32669,12 @@
 42	the	_	DT	_	43	det
 43	University	_	NNP	_	41	dobj
 
-
 1	Jennifer	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	a	_	DT	_	4	det
 4	graduate	_	NN	_	0	ROOT
 5	of	_	IN	_	6	case
 6	Saint	_	NNP	_	4	nmod
-
 
 1	Edward	_	NNP	_	5	nsubj
 2	was	_	VBD	_	5	cop
@@ -33670,7 +32696,6 @@
 18	at	_	IN	_	19	mark
 19	Lancing	_	VBG	_	17	advcl
 
-
 1	James	_	NNP	_	5	nsubj
 2	is	_	VBZ	_	5	cop
 3	an	_	DT	_	5	det
@@ -33691,7 +32716,6 @@
 18	from	_	IN	_	20	case
 19	the	_	DT	_	20	det
 20	University	_	NNP	_	15	nmod
-
 
 1	Nathaniel	_	NNP	_	5	compound
 2	and	_	CC	_	1	cc
@@ -33738,7 +32762,6 @@
 43	entered	_	VBD	_	38	ccomp
 44	Columbia	_	NNP	_	43	dobj
 
-
 1	Eftimie	_	NN	_	3	compound
 2	caraş	_	NN	_	3	compound
 3	severin	_	NN	_	0	ROOT
@@ -33779,7 +32802,6 @@
 38	the	_	DT	_	39	det
 39	University	_	NNP	_	35	nmod
 
-
 1	Paul	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
 3	an	_	DT	_	6	det
@@ -33800,7 +32822,6 @@
 18	d	_	NN	_	15	dobj
 19	from	_	IN	_	20	case
 20	Emory	_	NNP	_	15	nmod
-
 
 1	Esther	_	NNP	_	0	ROOT
 2	who	_	WP	_	3	nsubj
@@ -33823,7 +32844,6 @@
 19	undergraduate	_	NN	_	3	advcl
 20	at	_	IN	_	21	case
 21	Hunter	_	NNP	_	19	nmod
-
 
 1	Terry	_	NNP	_	3	nmod:poss
 2	's	_	POS	_	1	case
@@ -33863,7 +32883,6 @@
 36	from	_	IN	_	37	case
 37	Middlebury	_	NNP	_	35	nmod
 
-
 1	David	_	NNP	_	6	nsubj
 2	was	_	VBD	_	6	cop
 3	an	_	DT	_	6	det
@@ -33894,7 +32913,6 @@
 28	at	_	IN	_	29	case
 29	Bethany	_	NNP	_	15	conj
 
-
 1	Henry	_	NNP	_	4	compound
 2	wallingford	_	NNP	_	4	compound
 3	riegger	_	NN	_	4	compound
@@ -33922,7 +32940,6 @@
 25	the	_	DT	_	26	det
 26	University	_	NNP	_	23	nmod
 
-
 1	Gabriel	_	NNP	_	0	ROOT
 2	before	_	IN	_	3	mark
 3	entering	_	VBG	_	1	acl
@@ -33945,7 +32962,6 @@
 20	attended	_	VBD	_	11	advcl
 21	the	_	DT	_	22	det
 22	New	_	NNP	_	20	dobj
-
 
 1	Antonio	_	NNP	_	4	compound
 2	born	_	VBN	_	4	amod
@@ -33972,12 +32988,10 @@
 23	from	_	IN	_	24	case
 24	Cornell	_	NNP	_	19	nmod
 
-
 1	John	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	the	_	DT	_	4	det
 4	Dragon	_	NNP	_	2	dobj
-
 
 1	Susan	_	NNP	_	3	nsubj
 2	also	_	RB	_	3	advmod
@@ -34021,7 +33035,6 @@
 40	at	_	IN	_	41	case
 41	Hoover	_	NNP	_	39	nmod
 
-
 1	Henri	_	NNP	_	7	nsubj
 2	born	_	VBN	_	3	amod
 3	1930	_	CD	_	1	nummod
@@ -34037,7 +33050,6 @@
 13	at	_	IN	_	15	case
 14	the	_	DT	_	15	det
 15	1956	_	CD	_	9	nmod
-
 
 1	May	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -34150,7 +33162,6 @@
 109	at	_	IN	_	110	case
 110	American	_	NNP	_	102	nmod
 
-
 1	Ed	_	NNP	_	0	ROOT
 2	from	_	IN	_	3	case
 3	1939	_	CD	_	1	nmod
@@ -34168,14 +33179,12 @@
 15	player	_	NN	_	16	compound
 16	Elon	_	NNP	_	7	dep
 
-
 1	Marvin	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
 4	at	_	IN	_	6	case
 5	the	_	DT	_	6	det
 6	City	_	NNP	_	3	nmod
-
 
 1	Leslie	_	NNP	_	9	nsubj
 2	born	_	VBN	_	3	amod
@@ -34214,7 +33223,6 @@
 35	at	_	IN	_	36	case
 36	Calgary	_	NNP	_	34	nmod
 
-
 1	Alessandro	_	NNP	_	12	nsubj
 2	born	_	VBN	_	1	acl
 3	april	_	NNP	_	2	nmod:tmod
@@ -34233,7 +33241,6 @@
 16	attended	_	VBD	_	12	acl:relcl
 17	the	_	DT	_	18	det
 18	University	_	NNP	_	16	dobj
-
 
 1	Stella	_	NNP	_	6	nsubj
 2	is	_	VBZ	_	6	cop
@@ -34259,7 +33266,6 @@
 22	the	_	DT	_	23	det
 23	University	_	NNP	_	21	dobj
 
-
 1	Forshaw	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -34276,7 +33282,6 @@
 14	at	_	IN	_	16	case
 15	the	_	DT	_	16	det
 16	Royal	_	NNP	_	10	nmod
-
 
 1	Marko	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -34309,7 +33314,6 @@
 29	graduation	_	NN	_	26	nmod
 30	from	_	IN	_	31	case
 31	Sitka	_	NNP	_	29	nmod
-
 
 1	Frederick	_	NNP	_	9	nsubj
 2	and	_	CC	_	1	cc
@@ -34360,7 +33364,6 @@
 47	mater	_	NN	_	48	compound
 48	Norwich	_	NNP	_	43	nmod
 
-
 1	Caspar	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	educated	_	VBN	_	0	ROOT
@@ -34368,11 +33371,9 @@
 5	the	_	DT	_	6	det
 6	Royal	_	NNP	_	3	nmod
 
-
 1	Jesse	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
 3	Bishop	_	NNP	_	2	dobj
-
 
 1	Herbert	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
@@ -34425,7 +33426,6 @@
 49	attended	_	VBD	_	47	acl:relcl
 50	University	_	NNP	_	49	dobj
 
-
 1	William	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	from	_	IN	_	6	case
@@ -34445,7 +33445,6 @@
 17	at	_	IN	_	19	case
 18	the	_	DT	_	19	det
 19	Tyler	_	NNP	_	15	nmod
-
 
 1	Carl	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -34475,7 +33474,6 @@
 26	he	_	PRP	_	27	nsubj
 27	attended	_	VBD	_	25	acl:relcl
 28	Hunter	_	NNP	_	27	dobj
-
 
 1	Erik	_	NNP	_	12	nsubj
 2	born	_	VBN	_	1	acl
@@ -34511,7 +33509,6 @@
 32	the	_	DT	_	33	det
 33	Royal	_	NNP	_	30	nmod
 
-
 1	Avice	_	NNP	_	0	ROOT
 2	who	_	WP	_	3	nsubj
 3	died	_	VBD	_	1	acl:relcl
@@ -34525,7 +33522,6 @@
 11	at	_	IN	_	13	case
 12	the	_	DT	_	13	det
 13	Royal	_	NNP	_	7	nmod
-
 
 1	Alex	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -34690,7 +33686,6 @@
 161	at	_	IN	_	162	case
 162	New	_	NNP	_	159	nmod
 
-
 1	William	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -34756,7 +33751,6 @@
 63	at	_	IN	_	64	case
 64	Downfield	_	NNP	_	54	nmod
 
-
 1	Polina	_	NNP	_	4	nsubj
 2	is	_	VBZ	_	4	cop
 3	the	_	DT	_	4	det
@@ -34782,7 +33776,6 @@
 23	administration	_	NN	_	20	nmod
 24	at	_	IN	_	25	case
 25	Babson	_	NNP	_	17	nmod
-
 
 1	Jon	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
@@ -34810,7 +33803,6 @@
 24	at	_	IN	_	26	case
 25	the	_	DT	_	26	det
 26	University	_	NNP	_	22	conj
-
 
 1	Selina	_	NNP	_	0	ROOT
 2	and	_	CC	_	1	cc
@@ -34850,7 +33842,6 @@
 36	the	_	DT	_	37	det
 37	Bristol	_	NNP	_	34	nmod
 
-
 1	Frank	_	NNP	_	5	nsubjpass
 2	and	_	CC	_	1	cc
 3	he	_	PRP	_	1	conj
@@ -34858,7 +33849,6 @@
 5	educated	_	VBN	_	0	ROOT
 6	at	_	IN	_	7	case
 7	Charterhouse	_	NNP	_	5	nmod
-
 
 1	William	_	NNP	_	30	nsubjpass
 2	an	_	DT	_	4	det
@@ -34910,7 +33900,6 @@
 48	at	_	IN	_	49	case
 49	Magdalen	_	NNP	_	47	nmod
 
-
 1	Rod	_	NNP	_	3	nsubjpass
 2	is	_	VBZ	_	3	auxpass
 3	remembered	_	VBN	_	0	ROOT
@@ -34950,7 +33939,6 @@
 37	the	_	DT	_	38	det
 38	Illawarra	_	NNP	_	32	nmod
 
-
 1	Wolfgang	_	NNP	_	3	nsubjpass
 2	was	_	VBD	_	3	auxpass
 3	born	_	VBN	_	0	ROOT
@@ -34977,7 +33965,6 @@
 24	the	_	DT	_	25	det
 25	University	_	NNP	_	19	nmod
 
-
 1	Amelia	_	NNP	_	2	nsubj
 2	nicknamed	_	VBN	_	0	ROOT
 3	flaming	_	JJ	_	4	amod
@@ -34987,7 +33974,6 @@
 7	media	_	NNS	_	2	nmod
 8	attended	_	VBD	_	2	dep
 9	Work	_	NN	_	8	dobj
-
 
 1	Khurshid	_	NNP	_	2	nsubj
 2	attended	_	VBD	_	0	ROOT
@@ -35026,12 +34012,10 @@
 35	the	_	DT	_	36	det
 36	University	_	NNP	_	32	nmod
 
-
 1	Maajid	_	JJ	_	0	ROOT
 2	studied	_	VBN	_	1	acl
 3	at	_	IN	_	4	case
 4	Newham	_	NNP	_	2	nmod
-
 
 1	Lowell	_	NNP	_	2	compound
 2	lane	_	NN	_	6	nsubj
@@ -35061,7 +34045,6 @@
 26	to	_	TO	_	27	mark
 27	attend	_	VB	_	25	xcomp
 28	Harvard	_	NNP	_	27	dobj
-
 
 1	Frank	_	NNP	_	0	ROOT
 2	as	_	IN	_	4	case
@@ -35113,7 +34096,6 @@
 48	and	_	CC	_	47	cc
 49	atenor	_	NN	_	50	compound
 50	Ghent	_	NN	_	47	conj
-
 
 1	Justin	_	NNP	_	2	nsubj
 2	pronounced	_	VBD	_	0	ROOT
@@ -35199,7 +34181,6 @@
 82	the	_	DT	_	83	det
 83	University	_	NNP	_	81	dobj
 
-
 1	Henry	_	NNP	_	8	dep
 2	of	_	IN	_	5	case
 3	glemham	_	NN	_	5	compound
@@ -35211,7 +34192,6 @@
 9	at	_	IN	_	10	case
 10	Trinity	_	NNP	_	8	nmod
 
-
 1	Donald	_	NNP	_	2	nsubj
 2	graduated	_	VBD	_	0	ROOT
 3	phi	_	NN	_	5	compound
@@ -35219,7 +34199,6 @@
 5	kappa	_	NN	_	2	dobj
 6	from	_	IN	_	7	case
 7	Dickinson	_	NNP	_	2	nmod
-
 
 1	S.	_	NNP	_	0	ROOT
 2	the	_	DT	_	9	det
@@ -35232,7 +34211,6 @@
 9	building	_	NN	_	1	dep
 10	in	_	IN	_	11	case
 11	Raffles	_	NNP	_	9	nmod
-
 
 1	Andrew	_	NNP	_	2	nsubj
 2	received	_	VBD	_	0	ROOT
@@ -35256,7 +34234,6 @@
 20	the	_	DT	_	21	det
 21	Massachusetts	_	NNP	_	16	nmod
 
-
 1	Buck	_	NNP	_	4	compound
 2	and	_	CC	_	1	cc
 3	jon	_	NNP	_	1	conj
@@ -35267,7 +34244,6 @@
 8	degrees	_	NNS	_	5	dobj
 9	from	_	IN	_	10	case
 10	Montana	_	NNP	_	5	nmod
-
 
 1	Gerald	_	NNP	_	2	nsubj
 2	studied	_	VBD	_	0	ROOT
@@ -35305,12 +34281,9 @@
 34	from	_	IN	_	35	case
 35	Los	_	NNP	_	33	nmod
 
-
 1	William	_	NNP	_	4	nsubj
 2	was	_	VBD	_	4	cop
 3	a	_	DT	_	4	det
 4	graduate	_	NN	_	0	ROOT
 5	of	_	IN	_	6	case
 6	Oglethorpe	_	NNP	_	4	nmod
-
-
