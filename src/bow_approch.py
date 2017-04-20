@@ -68,14 +68,6 @@ def create_feature_vectors(data, all_tokens):
         # in the intermediate text
         feature_vector = [0 for t in all_tokens]
         intermediate_text = instance[4]
-        # intermediate_text = intermediate_text.replace("/", " ")
-        # intermediate_text = intermediate_text.replace("-", " ")
-        # intermediate_text = intermediate_text.replace("(", " ")
-        # intermediate_text = intermediate_text.replace(")", " ")
-        # intermediate_text = intermediate_text.replace(".", " ")
-        # intermediate_text = intermediate_text.replace("?", " ")
-        # intermediate_text = intermediate_text.replace(",", " ")
-        # intermediate_text = intermediate_text.replace(";", " ")
         # tokens = intermediate_text.split()
         tokens = nltk.word_tokenize(intermediate_text)
         for token in tokens:
